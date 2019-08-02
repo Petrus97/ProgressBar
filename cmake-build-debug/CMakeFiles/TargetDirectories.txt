@@ -1,0 +1,4 @@
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar_autogen.dir

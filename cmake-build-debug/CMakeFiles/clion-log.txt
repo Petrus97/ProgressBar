@@ -1,0 +1,4 @@
+/home/ale19/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/opt/Qt/5.12.4/gcc_64/lib/cmake -G "CodeBlocks - Unix Makefiles" /home/ale19/CLionProjects/ProgressBar
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ale19/CLionProjects/ProgressBar/cmake-build-debug
