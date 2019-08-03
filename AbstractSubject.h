@@ -28,6 +28,7 @@ public:
     virtual ~AbstractSubject(){}
 
 
+
 private:
     std::list<Observer* > obs;
 };

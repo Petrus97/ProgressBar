@@ -12,7 +12,10 @@
 class Button : public QPushButton, public AbstractSubject{
     Q_OBJECT
 public:
-    explicit Button(QWidget *parent = nullptr);
+    explicit Button(const QString &text, QWidget *parent = nullptr);
+
+
+public slots:
     void onClick();
 private:
     QPushButton* upgrade;

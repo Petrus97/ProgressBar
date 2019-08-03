@@ -19,6 +19,7 @@ public:
 
 private:
     QProgressBar *progressBar;
+    int start_value;
 
 };
 

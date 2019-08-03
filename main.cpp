@@ -8,7 +8,7 @@
 int main(int argc, char *argv[]){
     QApplication a{argc, argv};
     ProgressBar *progressBar = new ProgressBar;
-    Button *button = new Button();
+    Button *button = new Button("Pulsante inutile");
     button->attachObserver(progressBar);
     QWidget *window = new QWidget;
     window->setFixedSize(500, 500);
