@@ -21,7 +21,7 @@ set(AM_QT_UIC_EXECUTABLE "")
 # MOC settings
 set(AM_MOC_SKIP "")
 set(AM_MOC_DEFINITIONS "QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB")
-set(AM_MOC_INCLUDES "/opt/Qt/5.12.4/gcc_64/include;/opt/Qt/5.12.4/gcc_64/include/QtWidgets;/opt/Qt/5.12.4/gcc_64/include/QtGui;/opt/Qt/5.12.4/gcc_64/include/QtCore;/opt/Qt/5.12.4/gcc_64/./mkspecs/linux-g++;/usr/include;/usr/include/c++/6;/usr/include/x86_64-linux-gnu/c++/6;/usr/include/c++/6/backward;/usr/lib/gcc/x86_64-linux-gnu/6/include;/usr/local/include;/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed;/usr/include/x86_64-linux-gnu")
+set(AM_MOC_INCLUDES "/usr/local/include/taglib;/opt/Qt/5.12.4/gcc_64/include;/opt/Qt/5.12.4/gcc_64/include/QtWidgets;/opt/Qt/5.12.4/gcc_64/include/QtGui;/opt/Qt/5.12.4/gcc_64/include/QtCore;/opt/Qt/5.12.4/gcc_64/./mkspecs/linux-g++;/usr/include;/usr/include/c++/6;/usr/include/x86_64-linux-gnu/c++/6;/usr/include/c++/6/backward;/usr/lib/gcc/x86_64-linux-gnu/6/include;/usr/local/include;/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed;/usr/include/x86_64-linux-gnu")
 set(AM_MOC_OPTIONS "")
 set(AM_MOC_RELAXED_MODE "")
 set(AM_MOC_MACRO_NAMES "Q_OBJECT;Q_GADGET;Q_NAMESPACE")

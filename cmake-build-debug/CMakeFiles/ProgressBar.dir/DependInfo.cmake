@@ -21,6 +21,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "ProgressBar_autogen/include"
+  "/usr/local/include/taglib"
   "/opt/Qt/5.12.4/gcc_64/include"
   "/opt/Qt/5.12.4/gcc_64/include/QtWidgets"
   "/opt/Qt/5.12.4/gcc_64/include/QtGui"

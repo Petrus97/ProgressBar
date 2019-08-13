@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -fPIC -std=gnu++14
 
 CXX_DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
 
-CXX_INCLUDES = -I/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/include -isystem /opt/Qt/5.12.4/gcc_64/include -isystem /opt/Qt/5.12.4/gcc_64/include/QtWidgets -isystem /opt/Qt/5.12.4/gcc_64/include/QtGui -isystem /opt/Qt/5.12.4/gcc_64/include/QtCore -isystem /opt/Qt/5.12.4/gcc_64/./mkspecs/linux-g++ 
+CXX_INCLUDES = -I/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/include -I/usr/local/include/taglib -isystem /opt/Qt/5.12.4/gcc_64/include -isystem /opt/Qt/5.12.4/gcc_64/include/QtWidgets -isystem /opt/Qt/5.12.4/gcc_64/include/QtGui -isystem /opt/Qt/5.12.4/gcc_64/include/QtCore -isystem /opt/Qt/5.12.4/gcc_64/./mkspecs/linux-g++ 
 

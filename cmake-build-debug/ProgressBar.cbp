@@ -38,6 +38,7 @@
 					<Add option="-DQT_GUI_LIB"/>
 					<Add option="-DQT_CORE_LIB"/>
 					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/include"/>
+					<Add directory="/usr/local/include/taglib"/>
 					<Add directory="/opt/Qt/5.12.4/gcc_64/include"/>
 					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtWidgets"/>
 					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtGui"/>
@@ -70,6 +71,7 @@
 					<Add option="-DQT_GUI_LIB"/>
 					<Add option="-DQT_CORE_LIB"/>
 					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/include"/>
+					<Add directory="/usr/local/include/taglib"/>
 					<Add directory="/opt/Qt/5.12.4/gcc_64/include"/>
 					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtWidgets"/>
 					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtGui"/>
