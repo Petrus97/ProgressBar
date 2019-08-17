@@ -95,8 +95,6 @@ void *Button::qt_metacast(const char *_clname)
     if (!_clname) return nullptr;
     if (!strcmp(_clname, qt_meta_stringdata_Button.stringdata0))
         return static_cast<void*>(this);
-    if (!strcmp(_clname, "AbstractSubject"))
-        return static_cast< AbstractSubject*>(this);
     return QPushButton::qt_metacast(_clname);
 }
 

@@ -1,0 +1,3641 @@
+
+#############################
+
+01. Beautiful Sin - I'm Real.mp3
+title   - "I'm Real"
+artist  - "Beautiful Sin"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "1"
+genre   - "Rock"
+
+#############################
+
+01. KISS - I Was Made For Lovin' You.mp3
+title   - "I Was Made For Lovin' You"
+artist  - "Kiss"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "1"
+genre   - "Rock"
+
+#############################
+
+01. Korpiklaani - Vodka.mp3
+title   - "Vodka"
+artist  - "Korpiklaani"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "1"
+genre   - "Rock"
+
+#############################
+
+01. Papa Roach -  Last Resort.mp3
+title   - "Last Resort"
+artist  - "Papa Roach"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "1"
+genre   - "Rock"
+
+#############################
+
+01. The Rolling Stones - Anybody Seen My Baby.mp3
+title   - "Anybody Seen My Baby"
+artist  - "The Rolling Stones"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "1"
+genre   - "Rock"
+
+#############################
+
+02. Lovex - Guardian Angel.mp3
+title   - "Guardian Angel"
+artist  - "Lovex"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "2"
+genre   - "Rock"
+
+#############################
+
+02. Luca Turilli's Rhapsody - Luna.mp3
+title   - "Luna"
+artist  - "Luca Turilli's Rhapsody"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "2"
+genre   - "Rock"
+
+#############################
+
+02. Metallica - Enter Sandman.mp3
+title   - "Enter Sandman"
+artist  - "Metallica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "2"
+genre   - "Rock"
+
+#############################
+
+02. Red Hot Chili Peppers - Cant Stop.mp3
+title   - "Can't Stop"
+artist  - "Red Hot Chili Peppers"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "2"
+genre   - "Rock"
+
+#############################
+
+02. The Rolling Stones - Already Over Me.mp3
+title   - "Already Over Me"
+artist  - "The Rolling Stones"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "2"
+genre   - "Rock"
+
+#############################
+
+03. Breed 77 - Zombie.mp3
+title   - "Zombie"
+artist  - "Breed 77"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "3"
+genre   - "Rock"
+
+#############################
+
+03. IceCreamOff - В Минске весна.mp3
+title   - " 8=A:5 25A=0"
+artist  - "IceCreamOff"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "3"
+genre   - "Rock"
+
+#############################
+
+03. Pain - I'm Going In.mp3
+title   - "I'm Going In"
+artist  - "Pain"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "3"
+genre   - "Rock"
+
+#############################
+
+03. Stryper - Calling on You.mp3
+title   - "Calling On You"
+artist  - "Stryper"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "3"
+genre   - "Rock"
+
+#############################
+
+03. Voyager - She Takes Me (Into The Morning Light).mp3
+title   - "She Takes Me (Into The Morning Light)"
+artist  - "Voyager"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "3"
+genre   - "Rock"
+
+#############################
+
+15. Bloodflowerz - Healing Hearts.mp3
+title   - "Healing Hearts"
+artist  - "Bloodflowerz"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "15"
+genre   - "Rock"
+
+#############################
+
+15. King Lizard - Taste the Hate.mp3
+title   - "Taste The Hate"
+artist  - "King Lizard"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "15"
+genre   - "Rock"
+
+#############################
+
+15. Kotipelto -  Reasons.mp3
+title   - "Reasons"
+artist  - "Kotipelto"
+album   - "   ""
+year    - "2004"
+comment - ""
+track   - "15"
+genre   - "Rock"
+
+#############################
+
+15. Metallica - Sad But True.mp3
+title   - "Sad But True"
+artist  - "Metallica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "15"
+genre   - "Rock"
+
+#############################
+
+15. Аркона - Одна.mp3
+title   - "4=0"
+artist  - "@:>=0"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "15"
+genre   - "Rock"
+
+#############################
+
+16. Black Veil Brides  - We Stitch These Wounds.mp3
+title   - "We Stitch These Wounds"
+artist  - "Black Veil Brides"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "16"
+genre   - "Rock"
+
+#############################
+
+16. Ill Nino - The Art Of War.mp3
+title   - "The Art Of War"
+artist  - "Ill Nino"
+album   - "   ""
+year    - "0"
+comment - ""
+track   - "16"
+genre   - "Rock"
+
+#############################
+
+16. Orion Riders - A New Dawn.mp3
+title   - "A New Dawn"
+artist  - "Orion Riders"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "16"
+genre   - "Rock"
+
+#############################
+
+16. Pain - Same Old Song.mp3
+title   - "Same Old Song"
+artist  - "Pain"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "16"
+genre   - "Rock"
+
+#############################
+
+16. Аркона - Память.mp3
+title   - "0<OBL"
+artist  - "@:>=0"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "16"
+genre   - "Rock"
+
+#############################
+
+17. Breed77 - Revolution on my Mind.mp3
+title   - "Revolution on my Mind"
+artist  - "Breed 77"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "17"
+genre   - "Rock"
+
+#############################
+
+17. Iron Maiden - The Trooper.mp3
+title   - "The Trooper"
+artist  - "Iron Maiden"
+album   - "   ""
+year    - "0"
+comment - ""
+track   - "17"
+genre   - "Rock"
+
+#############################
+
+17. Therion - Melez.mp3
+title   - "Melez"
+artist  - "Therion"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "17"
+genre   - "Rock"
+
+#############################
+
+17. Viikate - Se on kivi-iskelmaa.mp3
+title   - "Se on kivi-iskelmaa"
+artist  - "Viikate"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "17"
+genre   - "Rock"
+
+#############################
+
+17. Wanted - Another Day.mp3
+title   - "Another Day"
+artist  - "Wanted"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "17"
+genre   - "Rock"
+
+#############################
+
+28. Виконт - Гордый король.mp3
+title   - ">@4K9 :>@>;L"
+artist  - "8:>=B"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "28"
+genre   - "Rock"
+
+#############################
+
+29. Dire Straits - Iron Hand.mp3
+title   - "Iron Hand"
+artist  - "Dire Straits"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "29"
+genre   - "Rock"
+
+#############################
+
+29. Eihwaz - Delusion.mp3
+title   - "Delusion"
+artist  - "Eihwaz"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "29"
+genre   - "Rock"
+
+#############################
+
+29. Pain - The Great Pretender.mp3
+title   - "The Great Pretender"
+artist  - "Pain"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "29"
+genre   - "Rock"
+
+#############################
+
+29. Papa Roach - Between Angels And Insects.mp3
+title   - "Between Angels And Insects"
+artist  - "Papa Roach"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "29"
+genre   - "Rock"
+
+#############################
+
+29. Valerie - It's Not Love - It's Not War.mp3
+title   - "It's Not Love - It's Not War"
+artist  - "Valerie"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "29"
+genre   - "Rock"
+
+#############################
+
+30. 30 Seconds To Mars - This Is War.mp3
+title   - "This Is War"
+artist  - "30 Seconds To Mars"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "30"
+genre   - "Rock"
+
+#############################
+
+30. Bon Jovi - Mister Big Time.mp3
+title   - "Jon Bon Jovi - Mister Big Time"
+artist  - "Soundtracks"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "30"
+genre   - "Rock"
+
+#############################
+
+30. Dire Straits - Fade to Black.mp3
+title   - "Fade To Black"
+artist  - "Dire Straits"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "30"
+genre   - "Rock"
+
+#############################
+
+30. Metallica - Fade To Black.mp3
+title   - "Fade To Black"
+artist  - "Metallica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "30"
+genre   - "Rock"
+
+#############################
+
+30. Voyager - Stare Into The Night.mp3
+title   - "Stare Into The Night"
+artist  - "Voyager"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "30"
+genre   - "Rock"
+
+#############################
+
+31. Adrana - The Grey Princess.mp3
+title   - "The Grey Princess"
+artist  - "ADRANA"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "31"
+genre   - "Rock"
+
+#############################
+
+31. Europe - The Final Countdown.mp3
+title   - "The Final Countdown"
+artist  - "Europe"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "31"
+genre   - "Rock"
+
+#############################
+
+31. Skin N' Bones - So Far Away.mp3
+title   - "So Far Away"
+artist  - "Skin N' Bones"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "31"
+genre   - "Rock"
+
+#############################
+
+31. Within Temptation - Faster.mp3
+title   - "Faster"
+artist  - "Within Temptation"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "31"
+genre   - "Rock"
+
+#############################
+
+42. Godsmack - Serenity.mp3
+title   - "Serenity"
+artist  - "Godsmack"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "42"
+genre   - "Rock"
+
+#############################
+
+42. Lacuna Coil - Wide Awake.mp3
+title   - "Wide Awake"
+artist  - "Lacuna Coil"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "42"
+genre   - "Rock"
+
+#############################
+
+42. Lovex - Watch Out!.mp3
+title   - "Watch Out!"
+artist  - "Lovex"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "42"
+genre   - "Rock"
+
+#############################
+
+42. Rammstein - Du riechst so gut.mp3
+title   - "Du Riechst So Gut"
+artist  - "Rammstein"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "42"
+genre   - "Rock"
+
+#############################
+
+43. Azazello - Ворожея.mp3
+title   - ">@>65O"
+artist  - "Azazello"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "43"
+genre   - "Rock"
+
+#############################
+
+43. Crashdiet - Generation Wild.mp3
+title   - "Generation Wild"
+artist  - "Crashdiet"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "43"
+genre   - "Rock"
+
+#############################
+
+43. Metallica - Wherever I May Roam.mp3
+title   - "Wherever I May Roam"
+artist  - "Metallica"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "43"
+genre   - "Rock"
+
+#############################
+
+43. Mortal Love - My Shadow Self.mp3
+title   - "My Shadow Self"
+artist  - "Mortal Love"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "43"
+genre   - "Rock"
+
+#############################
+
+43. Myrath - Sour sigh.mp3
+title   - "Sour sigh"
+artist  - "Myrath"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "43"
+genre   - "Rock"
+
+#############################
+
+44. Azazello - Феникс.mp3
+title   - "$5=8:A"
+artist  - "Azazello"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "44"
+genre   - "Rock"
+
+#############################
+
+44. Fatal Smile - Scarecrow.mp3
+title   - "Scarecrow"
+artist  - "Fatal Smile"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "44"
+genre   - "Rock"
+
+#############################
+
+44. Metallica - Wherever I May Roam.mp3
+title   - "Wherever I May Roam"
+artist  - "Metallica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "44"
+genre   - "Rock"
+
+#############################
+
+44. Staccato  - The Beginning Of The Century.mp3
+title   - "The Beginning Of The Century"
+artist  - "Staccato [Argentina]"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "44"
+genre   - "Rock"
+
+#############################
+
+44. System Of A Down -Qquestion.mp3
+title   - "Question!"
+artist  - "System Of A Down"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "44"
+genre   - "Rock"
+
+#############################
+
+45. Guns N' Roses -November Rain.mp3
+title   - "November Rain"
+artist  - "Guns N Roses"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "45"
+genre   - "Rock"
+
+#############################
+
+45. Helldorados - Never Gonna Stop.mp3
+title   - "Never Gonna Stop"
+artist  - "Helldorados"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "45"
+genre   - "Rock"
+
+#############################
+
+45. Masterplan - After This War.mp3
+title   - "After This War"
+artist  - "Masterplan"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "45"
+genre   - "Rock"
+
+#############################
+
+45. Phobos Corp. - One Eternal.mp3
+title   - "One Eternal"
+artist  - "Phobos Corp."
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "45"
+genre   - "Rock"
+
+#############################
+
+45. The Offspring - Gotta Get Away.mp3
+title   - "Gotta Get Away"
+artist  - "The Offspring"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - "C20AF40E"
+track   - "45"
+genre   - "Rock"
+
+#############################
+
+46. Accept -  Living For Tonite.mp3
+title   - "Living For Tonite"
+artist  - "Accept"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "46"
+genre   - "Rock"
+
+#############################
+
+46. Ayreon - Day Sixteen Loser.mp3
+title   - "Day Sixteen: Loser"
+artist  - "Ayreon"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "46"
+genre   - "Rock"
+
+#############################
+
+46. King Lizard - Rain On You.mp3
+title   - "Rain On You"
+artist  - "King Lizard"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "46"
+genre   - "Rock"
+
+#############################
+
+46. Luca Turilli's Rhapsody - Dark Fate Of Atlantis.mp3
+title   - "Rhapsody - Dark Fate Of Atlantis"
+artist  - "Rhapsody"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "46"
+genre   - "Rock"
+
+#############################
+
+04. Fatal Smile - Crush on You.mp3
+title   - "Crush On You"
+artist  - "Fatal Smile"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "4"
+genre   - "Rock"
+
+#############################
+
+07. Offspring - Come Out And Play.mp3
+title   - "Come Out and Play"
+artist  - "Offspring"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "7"
+genre   - "Rock"
+
+#############################
+
+10. Muse - Sing for Absolution .mp3
+title   - "Sing for Absolution"
+artist  - "Muse"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "10"
+genre   - "Rock"
+
+#############################
+
+14. Ritchie Blackmore - Ariel.mp3
+title   - "Ariel"
+artist  - "Ritchie Blackmore"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "14"
+genre   - "Rock"
+
+#############################
+
+18. Breed77 - Petroleo.mp3
+title   - "Petroleo"
+artist  - "Breed 77"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "18"
+genre   - "Rock"
+
+#############################
+
+21. Kamelot - When The Lights Are Down.mp3
+title   - "When The Lights Are Down"
+artist  - "Kamelot"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "21"
+genre   - "Rock"
+
+#############################
+
+24. Rage - Down.mp3
+title   - "Down"
+artist  - "Rage"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "24"
+genre   - "Rock"
+
+#############################
+
+28. Viikate - Sysiassa.mp3
+title   - "Sysiassa"
+artist  - "Viikate"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "30"
+genre   - "Rock"
+
+#############################
+
+31. Черный кофе - Незнакомец.mp3
+title   - "57=0:><5F"
+artist  - "'5@=K9 :>D5"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "31"
+genre   - "Rock"
+
+#############################
+
+35. Alice Cooper - Im Eighteen.mp3
+title   - "I'm Eighteen"
+artist  - "Alice Cooper"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "35"
+genre   - "Rock"
+
+#############################
+
+38. Metallica - Welcome Home (Sanitarium).mp3
+title   - "Welcome Home (Sanitarium)"
+artist  - "Metallica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "38"
+genre   - "Rock"
+
+#############################
+
+42. Falconer - Mindtraveller.mp3
+title   - "Mindtraveller"
+artist  - "Falconer"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "42"
+genre   - "Rock"
+
+#############################
+
+46. The Offspring - Self Esteem.mp3
+title   - "Self Esteem"
+artist  - "The Offspring"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - "C20AF40E"
+track   - "46"
+genre   - "Rock"
+
+#############################
+
+51. Helloween - Perfect Gentleman.mp3
+title   - "Perfect Gentleman"
+artist  - "Helloween"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "51"
+genre   - "Rock"
+
+#############################
+
+54. U.D.O. - Dominator.mp3
+title   - "Dominator"
+artist  - "U.D.O."
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "54"
+genre   - "Rock"
+
+#############################
+
+58. Kotipelto - Travel Through Time.mp3
+title   - "Travel Through Time"
+artist  - "Kotipelto"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "58"
+genre   - "Rock"
+
+#############################
+
+62. Muse - Starlight .mp3
+title   - "Starlight"
+artist  - "Muse"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "62"
+genre   - "Rock"
+
+#############################
+
+07. Steel Panther - Community Property.mp3
+title   - "Community Property"
+artist  - "Steel Panther"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "7"
+genre   - "Rock"
+
+#############################
+
+07. Visions of Atlantis - Maria Magdalena.mp3
+title   - "Begin & End"
+artist  - "Theatre Of Tragedy"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "7"
+genre   - "Rock"
+
+#############################
+
+07. Колизей - Имя твоё.mp3
+title   - "<O "2>Q"
+artist  - ">;875"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "7"
+genre   - "Rock"
+
+#############################
+
+08. Jorn - Bring Heavy Rock To The Land.mp3
+title   - "Bring Heavy Rock To The Land"
+artist  - "Jorn"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "8"
+genre   - "Rock"
+
+#############################
+
+08. Lacuna Coil - Heaven's A Lie.mp3
+title   - "Heaven's a Lie"
+artist  - "Lacuna Coil"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "8"
+genre   - "Rock"
+
+#############################
+
+08. Motley Crue - Mutherfucker Of The Year.mp3
+title   - "Mutherfucker Of The Year"
+artist  - "Motley Crue"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "8"
+genre   - "Rock"
+
+#############################
+
+08. System Of A Down -Innervision.mp3
+title   - "Innervision"
+artist  - "System Of A Down"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "8"
+genre   - "Rock"
+
+#############################
+
+08. Колизей - Сила Воли.mp3
+title   - "!8;0 >;8"
+artist  - ">;8759"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "8"
+genre   - "Rock"
+
+#############################
+
+09. Accept -  Princess Of The Dawn.mp3
+title   - "Princess Of The Dawn"
+artist  - "Accept"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "9"
+genre   - "Rock"
+
+#############################
+
+09. Accept - Kill The Pain.mp3
+title   - "Kill The Pain"
+artist  - "Accept"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "9"
+genre   - "Rock"
+
+#############################
+
+09. Damnation Angels - Kurenai.mp3
+title   - "Kurenai (Bonus Track)"
+artist  - "Damnation Angels"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "9"
+genre   - "Rock"
+
+#############################
+
+09. Helldorados - Go To Hell.mp3
+title   - "Go To Hell"
+artist  - "Helldorados"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "9"
+genre   - "Rock"
+
+#############################
+
+09. Nightwish - Bye Bye Beautiful.mp3
+title   - "Bye Bye Beautiful"
+artist  - "Nightwish"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "9"
+genre   - "Rock"
+
+#############################
+
+10. Accept - Primitive.mp3
+title   - "Primitive"
+artist  - "Accept"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "10"
+genre   - "Rock"
+
+#############################
+
+10. harem scarem - Dark Times.mp3
+title   - "Dark Times"
+artist  - "Harem Scarem"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "10"
+genre   - "Rock"
+
+#############################
+
+21. Marilyn Manson - I Want To Kill You Like They Do In The Movies.mp3
+title   - "I Want To Kill You Like They Do In The Movies"
+artist  - "Marilyn Manson"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "21"
+genre   - "Rock"
+
+#############################
+
+21. Metallica - Master Of Puppets.mp3
+title   - "Master Of Puppets"
+artist  - "Metallica/Metallica"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "21"
+genre   - "Rock"
+
+#############################
+
+22. Metallica - The God That Failed.mp3
+title   - "The God That Failed"
+artist  - "Metallica/Metallica"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "22"
+genre   - "Rock"
+
+#############################
+
+22. Scorpions - Bad Boys Running Wild.mp3
+title   - "Bad Boys Running Wild"
+artist  - "Scorpions"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "22"
+genre   - "Rock"
+
+#############################
+
+22. Shadowicon - Immortal.mp3
+title   - "Immortal"
+artist  - "ShadowIcon"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "22"
+genre   - "Rock"
+
+#############################
+
+22. Sonata Arctica - 8th Commandment.mp3
+title   - "8th Commandment"
+artist  - "Sonata Arctica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "22"
+genre   - "Rock"
+
+#############################
+
+22. Sweet - No You Don't.mp3
+title   - "No You Don't"
+artist  - "Sweet"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "22"
+genre   - "Rock"
+
+#############################
+
+23. Nightwish - Amaranth.mp3
+title   - "Amaranth"
+artist  - "Nightwish"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "23"
+genre   - "Rock"
+
+#############################
+
+23. Rainbow - Ariel.mp3
+title   - "Ariel"
+artist  - "Rainbow"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "23"
+genre   - "Rock"
+
+#############################
+
+23. Sylvanum - Whispering Ghost.mp3
+title   - "Whispering Ghost"
+artist  - "Sylvanum"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "23"
+genre   - "Rock"
+
+#############################
+
+23. Tuff - The All New Generation.mp3
+title   - "The all New Generation"
+artist  - "Tuff"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "23"
+genre   - "Rock"
+
+#############################
+
+23. Фактор Страха - Выше Сил.mp3
+title   - "KH5 !8;"
+artist  - "$0:B>@ !B@0E0"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "23"
+genre   - "Rock"
+
+#############################
+
+24. Emphatica - Nostalgia.mp3
+title   - "Nostalgia"
+artist  - "Emphatica"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "24"
+genre   - "Rock"
+
+#############################
+
+24. Quiet Riot  - Metal Health.mp3
+title   - "Metal Health"
+artist  - "Quiet Riot"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "24"
+genre   - "Rock"
+
+#############################
+
+24. Radiohead - Karma Police.mp3
+title   - "Karma Police"
+artist  - "Radiohead"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "24"
+genre   - "Rock"
+
+#############################
+
+35. Lipstixx 'N' Bulletz - You Poison Me.mp3
+title   - "You Poison Me"
+artist  - "Lipstixx 'N' Bulletz"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "35"
+genre   - "Rock"
+
+#############################
+
+35. Myrath - Tales of the sands.mp3
+title   - "Tales of the sands"
+artist  - "Myrath"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "35"
+genre   - "Rock"
+
+#############################
+
+35. Omega Lithium - Stigmata.mp3
+title   - "Stigmata"
+artist  - "Omega Lithium"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "35"
+genre   - "Rock"
+
+#############################
+
+35. Легион - Мой сон.mp3
+title   - "538>=->9 A>="
+artist  - "538>=->9 A>="
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "35"
+genre   - "Rock"
+
+#############################
+
+36. 36 Crazy Fists - The All Night Lights.mp3
+title   - "The All Night Lights"
+artist  - "36 Crazy Fists"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "36"
+genre   - "Rock"
+
+#############################
+
+36. Metallica - The Day That Never Comes.mp3
+title   - "The Day That Never Comes"
+artist  - "Metallica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "36"
+genre   - "Rock"
+
+#############################
+
+36. Nightwish - Two For Tragedy.mp3
+title   - "Two For Tragedy"
+artist  - "Nightwish"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "36"
+genre   - "Rock"
+
+#############################
+
+36. Scorpions - Tease Me Please Me.mp3
+title   - "Scorpions - Tease Me Please Me"
+artist  - "Various Artists"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "36"
+genre   - "Rock"
+
+#############################
+
+36. Легион -  Невидимый воин.mp3
+title   - "52848<K9 2>8="
+artist  - "538>="
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "36"
+genre   - "Rock"
+
+#############################
+
+37. Amorphis - You I Need.mp3
+title   - "You I Need"
+artist  - "Amorphis"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "37"
+genre   - "Rock"
+
+#############################
+
+37. Breed 77 - The River.mp3
+title   - "The River"
+artist  - "Breed 77"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "37"
+genre   - "Rock"
+
+#############################
+
+37. Fugatta - The Last Wizard.mp3
+title   - "The Last Wizard"
+artist  - "Fugatta"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "37"
+genre   - "Rock"
+
+#############################
+
+37. Labyrinth -Come Together.mp3
+title   - "Come Together"
+artist  - "Labyrinth"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "37"
+genre   - "Rock"
+
+#############################
+
+37. Peep Show - Out for Blood.mp3
+title   - "Out For Blood"
+artist  - "Peep Show"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "37"
+genre   - "Rock"
+
+#############################
+
+38. Krypteria - Eyes Of A Stranger.mp3
+title   - "Eyes Of A Stranger"
+artist  - "Krypteria"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "38"
+genre   - "Rock"
+
+#############################
+
+38. Labyrinth - Moonlight.mp3
+title   - "Moonlight"
+artist  - "Labyrinth"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "38"
+genre   - "Rock"
+
+#############################
+
+51. Motorhead - Love Me Forever.mp3
+title   - "Love Me Forever"
+artist  - "Motorhead"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "51"
+genre   - "Rock"
+
+#############################
+
+51. Shadowicon - Endless Shades Of Pain.mp3
+title   - "Endless Shades Of Pain"
+artist  - "ShadowIcon"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "51"
+genre   - "Rock"
+
+#############################
+
+51. Tracktor Bowling - Время.mp3
+title   - "@5<O"
+artist  - "Tracktor Bowling"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "51"
+genre   - "Rock"
+
+#############################
+
+52. Bon Jovi - You Give Love A Bad Name.mp3
+title   - "You Give Love A Bad Name"
+artist  - "Bon Jovi"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "52"
+genre   - "Rock"
+
+#############################
+
+52. Korpiklaani - Let's Drink.mp3
+title   - "Let's Drink"
+artist  - "Korpiklaani"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "52"
+genre   - "Rock"
+
+#############################
+
+52. Sonata Arctica - Last Drop Falls.mp3
+title   - "Last Drop Falls"
+artist  - "Sonata Arctica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "52"
+genre   - "Rock"
+
+#############################
+
+52. Tracktor Bowling - Холодней.mp3
+title   - "%>;>4=59"
+artist  - "Tracktor Bowling"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - "730B700A"
+track   - "52"
+genre   - "Rock"
+
+#############################
+
+52. Wildpath - Unearthed.mp3
+title   - "Unearthed"
+artist  - "Wildpath"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "52"
+genre   - "Rock"
+
+#############################
+
+53. Desdemon - The Acquiescence Of Illusion.mp3
+title   - "The Acquiescence Of Illusion"
+artist  - "Desdemon"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "53"
+genre   - "Rock"
+
+#############################
+
+53. Megadeth - Promises.mp3
+title   - "Promises"
+artist  - "Megadeth"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "53"
+genre   - "Rock"
+
+#############################
+
+53. QUIREBOYS - Tramps And Thieves.mp3
+title   - "Tramps And Thieves"
+artist  - "Quireboys"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "53"
+genre   - "Rock"
+
+#############################
+
+53. Rammstein - Moskau.mp3
+title   - "Moskau"
+artist  - "Rammstein"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "53"
+genre   - "Rock"
+
+#############################
+
+53. U.D.O. - Bodyworld.mp3
+title   - "Bodyworld"
+artist  - "U.D.O."
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "53"
+genre   - "Rock"
+
+#############################
+
+54. Linkin Park - One Step Closer.mp3
+title   - "One Step Closer"
+artist  - "Linkin Park"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "54"
+genre   - "Rock"
+
+#############################
+
+54. Murderdolls  -  Dead In Hollywood.mp3
+title   - "Dead In Hollywood"
+artist  - "Murderdolls"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "54"
+genre   - "Rock"
+
+#############################
+
+54. Sonata Arctica - Letter to Dana.mp3
+title   - "Letter to Dana"
+artist  - "Sonata Arctica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "54"
+genre   - "Rock"
+
+#############################
+
+58. Leandra - Lullaby.mp3
+title   - "Lullaby"
+artist  - "Leandra"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "58"
+genre   - "Rock"
+
+#############################
+
+58. Manowar - Guyana (Cult Of The Damned).mp3
+title   - "Guyana (Cult Of The Damned)"
+artist  - "Manowar"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "58"
+genre   - "Rock"
+
+#############################
+
+59. Amatory - Сломанный Мир.mp3
+title   - "!;><0==K9 8@"
+artist  - "[Amatory]"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "59"
+genre   - "Rock"
+
+#############################
+
+59. Helloween - I Want Out.mp3
+title   - "I Want Out"
+artist  - "Helloween"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "59"
+genre   - "Rock"
+
+#############################
+
+59. Julian's Lullaby - Sand On Your Hands.mp3
+title   - "Sand On Your Hands"
+artist  - "Julian's Lullaby"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "59"
+genre   - "Rock"
+
+#############################
+
+59. Michael Schenker - Save Yourself.mp3
+title   - "Save Yourself"
+artist  - "Michael Schenker"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "59"
+genre   - "Rock"
+
+#############################
+
+59. Tigertailz - Do It Up.mp3
+title   - "Do it up"
+artist  - "Tigertailz"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "59"
+genre   - "Rock"
+
+#############################
+
+60. 3 Doors Down - Here Without You.mp3
+title   - "Here Without You"
+artist  - "3 Doors Down"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "60"
+genre   - "Rock"
+
+#############################
+
+60. Amatory - Ты Падаешь Вместе Со Мной.mp3
+title   - ""K ?0405HL 2<5AB5 A> <=>9"
+artist  - "NeoNate"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - "0"
+track   - "60"
+genre   - "Rock"
+
+#############################
+
+60. Dokken - Breaking The Chains.mp3
+title   - "Breaking The Chains"
+artist  - "Dokken"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "60"
+genre   - "Rock"
+
+#############################
+
+60. Emphatica - Traces Of You.mp3
+title   - "Traces of You"
+artist  - "Emphatica"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "60"
+genre   - "Rock"
+
+#############################
+
+60. Kamelot - Moonlight.mp3
+title   - "Moonlight"
+artist  - "Kamelot"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "60"
+genre   - "Rock"
+
+#############################
+
+61. Avidas - Free.mp3
+title   - "Free"
+artist  - "Avidas"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "61"
+genre   - "Rock"
+
+#############################
+
+61. Muse - Assassin.mp3
+title   - "Assassin"
+artist  - "Muse"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "61"
+genre   - "Rock"
+
+#############################
+
+61. Oasis - Wonderwall.mp3
+title   - "Wonderwall"
+artist  - "Oasis"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "61"
+genre   - "Rock"
+
+#############################
+
+61. Rammstein - Pussy.mp3
+title   - "Pussy"
+artist  - "Rammstein"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "61"
+genre   - "Rock"
+
+#############################
+
+61. W.A.S.P. - The Titanic Overture.mp3
+title   - "The Titanic Overture"
+artist  - "W.A.S.P."
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "61"
+genre   - "Rock"
+
+#############################
+
+10. Ozzy Osbourne - I Just Want You.mp3
+title   - "I Just Want You"
+artist  - "Ozzy Osbourne"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "10"
+genre   - "Rock"
+
+#############################
+
+10. Seed Of Sadness - Remnant Of A Dying Smile (Feat. Bob Katsionisirewind Outloud).mp3
+title   - "Remnant Of A Dying Smile (Feat. Bob Katsionisirewind Outloud)"
+artist  - "Seed of Sadness"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "10"
+genre   - "Rock"
+
+#############################
+
+11. 30 Seconds To Mars - Closer To The Edge.mp3
+title   - "Closer To The Edge"
+artist  - "30 Seconds To Mars"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "11"
+genre   - "Rock"
+
+#############################
+
+11. Lipstixx 'N' Bulletz - My Heart Belongs To You.mp3
+title   - "My Heart Belongs To You"
+artist  - "Lipstixx 'N' Bulletz"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "11"
+genre   - "Rock"
+
+#############################
+
+11. Nightwish - Bless The Child.mp3
+title   - "Bless The Child"
+artist  - "Nightwish"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "11"
+genre   - "Rock"
+
+#############################
+
+11. Scorpions - In Trance.mp3
+title   - "In Trance"
+artist  - "Scorpions"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "11"
+genre   - "Rock"
+
+#############################
+
+11. Ария - Вампир.mp3
+title   - "0<?8@"
+artist  - "@8O"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "11"
+genre   - "Rock"
+
+#############################
+
+12. Alice Cooper - Poison.mp3
+title   - "Poison"
+artist  - "Alice Cooper"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "12"
+genre   - "Rock"
+
+#############################
+
+12. Bif Naked - Let Down.mp3
+title   - "Let Down"
+artist  - "Bif Naked"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "12"
+genre   - "Rock"
+
+#############################
+
+12. Imperia - Like Rain.mp3
+title   - "Like Rain"
+artist  - "Imperia"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "12"
+genre   - "Rock"
+
+#############################
+
+12. Poison - Look What The Cat Dragged In.mp3
+title   - "Look What the Cat Dragged In"
+artist  - "Poison"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "12"
+genre   - "Rock"
+
+#############################
+
+12. Ария - Воля и разум.mp3
+title   - ">;O 8 @07C<"
+artist  - "@8O"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "12"
+genre   - "Rock"
+
+#############################
+
+13. Guns N' Roses - Dont Cry.mp3
+title   - "Don't Cry (Original)"
+artist  - "Guns N Roses"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "13"
+genre   - "Rock"
+
+#############################
+
+13. My Chemical Romance - Mama.mp3
+title   - "Mama (Guest Vocal)"
+artist  - "My Chemical Romance"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "13"
+genre   - "Rock"
+
+#############################
+
+13. Sylvanum - In Your Eyes.mp3
+title   - "In Your Eyes"
+artist  - "Sylvanum"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "13"
+genre   - "Rock"
+
+#############################
+
+13. Vains of Jenna  -  Smoke On The Water.mp3
+title   - "Smoke On The Water"
+artist  - "Vains Of Jenna"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "13"
+genre   - "Rock"
+
+#############################
+
+13. Viikate - Pohjoista viljaa.mp3
+title   - "Pohjoista viljaa"
+artist  - "Viikate"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "13"
+genre   - "Rock"
+
+#############################
+
+14. Desdemon - In The Absence Of Light.mp3
+title   - "In The Absence Of Light"
+artist  - "Desdemon"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "14"
+genre   - "Rock"
+
+#############################
+
+14. Linkin Park -  Don't Stay.mp3
+title   - "Don't Stay"
+artist  - "Linkin Park"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "14"
+genre   - "Rock"
+
+#############################
+
+14. My Chemical Romance - Im not okay (I Promise).mp3
+title   - "I'm Not Okay (I Promise)"
+artist  - "My Chemical Romance"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "14"
+genre   - "Rock"
+
+#############################
+
+14. Reptile Smile - I Wanna Be There.mp3
+title   - "I wanna be there"
+artist  - "Reptile Smile"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "14"
+genre   - "Rock"
+
+#############################
+
+24. Фактор Страха - Поколение.mp3
+title   - ">:>;5=85"
+artist  - "$0:B>@ !B@0E0"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "24"
+genre   - "Rock"
+
+#############################
+
+25. Black Veil Brides  - Beautiful Remains.mp3
+title   - "Beautiful Remains"
+artist  - "Black Veil Brides"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "25"
+genre   - "Rock"
+
+#############################
+
+25. Dark Whisper - Die Alive (Cover Tarja Turunen).mp3
+title   - "Die Alive (cover Tarja Turunen)"
+artist  - "Dark Whisper"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "25"
+genre   - "Rock"
+
+#############################
+
+25. Gamma Ray - Deadlands.mp3
+title   - "Deadlands"
+artist  - "Gamma Ray"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "25"
+genre   - "Rock"
+
+#############################
+
+25. Lordi feat. Udo Dirkschneider - They Only Come Out At Night.mp3
+title   - "They Only Come Out At Night"
+artist  - "LORDI feat. Udo Dirkschneider"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "25"
+genre   - "Rock"
+
+#############################
+
+25. Metallica - For Whom The Bell Tolls.mp3
+title   - "For Whom The Bell Tolls"
+artist  - "Metallica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "25"
+genre   - "Rock"
+
+#############################
+
+26. Apocalyptica - No Leaf Clover (With Metallica).mp3
+title   - "No Leaf Clover"
+artist  - "Metallica feat. Apocalyptica"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "26"
+genre   - "Rock"
+
+#############################
+
+26. Bang Tango - Suck It Up.mp3
+title   - "suck it up"
+artist  - "Bang Tango"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "26"
+genre   - "Rock"
+
+#############################
+
+26. Evanescence -Bring Me To Life.mp3
+title   - "Bring Me To Life"
+artist  - "Evanescence"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "26"
+genre   - "Rock"
+
+#############################
+
+26. Gamma Ray - Dethrone Tyrany.mp3
+title   - "Dethrone Tyrany"
+artist  - "Gamma Ray"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "26"
+genre   - "Rock"
+
+#############################
+
+26. Myrath - Merciless times.mp3
+title   - "Merciless times"
+artist  - "Myrath"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "26"
+genre   - "Rock"
+
+#############################
+
+27. In Flames - The Chosen Pessimist.mp3
+title   - "The Chosen Pessimist"
+artist  - "In Flames"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "27"
+genre   - "Rock"
+
+#############################
+
+27. Peter Crowley Fantasy Dream - Requiem Of Dreams.mp3
+title   - "Requiem Of Dreams"
+artist  - "Peter Crowley Fantasy Dream"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "27"
+genre   - "Rock"
+
+#############################
+
+27. Rammstein - Sonne.mp3
+title   - "Sonne"
+artist  - "Rammstein"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "27"
+genre   - "Rock"
+
+#############################
+
+27. Skid Row - Beggar's Day.mp3
+title   - "Beggar's Day (Bonus Track - Japan Version)"
+artist  - "Skid Row"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "27"
+genre   - "Rock"
+
+#############################
+
+27. Виконт - Ведьма.mp3
+title   - "54L<0"
+artist  - "8:>=B"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "27"
+genre   - "Rock"
+
+#############################
+
+28. Fatal Smile - Welcome To The Freakshow.mp3
+title   - "Welcome To The Freakshow"
+artist  - "Fatal Smile"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "28"
+genre   - "Rock"
+
+#############################
+
+28. Leaves' Eyes - Empty Horizon.mp3
+title   - "Empty Horizon"
+artist  - "Leaves' Eyes"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "28"
+genre   - "Rock"
+
+#############################
+
+28. Megadeth - A Secret Place.mp3
+title   - "A Secret Place"
+artist  - "Megadeth"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "28"
+genre   - "Rock"
+
+#############################
+
+38. Scorpions -No Pain No Gain.mp3
+title   - "No Pain No Gain"
+artist  - "Scorpions"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "38"
+genre   - "Rock"
+
+#############################
+
+38. Twisted Sister - We're Not Gonna Take It.mp3
+title   - "We're Not Gonna Take It"
+artist  - "Twisted Sister"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "38"
+genre   - "Rock"
+
+#############################
+
+39. Avidas - Tears I Cry.mp3
+title   - "Tears I Cry"
+artist  - "Avidas"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "39"
+genre   - "Rock"
+
+#############################
+
+39. De'cadenta - Butterfly, dance!.mp3
+title   - "Butterfly, dance!"
+artist  - "De'cadenta"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "39"
+genre   - "Rock"
+
+#############################
+
+39. harem scarem - Watch Your Back.mp3
+title   - "Watch Your Back"
+artist  - "Harem Scarem"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "39"
+genre   - "Rock"
+
+#############################
+
+39. Pain - You Only Live Twice.mp3
+title   - "You Only Live Twice"
+artist  - "Pain"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "39"
+genre   - "Rock"
+
+#############################
+
+39. UDO - Blind Eyes.mp3
+title   - "Blind Eyes"
+artist  - "Udo Dirkschneider"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "39"
+genre   - "Rock"
+
+#############################
+
+40. Antalgia - Broken Wings.mp3
+title   - "Broken Wings"
+artist  - "Antalgia"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "40"
+genre   - "Rock"
+
+#############################
+
+40. De'cadenta - In violence we live.mp3
+title   - "In violence we live"
+artist  - "De'cadenta"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "40"
+genre   - "Rock"
+
+#############################
+
+40. Falconer - Catch the shadows.mp3
+title   - "Catch the shadows"
+artist  - "Falconer"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "40"
+genre   - "Rock"
+
+#############################
+
+40. Helloween - I Want Out.mp3
+title   - "I Want Out"
+artist  - "Helloween"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "40"
+genre   - "Rock"
+
+#############################
+
+40. Stryper - In God We Trust.mp3
+title   - "In God We Trust"
+artist  - "Stryper"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "40"
+genre   - "Rock"
+
+#############################
+
+41. Korpiklaani - Tequila.mp3
+title   - "Tequila"
+artist  - "Korpiklaani"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "41"
+genre   - "Rock"
+
+#############################
+
+41. Motley Crue - Girls Girls Girls.mp3
+title   - "Girls, Girls, Girls"
+artist  - "Motley Crue"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "41"
+genre   - "Rock"
+
+#############################
+
+41. Pesante - Overplayed.mp3
+title   - "Overplayed"
+artist  - "Pesante"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "41"
+genre   - "Rock"
+
+#############################
+
+41. Rammstein - Asche zu Asche.mp3
+title   - "Asche Zu Asche"
+artist  - "Rammstein"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "41"
+genre   - "Rock"
+
+#############################
+
+41. Rem - Losing My Religion.mp3
+title   - "Losing My Religion"
+artist  - "REM"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "41"
+genre   - "Rock"
+
+#############################
+
+47. 7000 $ - Вперёд.mp3
+title   - "?5@Q4"
+artist  - "7000 $"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "47"
+genre   - "Rock"
+
+#############################
+
+47. Pleasure Addiction - Couldn't Live Without You.mp3
+title   - "Couldn't Live without You"
+artist  - "PLEASURE ADDICTION"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "47"
+genre   - "Rock"
+
+#############################
+
+47. Rage - In Vain (I Won't Go Down).mp3
+title   - "In Vain"
+artist  - "Rage"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "47"
+genre   - "Rock"
+
+#############################
+
+47. Sonata Arctica - FullMoon.mp3
+title   - "FullMoon"
+artist  - "Sonata Arctica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "47"
+genre   - "Rock"
+
+#############################
+
+47. Whispering Tales - Anesidora.mp3
+title   - "Anesidora"
+artist  - "Whispering Tales"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "47"
+genre   - "Rock"
+
+#############################
+
+48. 7000$ - Get rich or die.mp3
+title   - "Get rich or die"
+artist  - "7000$"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "48"
+genre   - "Rock"
+
+#############################
+
+48. Helloween - Future World.mp3
+title   - "Future World"
+artist  - "Helloween"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "48"
+genre   - "Rock"
+
+#############################
+
+48. Iron Maiden - Phantom of the Opera.mp3
+title   - "Phantom Of The Opera"
+artist  - "Iron Maiden"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "48"
+genre   - "Rock"
+
+#############################
+
+48. Poison - Ride The Wind.mp3
+title   - "Ride the Wind"
+artist  - "Poison"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "48"
+genre   - "Rock"
+
+#############################
+
+48. Sin7sins - Rape & Take.mp3
+title   - "Rape & Take"
+artist  - "Sin7sinS"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "48"
+genre   - "Rock"
+
+#############################
+
+49. Damnation Angels - Shadow Symphony (Pt. IV).mp3
+title   - "Shadow Symphony (Pt. IV)"
+artist  - "Damnation Angels"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "49"
+genre   - "Rock"
+
+#############################
+
+49. Ill Nino - I Am Loco.mp3
+title   - "I Am Loco"
+artist  - "Ill Ni�o"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "49"
+genre   - "Rock"
+
+#############################
+
+49. Poets Of The Fall - Revolution Roulette.mp3
+title   - "Revolution Roulette"
+artist  - "Poets Of The Fall"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "49"
+genre   - "Rock"
+
+#############################
+
+49. Reptile Smile - Crack That Riddle.mp3
+title   - "Crack that riddle"
+artist  - "Reptile Smile"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "49"
+genre   - "Rock"
+
+#############################
+
+49. Within Temptation - Iron.mp3
+title   - "Iron"
+artist  - "Within Temptation"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "49"
+genre   - "Rock"
+
+#############################
+
+50. Ill Nino - God Save Us.mp3
+title   - "God Save Us"
+artist  - "Ill Ni�o"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "50"
+genre   - "Rock"
+
+#############################
+
+50. Kamelot - Karma.mp3
+title   - "Karma"
+artist  - "Kamelot"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "50"
+genre   - "Rock"
+
+#############################
+
+50. Muse - Time Is Running Out .mp3
+title   - "Time Is Running Out"
+artist  - "Muse"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "50"
+genre   - "Rock"
+
+#############################
+
+50. Nitro - My Old Shoes.mp3
+title   - "My Old Shoes"
+artist  - "NITRO"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "50"
+genre   - "Rock"
+
+#############################
+
+50. Therion - Birth Of Venus Illegitima.mp3
+title   - "Birth of Venus Illegitima"
+artist  - "Therion"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "50"
+genre   - "Rock"
+
+#############################
+
+51. Blackrain - Shining Down On You.mp3
+title   - "Shining Down On You (Alternate Version)"
+artist  - "BlackRain"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "51"
+genre   - "Rock"
+
+#############################
+
+54. Visions of Atlantis - Change Of Tides.mp3
+title   - "Change Of Tides"
+artist  - "Visions Of Atlantis"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "54"
+genre   - "Rock"
+
+#############################
+
+55. Ayreon - Ride The Comet.mp3
+title   - "Ride The Comet"
+artist  - "Ayreon"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "55"
+genre   - "Rock"
+
+#############################
+
+55. Rainbow - Wolf to The Moon.mp3
+title   - "Wolf To The Moon"
+artist  - "Rainbow"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "55"
+genre   - "Rock"
+
+#############################
+
+55. Scorpions - Tainted Love.mp3
+title   - "Scorpions - Tainted Love"
+artist  - "Various Artists"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "55"
+genre   - "Rock"
+
+#############################
+
+55. Serenity - Heavenly Mission.mp3
+title   - "Heavenly Mission"
+artist  - "Serenity"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "55"
+genre   - "Rock"
+
+#############################
+
+55. Алиса-Все это Rock'n'Roll.mp3
+title   - "A5 MB> Rock'n'Roll"
+artist  - ";8A0"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "55"
+genre   - "Rock"
+
+#############################
+
+56. HIM - The Funeral of Hearts.mp3
+title   - "The Funeral of Hearts"
+artist  - "HIM"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "56"
+genre   - "Rock"
+
+#############################
+
+56. Myrath - Wide shut.mp3
+title   - "Wide shut"
+artist  - "Myrath"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "56"
+genre   - "Rock"
+
+#############################
+
+56. Pesante - Evermore.mp3
+title   - "Evermore"
+artist  - "Pesante"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "56"
+genre   - "Rock"
+
+#############################
+
+56. Ratt -  Round and Round.mp3
+title   - "Round And Round"
+artist  - "Ratt"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "56"
+genre   - "Rock"
+
+#############################
+
+56. Алиса - Зона.mp3
+title   - ">=0"
+artist  - ";8A0"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "56"
+genre   - "Rock"
+
+#############################
+
+57. Armonight - With Your Knife.mp3
+title   - "With Your Knife"
+artist  - "Armonight"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "57"
+genre   - "Rock"
+
+#############################
+
+57. Iron Savior - Coming Home.mp3
+title   - "Coming Home"
+artist  - "Iron Savior"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "57"
+genre   - "Rock"
+
+#############################
+
+57. Judas Priest -  Painkiller.mp3
+title   - "Painkiller"
+artist  - "Judas Priest"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "57"
+genre   - "Rock"
+
+#############################
+
+57. Sonata Arctica - Broken.mp3
+title   - "Broken"
+artist  - "Sonata Arctica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "57"
+genre   - "Rock"
+
+#############################
+
+57. Warrant   Heaven.mp3
+title   - "Heaven"
+artist  - "Warrant"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "57"
+genre   - "Rock"
+
+#############################
+
+58. Danger Danger - Sick Little Twisted Mind.mp3
+title   - "Sick Little Twisted Mind"
+artist  - "Danger Danger"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "58"
+genre   - "Rock"
+
+#############################
+
+58. Iron Savior - Megatropolis.mp3
+title   - "Megatropolis"
+artist  - "Iron Savior"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "58"
+genre   - "Rock"
+
+#############################
+
+62. Seether - No Resolution.mp3
+title   - "No Resolution"
+artist  - "Seether"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "62"
+genre   - "Rock"
+
+#############################
+
+62. Sonata Arctica - Tallulah.mp3
+title   - "Tallulah"
+artist  - "Sonata Arctica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "62"
+genre   - "Rock"
+
+#############################
+
+62. Vains of Jenna - Goodbye Yellow Brick Road.mp3
+title   - "Goodbye Yellow Brick Road"
+artist  - "Vains Of Jenna"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "62"
+genre   - "Rock"
+
+#############################
+
+63. Scorpions - Humanity.mp3
+title   - "Humanity"
+artist  - "Scorpions"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "63"
+genre   - "Rock"
+
+#############################
+
+63. Static-X - New Pain.mp3
+title   - "New Pain"
+artist  - "Static-X"
+album   - "   ""
+year    - "2012"
+comment - "13+10C6984255E92CF8A3B766C17490EC9F+3329005"
+track   - "63"
+genre   - "Rock"
+
+#############################
+
+63. Steelheart - AHH SONG.mp3
+title   - "Ahh Song"
+artist  - "Steelheart"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "63"
+genre   - "Rock"
+
+#############################
+
+63. Восьмой День - Дождь.mp3
+title   - ">64L"
+artist  - ">AL<>9 5=L"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "63"
+genre   - "Rock"
+
+#############################
+
+64. Enuff Z'nuff - Mary Anne Lost Her Baby.mp3
+title   - "Mary Anne Lost Her Baby"
+artist  - "Enuff Z'Nuff"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "64"
+genre   - "Rock"
+
+#############################
+
+64. Red Hot Chili Peppers - Californication.mp3
+title   - "Californication"
+artist  - "Red Hot Chili Peppers"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "64"
+genre   - "Rock"
+
+#############################
+
+64. Восьмой День - Иллюзии Мертвы.mp3
+title   - ";;N788 5@B2K"
+artist  - ">AL<>9 5=L"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "64"
+genre   - "Rock"
+
+#############################
+
+65. Cinderella - The More Things Change.mp3
+title   - "The More Things Change"
+artist  - "Cinderella"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "65"
+genre   - "Rock"
+
+#############################
+
+65. Led Zeppelin -  Babe I'm Gonna Leave You.mp3
+title   - "BABE I'M GONNA LEAVE YOU"
+artist  - "LED ZEPPELIN"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "65"
+genre   - "Rock"
+
+#############################
+
+66. Bulletboys - Owed to Joe.mp3
+title   - "Owed To Joe"
+artist  - "BulletBoys"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "66"
+genre   - "Rock"
+
+#############################
+
+66. Led Zeppelin - Tea For One.mp3
+title   - "TEA FOR ONE"
+artist  - "LED ZEPPELIN"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "66"
+genre   - "Rock"
+
+#############################
+
+67. Bang Tango - Shotgun Man.mp3
+title   - "Shotgun Man"
+artist  - "Bang Tango"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "67"
+genre   - "Rock"
+
+#############################
+
+67. Linkin Park - One Step Closer.mp3
+title   - "One Step Closer"
+artist  - "Linkin Park"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "67"
+genre   - "Rock"
+
+#############################
+
+68. Rainboow - Can't Let You Go.mp3
+title   - "Rainboow - Can't Let You Go"
+artist  - "Various Artists"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "68"
+genre   - "Rock"
+
+#############################
+
+69. Suzi Quatro - 48 Crash.mp3
+title   - "48 Crash"
+artist  - "Suzi Quatro"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "69"
+genre   - "Rock"
+
+#############################
+
+70. L.A. Guns  - Slap In The Face.mp3
+title   - "Slap In The Face"
+artist  - "L.A. Guns"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "70"
+genre   - "Rock"
+
+#############################
+
+71. Murderdolls -  Drug Me to Hell.mp3
+title   - "Drug Me To Hell"
+artist  - "Murderdolls"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "71"
+genre   - "Rock"
+
+#############################
+
+72. Sword - Back Off.mp3
+title   - "Back Off"
+artist  - "Sword"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "72"
+genre   - "Rock"
+
+#############################
+
+73. Danger Danger - Shot o' Love.mp3
+title   - "Shot O' Love"
+artist  - "Danger Danger"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "73"
+genre   - "Rock"
+
+#############################
+
+74. Nitro - Ben de Seni.mp3
+title   - "Ben de seni"
+artist  - "NITRO"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "74"
+genre   - "Rock"
+
+#############################
+
+75. QUIREBOYS - Take No Revenge.mp3
+title   - "Take No Revenge"
+artist  - "Quireboys"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "75"
+genre   - "Rock"
+
+#############################
+
+76. Bulletboys - Badlands.mp3
+title   - "Badlands"
+artist  - "BulletBoys"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "76"
+genre   - "Rock"
+
+#############################
+
+04. Helloween - Future World.mp3
+title   - "Future World"
+artist  - "Helloween"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "4"
+genre   - "Rock"
+
+#############################
+
+04. IceCreamOff - Легион.mp3
+title   - "538>="
+artist  - "IceCreamOff"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "4"
+genre   - "Rock"
+
+#############################
+
+04. LAB - When Heaven Gets Dirty.mp3
+title   - "When Heaven gets Dirty"
+artist  - "Lab"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "4"
+genre   - "Rock"
+
+#############################
+
+04. Metallica - Fuel.mp3
+title   - "Fuel"
+artist  - "Metallica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "4"
+genre   - "Rock"
+
+#############################
+
+05. Armonight - I Will Be There (...For You).mp3
+title   - "I Will Be There (...For You)"
+artist  - "Armonight"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "5"
+genre   - "Rock"
+
+#############################
+
+05. Judas Priest -  Metal Meltdown.mp3
+title   - "Metal Meltdown"
+artist  - "Judas Priest"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "5"
+genre   - "Rock"
+
+#############################
+
+05. Oasis - Stop Crying Your Heart Out.mp3
+title   - "Stop Crying Your Heart Out"
+artist  - "Oasis"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - "Excellent"
+track   - "5"
+genre   - "Rock"
+
+#############################
+
+05. Pain - Let Me Out.mp3
+title   - "Let Me Out"
+artist  - "Pain"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "5"
+genre   - "Rock"
+
+#############################
+
+05. Twisted Sister - I Wanna Rock.mp3
+title   - "I Wanna Rock"
+artist  - "Twisted Sister"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "5"
+genre   - "Rock"
+
+#############################
+
+06. Metallica - Welcome Home (Sanitarium).mp3
+title   - "Welcome Home (Sanitarium)"
+artist  - "Metallica"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "6"
+genre   - "Rock"
+
+#############################
+
+06. Oasis - Wonderwall.mp3
+title   - "Wonderwall"
+artist  - "Oasis"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - "Excellent"
+track   - "6"
+genre   - "Rock"
+
+#############################
+
+06. Sweet Cheater - One Love.mp3
+title   - "One Love"
+artist  - "Sweet Cheater"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "6"
+genre   - "Rock"
+
+#############################
+
+06. Theatre Of Tragedy - Begin & End.mp3
+title   - "Begin & End"
+artist  - "Theatre Of Tragedy"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "6"
+genre   - "Rock"
+
+#############################
+
+06. Unisonic - Unisonic.mp3
+title   - "Unisonic"
+artist  - "Unisonic"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "6"
+genre   - "Rock"
+
+#############################
+
+07. Myrath - Braving the seas.mp3
+title   - "Braving the seas"
+artist  - "Myrath"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "7"
+genre   - "Rock"
+
+#############################
+
+18. HIM - Close To The Flame.mp3
+title   - "Close To The Flame"
+artist  - "HIM"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "18"
+genre   - "Rock"
+
+#############################
+
+18. Pain - Shut Your Mouth.mp3
+title   - "Shut Your Mouth"
+artist  - "Pain"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "18"
+genre   - "Rock"
+
+#############################
+
+18. Peep Show - I Want You.mp3
+title   - "I Want You"
+artist  - "Peep Show"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "18"
+genre   - "Rock"
+
+#############################
+
+18. Phobos Corp. - This Divine Tragedy.mp3
+title   - "This Divine Tragedy"
+artist  - "Phobos Corp."
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "18"
+genre   - "Rock"
+
+#############################
+
+19. Animals - House of the Rising Sun.mp3
+title   - "House of the Rising Sun"
+artist  - "Animals"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "19"
+genre   - "Rock"
+
+#############################
+
+19. Bif Naked - Sick.mp3
+title   - "Sick"
+artist  - "Bif Naked"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "19"
+genre   - "Rock"
+
+#############################
+
+19. Enuff Z'nuff  - Baby You're The Greatest.mp3
+title   - "Baby You're The Greatest"
+artist  - "Enuff Z'nuff"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "19"
+genre   - "Rock"
+
+#############################
+
+19. Materia Prima - Вечность и покой.mp3
+title   - "5G=>ABL 8 ?>:>9"
+artist  - "Materia Prima"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "19"
+genre   - "Rock"
+
+#############################
+
+19. Orion Riders - Old Symphony.mp3
+title   - "Old Symphony"
+artist  - "Orion Riders"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "19"
+genre   - "Rock"
+
+#############################
+
+20. Corvus - Writing On The Stone.mp3
+title   - "Writing on the stone"
+artist  - "Corvus"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "20"
+genre   - "Rock"
+
+#############################
+
+20. Deep Purple - Smoke On The Water.mp3
+title   - "Smoke On The Water"
+artist  - "Deep Purple"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "20"
+genre   - "Rock"
+
+#############################
+
+20. Materia Prima - С Кем Ты.mp3
+title   - "! 5< "K"
+artist  - "Materia Prima"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "20"
+genre   - "Rock"
+
+#############################
+
+20. Nightwish - Storytime.mp3
+title   - "Storytime"
+artist  - "Nightwish"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "20"
+genre   - "Rock"
+
+#############################
+
+20. Pleasure Addiction - Shout It Out.mp3
+title   - "Shout it out"
+artist  - "PLEASURE ADDICTION"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "20"
+genre   - "Rock"
+
+#############################
+
+21. Antalgia - The Invisible Mechanism.mp3
+title   - "The Invisible Mechanism"
+artist  - "Antalgia"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "21"
+genre   - "Rock"
+
+#############################
+
+21. Dokken - Dream Warriors.mp3
+title   - "Dream Warriors"
+artist  - "Dokken"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "21"
+genre   - "Rock"
+
+#############################
+
+32. Brass Kitten - Can't Hold Back The Young.mp3
+title   - "Can't Hold Back the Young"
+artist  - "Brass Kitten"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "32"
+genre   - "Rock"
+
+#############################
+
+32. Edenbridge - Skyline's End.mp3
+title   - "Skyline's End"
+artist  - "Edenbridge"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "32"
+genre   - "Rock"
+
+#############################
+
+32. Metallica - One.mp3
+title   - "One"
+artist  - "Metallica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "32"
+genre   - "Rock"
+
+#############################
+
+32. Nirvana - Smells Like Teen Spirit.mp3
+title   - "Smells Like Teen Spirit"
+artist  - "Nirvana"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "32"
+genre   - "Rock"
+
+#############################
+
+32. Черный кофе - Жизни рассвет.mp3
+title   - "87=8 @0AA25B"
+artist  - "'5@=K9 :>D5"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "32"
+genre   - "Rock"
+
+#############################
+
+33. 3 Doors Down - Let Me Go.mp3
+title   - "Let Me Go"
+artist  - "3 Doors Down"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "33"
+genre   - "Rock"
+
+#############################
+
+33. Damnation Angels - The Longest Day Of My Life.mp3
+title   - "The Longest Day Of My Life"
+artist  - "Damnation Angels"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "33"
+genre   - "Rock"
+
+#############################
+
+33. Sonata Arctica - Replica.mp3
+title   - "Replica"
+artist  - "Sonata Arctica"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "33"
+genre   - "Rock"
+
+#############################
+
+33. Steel Panther - Dont Stop Believin.mp3
+title   - "Don't Stop Believin'"
+artist  - "Steel Panther"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "33"
+genre   - "Rock"
+
+#############################
+
+33. Taproot - Mine.mp3
+title   - "Mine (Album Version)"
+artist  - "Taproot"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - ""
+track   - "33"
+genre   - "Rock"
+
+#############################
+
+34. Kamelot - Soul Society.mp3
+title   - "Soul Society"
+artist  - "Kamelot"
+album   - "5B0;; 2 <0H8=C"
+year    - "2012"
+comment - ""
+track   - "34"
+genre   - "Rock"
+
+#############################
+
+34. Motley Crue - Dont Go Away Mad (Just Go Away).mp3
+title   - "Don't Go Away Mad (Just Go Away)"
+artist  - "Motley Crue"
+album   - " >: 2 2B> (Glam metal)"
+year    - "2012"
+comment - ""
+track   - "34"
+genre   - "Rock"
+
+#############################
+
+34. Seether - Ive Got You Under My Skin (Frank Sinatra Cover).mp3
+title   - "I've Got You Under My Skin (Frank Sinatra Cover)"
+artist  - "Seether"
+album   - "   ""
+year    - "2012"
+comment - ""
+track   - "34"
+genre   - "Rock"
+
+#############################
+
+34. Taproot - Violent Seas.mp3
+title   - "Violent Seas"
+artist  - "Taproot"
+album   - " >: 2 2B> (>;=K9 @82>4)"
+year    - "2012"
+comment - "13+BA6515F46F21EE39F77AAA1C77CA3002+6002364"
+track   - "34"
+genre   - "Rock"
+
+#############################
+
+34. Theatre Of Tragedy - A Rose For The Dead.mp3
+title   - "A Rose For The Dead"
+artist  - "Theatre of Tragedy"
+album   - "   " (Symphonic Metal)"
+year    - "2012"
+comment - ""
+track   - "34"
+genre   - "Rock"

@@ -4,10 +4,12 @@
 
 #ifndef PROGRESSBAR_OBSERVER_H
 #define PROGRESSBAR_OBSERVER_H
+
+#include <QString>
 class AbstractSubject;
 
 class Observer {
 public:
-    virtual void update(int progress) = 0;
+    virtual void update(std::string progress) = 0;
 };
 #endif //PROGRESSBAR_OBSERVER_H

@@ -11,6 +11,6 @@ find_package(Qt5Widgets REQUIRED)
 
 link_directories(/usr/local/lib)
 
-add_executable(ProgressBar main.cpp AbstractSubject.h Observer.h ProgressBar.cpp ProgressBar.h Button.h Button.cpp)
+add_executable(ProgressBar main.cpp AbstractSubject.h Observer.h Button.h Button.cpp TagReader.cpp TagReader.h ProgressDialog.cpp ProgressDialog.h ShowButton.cpp ShowButton.h)
 target_link_libraries(ProgressBar Qt5::Widgets)
 target_link_libraries(ProgressBar tag)

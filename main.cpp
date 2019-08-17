@@ -7,37 +7,43 @@
 #include <taglib/fileref.h>
 #include <taglib/tstring.h>
 #include <taglib/tag.h>
+#include <QtWidgets/QMainWindow>
+#include <QtWidgets/QLabel>
 
-#include "ProgressBar.h"
+
 #include "Button.h"
-
-
+#include "TagReader.h"
+#include "ProgressDialog.h"
+#include "ShowButton.h"
 
 
 int main(int argc, char *argv[]){
-    std::cout << "******************** \"" << "Lindsey Stirling feat. Lzzy Hale - Shatter Me"<< "\" ********************" << std::endl;
-    TagLib::FileRef f("/home/ale19/Scaricati/Lindsey Stirling feat. Lzzy Hale - Shatter Me.mp3");
-    TagLib::Tag *tag = f.tag();
-    //FIXME segmentation fault if name doesn't finish with extension
-    std::cout << "-- TAG (basic) --" << std::endl;
-    std::cout << "title   - \"" << tag->title()   << "\"" << std::endl;
-    std::cout << "artist  - \"" << tag->artist()  << "\"" << std::endl;
-    std::cout << "album   - \"" << tag->album()   << "\"" << std::endl;
-    std::cout << "year    - \"" << tag->year()    << "\"" << std::endl;
-    std::cout << "comment - \"" << tag->comment() << "\"" << std::endl;
-    std::cout << "track   - \"" << tag->track()   << "\"" << std::endl;
-    std::cout << "genre   - \"" << tag->genre()   << "\"" << std::endl;
-
+    //app creation
     QApplication a{argc, argv};
-    ProgressBar *progressBar = new ProgressBar;
-    Button *button = new Button("Pulsante inutile");
-    button->attachObserver(progressBar);
     QWidget *window = new QWidget;
-    window->setFixedSize(500, 500);
-    QVBoxLayout *box = new QVBoxLayout;
+    QGridLayout *box = new QGridLayout;
+
+    //objects creation
+    QLabel *line = new QLabel("Extracting metadata of:");
+    TagReader tagger;
+    ShowButton *sButton = new ShowButton();
+    ProgressDialog *progressDialog =  new ProgressDialog(sButton);
+    tagger.attachObserver(progressDialog);
+    Button *button = new Button("Start reading", tagger);
+
+    //windows app properties
+    window->resize(900, 500);
+    window->setWindowTitle("Lab_programmazione");
+
+    //add widgets
+    box->addWidget(line);
+    box->addWidget(progressDialog);
     box->addWidget(button);
-    box->addWidget(progressBar);
+    box->addWidget(sButton);
+
+    //set window
     window->setLayout(box);
     window->show();
+
     return a.exec();
 }

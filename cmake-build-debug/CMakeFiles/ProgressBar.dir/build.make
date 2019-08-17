@@ -83,22 +83,9 @@ CMakeFiles/ProgressBar.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgressBar.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ale19/CLionProjects/ProgressBar/main.cpp -o CMakeFiles/ProgressBar.dir/main.cpp.s
 
-CMakeFiles/ProgressBar.dir/ProgressBar.cpp.o: CMakeFiles/ProgressBar.dir/flags.make
-CMakeFiles/ProgressBar.dir/ProgressBar.cpp.o: ../ProgressBar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ProgressBar.dir/ProgressBar.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ProgressBar.dir/ProgressBar.cpp.o -c /home/ale19/CLionProjects/ProgressBar/ProgressBar.cpp
-
-CMakeFiles/ProgressBar.dir/ProgressBar.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgressBar.dir/ProgressBar.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ale19/CLionProjects/ProgressBar/ProgressBar.cpp > CMakeFiles/ProgressBar.dir/ProgressBar.cpp.i
-
-CMakeFiles/ProgressBar.dir/ProgressBar.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgressBar.dir/ProgressBar.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ale19/CLionProjects/ProgressBar/ProgressBar.cpp -o CMakeFiles/ProgressBar.dir/ProgressBar.cpp.s
-
 CMakeFiles/ProgressBar.dir/Button.cpp.o: CMakeFiles/ProgressBar.dir/flags.make
 CMakeFiles/ProgressBar.dir/Button.cpp.o: ../Button.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ProgressBar.dir/Button.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ProgressBar.dir/Button.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ProgressBar.dir/Button.cpp.o -c /home/ale19/CLionProjects/ProgressBar/Button.cpp
 
 CMakeFiles/ProgressBar.dir/Button.cpp.i: cmake_force
@@ -109,26 +96,69 @@ CMakeFiles/ProgressBar.dir/Button.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgressBar.dir/Button.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ale19/CLionProjects/ProgressBar/Button.cpp -o CMakeFiles/ProgressBar.dir/Button.cpp.s
 
+CMakeFiles/ProgressBar.dir/TagReader.cpp.o: CMakeFiles/ProgressBar.dir/flags.make
+CMakeFiles/ProgressBar.dir/TagReader.cpp.o: ../TagReader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ProgressBar.dir/TagReader.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ProgressBar.dir/TagReader.cpp.o -c /home/ale19/CLionProjects/ProgressBar/TagReader.cpp
+
+CMakeFiles/ProgressBar.dir/TagReader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgressBar.dir/TagReader.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ale19/CLionProjects/ProgressBar/TagReader.cpp > CMakeFiles/ProgressBar.dir/TagReader.cpp.i
+
+CMakeFiles/ProgressBar.dir/TagReader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgressBar.dir/TagReader.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ale19/CLionProjects/ProgressBar/TagReader.cpp -o CMakeFiles/ProgressBar.dir/TagReader.cpp.s
+
+CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.o: CMakeFiles/ProgressBar.dir/flags.make
+CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.o: ../ProgressDialog.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.o -c /home/ale19/CLionProjects/ProgressBar/ProgressDialog.cpp
+
+CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ale19/CLionProjects/ProgressBar/ProgressDialog.cpp > CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.i
+
+CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ale19/CLionProjects/ProgressBar/ProgressDialog.cpp -o CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.s
+
+CMakeFiles/ProgressBar.dir/ShowButton.cpp.o: CMakeFiles/ProgressBar.dir/flags.make
+CMakeFiles/ProgressBar.dir/ShowButton.cpp.o: ../ShowButton.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ProgressBar.dir/ShowButton.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ProgressBar.dir/ShowButton.cpp.o -c /home/ale19/CLionProjects/ProgressBar/ShowButton.cpp
+
+CMakeFiles/ProgressBar.dir/ShowButton.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgressBar.dir/ShowButton.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ale19/CLionProjects/ProgressBar/ShowButton.cpp > CMakeFiles/ProgressBar.dir/ShowButton.cpp.i
+
+CMakeFiles/ProgressBar.dir/ShowButton.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgressBar.dir/ShowButton.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ale19/CLionProjects/ProgressBar/ShowButton.cpp -o CMakeFiles/ProgressBar.dir/ShowButton.cpp.s
+
 # Object files for target ProgressBar
 ProgressBar_OBJECTS = \
 "CMakeFiles/ProgressBar.dir/ProgressBar_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/ProgressBar.dir/main.cpp.o" \
-"CMakeFiles/ProgressBar.dir/ProgressBar.cpp.o" \
-"CMakeFiles/ProgressBar.dir/Button.cpp.o"
+"CMakeFiles/ProgressBar.dir/Button.cpp.o" \
+"CMakeFiles/ProgressBar.dir/TagReader.cpp.o" \
+"CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.o" \
+"CMakeFiles/ProgressBar.dir/ShowButton.cpp.o"
 
 # External object files for target ProgressBar
 ProgressBar_EXTERNAL_OBJECTS =
 
 ProgressBar: CMakeFiles/ProgressBar.dir/ProgressBar_autogen/mocs_compilation.cpp.o
 ProgressBar: CMakeFiles/ProgressBar.dir/main.cpp.o
-ProgressBar: CMakeFiles/ProgressBar.dir/ProgressBar.cpp.o
 ProgressBar: CMakeFiles/ProgressBar.dir/Button.cpp.o
+ProgressBar: CMakeFiles/ProgressBar.dir/TagReader.cpp.o
+ProgressBar: CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.o
+ProgressBar: CMakeFiles/ProgressBar.dir/ShowButton.cpp.o
 ProgressBar: CMakeFiles/ProgressBar.dir/build.make
 ProgressBar: /opt/Qt/5.12.4/gcc_64/lib/libQt5Widgets.so.5.12.4
 ProgressBar: /opt/Qt/5.12.4/gcc_64/lib/libQt5Gui.so.5.12.4
 ProgressBar: /opt/Qt/5.12.4/gcc_64/lib/libQt5Core.so.5.12.4
 ProgressBar: CMakeFiles/ProgressBar.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ProgressBar"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable ProgressBar"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ProgressBar.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

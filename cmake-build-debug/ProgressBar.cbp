@@ -126,10 +126,22 @@
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/Observer.h">
 			<Option target="ProgressBar"/>
 		</Unit>
-		<Unit filename="/home/ale19/CLionProjects/ProgressBar/ProgressBar.cpp">
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/ProgressDialog.cpp">
 			<Option target="ProgressBar"/>
 		</Unit>
-		<Unit filename="/home/ale19/CLionProjects/ProgressBar/ProgressBar.h">
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/ProgressDialog.h">
+			<Option target="ProgressBar"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/ShowButton.cpp">
+			<Option target="ProgressBar"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/ShowButton.h">
+			<Option target="ProgressBar"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/TagReader.cpp">
+			<Option target="ProgressBar"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/TagReader.h">
 			<Option target="ProgressBar"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/mocs_compilation.cpp">

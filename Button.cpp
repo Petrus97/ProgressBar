@@ -3,13 +3,14 @@
 //
 #include "Button.h"
 
-Button::Button(const QString &text, QWidget *parent) : QPushButton(text, parent) {
-    this->upgrade = new QPushButton(text, parent);
-    this->upgrade->setFixedSize(150, 150);
-    this->upgrade->animateClick(1000);
-    connect(this, SIGNAL(clicked()), this, SLOT(onClick()), Qt::ConnectionType::QueuedConnection );
+Button::Button(const QString &text, TagReader const& tagger, QWidget *parent) : QPushButton(text, parent) {
+    this->setFixedWidth(150);
+    this->animateClick(1000);
+    this->tag = tagger;
+    connect(this, SIGNAL(pressed()), this, SLOT(onClick())/*, Qt::ConnectionType::QueuedConnection */);
 }
+
+//use this because TagReader is not a Q_OBJECT, it's like a "wrapper"
 void Button::onClick() {
-    notify(10);
-    //do stuff
+    tag.getMetadata();
 }

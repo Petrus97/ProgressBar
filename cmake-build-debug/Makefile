@@ -163,33 +163,6 @@ Button.cpp.s:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/Button.cpp.s
 .PHONY : Button.cpp.s
 
-ProgressBar.o: ProgressBar.cpp.o
-
-.PHONY : ProgressBar.o
-
-# target to build an object file
-ProgressBar.cpp.o:
-	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ProgressBar.cpp.o
-.PHONY : ProgressBar.cpp.o
-
-ProgressBar.i: ProgressBar.cpp.i
-
-.PHONY : ProgressBar.i
-
-# target to preprocess a source file
-ProgressBar.cpp.i:
-	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ProgressBar.cpp.i
-.PHONY : ProgressBar.cpp.i
-
-ProgressBar.s: ProgressBar.cpp.s
-
-.PHONY : ProgressBar.s
-
-# target to generate assembly for a file
-ProgressBar.cpp.s:
-	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ProgressBar.cpp.s
-.PHONY : ProgressBar.cpp.s
-
 ProgressBar_autogen/mocs_compilation.o: ProgressBar_autogen/mocs_compilation.cpp.o
 
 .PHONY : ProgressBar_autogen/mocs_compilation.o
@@ -216,6 +189,87 @@ ProgressBar_autogen/mocs_compilation.s: ProgressBar_autogen/mocs_compilation.cpp
 ProgressBar_autogen/mocs_compilation.cpp.s:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ProgressBar_autogen/mocs_compilation.cpp.s
 .PHONY : ProgressBar_autogen/mocs_compilation.cpp.s
+
+ProgressDialog.o: ProgressDialog.cpp.o
+
+.PHONY : ProgressDialog.o
+
+# target to build an object file
+ProgressDialog.cpp.o:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.o
+.PHONY : ProgressDialog.cpp.o
+
+ProgressDialog.i: ProgressDialog.cpp.i
+
+.PHONY : ProgressDialog.i
+
+# target to preprocess a source file
+ProgressDialog.cpp.i:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.i
+.PHONY : ProgressDialog.cpp.i
+
+ProgressDialog.s: ProgressDialog.cpp.s
+
+.PHONY : ProgressDialog.s
+
+# target to generate assembly for a file
+ProgressDialog.cpp.s:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.s
+.PHONY : ProgressDialog.cpp.s
+
+ShowButton.o: ShowButton.cpp.o
+
+.PHONY : ShowButton.o
+
+# target to build an object file
+ShowButton.cpp.o:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ShowButton.cpp.o
+.PHONY : ShowButton.cpp.o
+
+ShowButton.i: ShowButton.cpp.i
+
+.PHONY : ShowButton.i
+
+# target to preprocess a source file
+ShowButton.cpp.i:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ShowButton.cpp.i
+.PHONY : ShowButton.cpp.i
+
+ShowButton.s: ShowButton.cpp.s
+
+.PHONY : ShowButton.s
+
+# target to generate assembly for a file
+ShowButton.cpp.s:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ShowButton.cpp.s
+.PHONY : ShowButton.cpp.s
+
+TagReader.o: TagReader.cpp.o
+
+.PHONY : TagReader.o
+
+# target to build an object file
+TagReader.cpp.o:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/TagReader.cpp.o
+.PHONY : TagReader.cpp.o
+
+TagReader.i: TagReader.cpp.i
+
+.PHONY : TagReader.i
+
+# target to preprocess a source file
+TagReader.cpp.i:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/TagReader.cpp.i
+.PHONY : TagReader.cpp.i
+
+TagReader.s: TagReader.cpp.s
+
+.PHONY : TagReader.s
+
+# target to generate assembly for a file
+TagReader.cpp.s:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/TagReader.cpp.s
+.PHONY : TagReader.cpp.s
 
 main.o: main.cpp.o
 
@@ -257,12 +311,18 @@ help:
 	@echo "... Button.o"
 	@echo "... Button.i"
 	@echo "... Button.s"
-	@echo "... ProgressBar.o"
-	@echo "... ProgressBar.i"
-	@echo "... ProgressBar.s"
 	@echo "... ProgressBar_autogen/mocs_compilation.o"
 	@echo "... ProgressBar_autogen/mocs_compilation.i"
 	@echo "... ProgressBar_autogen/mocs_compilation.s"
+	@echo "... ProgressDialog.o"
+	@echo "... ProgressDialog.i"
+	@echo "... ProgressDialog.s"
+	@echo "... ShowButton.o"
+	@echo "... ShowButton.i"
+	@echo "... ShowButton.s"
+	@echo "... TagReader.o"
+	@echo "... TagReader.i"
+	@echo "... TagReader.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

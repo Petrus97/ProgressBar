@@ -19,13 +19,13 @@ public:
     void deleteAllObserver(){
         obs.erase(obs.begin(), obs.end());
     };
-    void notify(int progress){
+    void notify(const std::string& progress){
         for (auto itr : obs){
             itr->update(progress);
         }
     };
 
-    virtual ~AbstractSubject(){}
+    virtual ~AbstractSubject()= default;
 
 
 

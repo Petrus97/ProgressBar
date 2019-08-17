@@ -7,18 +7,19 @@
 
 #include <QPushButton>
 #include "AbstractSubject.h"
+#include "TagReader.h"
 
 
-class Button : public QPushButton, public AbstractSubject{
+class Button : public QPushButton{
     Q_OBJECT
 public:
-    explicit Button(const QString &text, QWidget *parent = nullptr);
-
+    explicit Button(const QString &text, const TagReader& tagger, QWidget *parent = nullptr);
 
 public slots:
     void onClick();
+
 private:
-    QPushButton* upgrade;
+    TagReader tag;
 };
 
 #endif //PROGRESSBAR_BUTTON_H

@@ -11,8 +11,8 @@ set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
 set(AM_BUILD_DIR "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen")
 set(AM_INCLUDE_DIR "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/include")
 # Files
-set(AM_SOURCES "/home/ale19/CLionProjects/ProgressBar/Button.cpp;/home/ale19/CLionProjects/ProgressBar/ProgressBar.cpp;/home/ale19/CLionProjects/ProgressBar/main.cpp")
-set(AM_HEADERS "/home/ale19/CLionProjects/ProgressBar/AbstractSubject.h;/home/ale19/CLionProjects/ProgressBar/Button.h;/home/ale19/CLionProjects/ProgressBar/Observer.h;/home/ale19/CLionProjects/ProgressBar/ProgressBar.h")
+set(AM_SOURCES "/home/ale19/CLionProjects/ProgressBar/Button.cpp;/home/ale19/CLionProjects/ProgressBar/ProgressDialog.cpp;/home/ale19/CLionProjects/ProgressBar/ShowButton.cpp;/home/ale19/CLionProjects/ProgressBar/TagReader.cpp;/home/ale19/CLionProjects/ProgressBar/main.cpp")
+set(AM_HEADERS "/home/ale19/CLionProjects/ProgressBar/AbstractSubject.h;/home/ale19/CLionProjects/ProgressBar/Button.h;/home/ale19/CLionProjects/ProgressBar/Observer.h;/home/ale19/CLionProjects/ProgressBar/ProgressDialog.h;/home/ale19/CLionProjects/ProgressBar/ShowButton.h;/home/ale19/CLionProjects/ProgressBar/TagReader.h")
 set(AM_SETTINGS_FILE "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar_autogen.dir/AutogenOldSettings.txt")
 # Qt
 set(AM_QT_VERSION_MAJOR 5)

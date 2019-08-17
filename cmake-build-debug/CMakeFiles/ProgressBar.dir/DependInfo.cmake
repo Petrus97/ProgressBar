@@ -5,8 +5,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/ale19/CLionProjects/ProgressBar/Button.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/Button.cpp.o"
-  "/home/ale19/CLionProjects/ProgressBar/ProgressBar.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/ProgressBar.cpp.o"
   "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/mocs_compilation.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/ProgressBar_autogen/mocs_compilation.cpp.o"
+  "/home/ale19/CLionProjects/ProgressBar/ProgressDialog.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.o"
+  "/home/ale19/CLionProjects/ProgressBar/ShowButton.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/ShowButton.cpp.o"
+  "/home/ale19/CLionProjects/ProgressBar/TagReader.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/TagReader.cpp.o"
   "/home/ale19/CLionProjects/ProgressBar/main.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
