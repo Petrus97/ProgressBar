@@ -1,15 +1,8 @@
-#include <iostream>
-
 #include <QApplication>
 #include <QVBoxLayout>
-
-#include <taglib/taglib.h>
-#include <taglib/fileref.h>
-#include <taglib/tstring.h>
-#include <taglib/tag.h>
-#include <QtWidgets/QMainWindow>
 #include <QtWidgets/QLabel>
 
+#include <taglib/taglib.h>
 
 #include "Button.h"
 #include "TagReader.h"
