@@ -12,18 +12,6 @@ list
 Observer.h
 /home/ale19/CLionProjects/ProgressBar/Observer.h
 
-/home/ale19/CLionProjects/ProgressBar/Button.cpp
-Button.h
-/home/ale19/CLionProjects/ProgressBar/Button.h
-
-/home/ale19/CLionProjects/ProgressBar/Button.h
-QPushButton
--
-AbstractSubject.h
-/home/ale19/CLionProjects/ProgressBar/AbstractSubject.h
-TagReader.h
-/home/ale19/CLionProjects/ProgressBar/TagReader.h
-
 /home/ale19/CLionProjects/ProgressBar/Observer.h
 QString
 -
@@ -33,6 +21,8 @@ ProgressDialog.h
 /home/ale19/CLionProjects/ProgressBar/ProgressDialog.h
 ShowButton.h
 /home/ale19/CLionProjects/ProgressBar/ShowButton.h
+TagReader.h
+/home/ale19/CLionProjects/ProgressBar/TagReader.h
 
 /home/ale19/CLionProjects/ProgressBar/ProgressDialog.h
 string
@@ -57,6 +47,8 @@ fstream
 -
 unistd.h
 -
+sys/stat.h
+-
 
 /home/ale19/CLionProjects/ProgressBar/TagReader.h
 taglib/taglib.h
@@ -71,66 +63,6 @@ dirent.h
 -
 AbstractSubject.h
 /home/ale19/CLionProjects/ProgressBar/AbstractSubject.h
-
-/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/EWIEGA46WW/moc_Button.cpp
-../../../Button.h
-/home/ale19/CLionProjects/ProgressBar/Button.h
-QtCore/qbytearray.h
--
-QtCore/qmetatype.h
--
-
-/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/EWIEGA46WW/moc_ProgressDialog.cpp
-../../../ProgressDialog.h
-/home/ale19/CLionProjects/ProgressBar/ProgressDialog.h
-QtCore/qbytearray.h
--
-QtCore/qmetatype.h
--
-
-/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/EWIEGA46WW/moc_ShowButton.cpp
-../../../ShowButton.h
-/home/ale19/CLionProjects/ProgressBar/ShowButton.h
-QtCore/qbytearray.h
--
-QtCore/qmetatype.h
--
-
-/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/mocs_compilation.cpp
-EWIEGA46WW/moc_Button.cpp
-/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/EWIEGA46WW/moc_Button.cpp
-EWIEGA46WW/moc_ProgressDialog.cpp
-/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/EWIEGA46WW/moc_ProgressDialog.cpp
-EWIEGA46WW/moc_ShowButton.cpp
-/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/EWIEGA46WW/moc_ShowButton.cpp
-
-/home/ale19/CLionProjects/ProgressBar/main.cpp
-iostream
--
-QApplication
--
-QVBoxLayout
--
-taglib/taglib.h
--
-taglib/fileref.h
--
-taglib/tstring.h
--
-taglib/tag.h
--
-QtWidgets/QMainWindow
--
-QtWidgets/QLabel
--
-Button.h
-/home/ale19/CLionProjects/ProgressBar/Button.h
-TagReader.h
-/home/ale19/CLionProjects/ProgressBar/TagReader.h
-ProgressDialog.h
-/home/ale19/CLionProjects/ProgressBar/ProgressDialog.h
-ShowButton.h
-/home/ale19/CLionProjects/ProgressBar/ShowButton.h
 
 /opt/Qt/5.12.4/gcc_64/include/QtCore/QEvent
 qcoreevent.h
@@ -3518,41 +3450,21 @@ QtGui/qwindowdefs_win.h
 QtGui/qtguiglobal.h
 -
 
-/opt/Qt/5.12.4/gcc_64/include/QtWidgets/QApplication
-qapplication.h
-/opt/Qt/5.12.4/gcc_64/include/QtWidgets/qapplication.h
-
 /opt/Qt/5.12.4/gcc_64/include/QtWidgets/QCommonStyle
 qcommonstyle.h
 /opt/Qt/5.12.4/gcc_64/include/QtWidgets/qcommonstyle.h
-
-/opt/Qt/5.12.4/gcc_64/include/QtWidgets/QLabel
-qlabel.h
-/opt/Qt/5.12.4/gcc_64/include/QtWidgets/qlabel.h
 
 /opt/Qt/5.12.4/gcc_64/include/QtWidgets/QLayout
 qlayout.h
 /opt/Qt/5.12.4/gcc_64/include/QtWidgets/qlayout.h
 
-/opt/Qt/5.12.4/gcc_64/include/QtWidgets/QMainWindow
-qmainwindow.h
-/opt/Qt/5.12.4/gcc_64/include/QtWidgets/qmainwindow.h
-
 /opt/Qt/5.12.4/gcc_64/include/QtWidgets/QProgressDialog
 qprogressdialog.h
 /opt/Qt/5.12.4/gcc_64/include/QtWidgets/qprogressdialog.h
 
-/opt/Qt/5.12.4/gcc_64/include/QtWidgets/QPushButton
-qpushbutton.h
-/opt/Qt/5.12.4/gcc_64/include/QtWidgets/qpushbutton.h
-
 /opt/Qt/5.12.4/gcc_64/include/QtWidgets/QScrollerProperties
 qscrollerproperties.h
 /opt/Qt/5.12.4/gcc_64/include/QtWidgets/qscrollerproperties.h
-
-/opt/Qt/5.12.4/gcc_64/include/QtWidgets/QVBoxLayout
-qboxlayout.h
-/opt/Qt/5.12.4/gcc_64/include/QtWidgets/qboxlayout.h
 
 /opt/Qt/5.12.4/gcc_64/include/QtWidgets/QWidget
 qwidget.h

@@ -1,4 +1,12 @@
-/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir
 /home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/test.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/core.dir
 /home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar_autogen.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/core_autogen.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/CMakeFiles/test_runner.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/CMakeFiles/test.dir
+/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/CMakeFiles/test_runner_autogen.dir

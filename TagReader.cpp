@@ -5,21 +5,21 @@
 #include "TagReader.h"
 #include <fstream>
 #include <unistd.h>
+#include <sys/stat.h>
 
 TagReader::TagReader(){
-    this->source = "/media/ale19/Acer/Users/Alessio.celeste64-PC/Downloads/Torrent_Download/Рок в Авто ( Зарубежный) - Collection  MP3 SMG/SomeMusic/";
+    this->source = "/home/ale19/Musica/Music/";
+    this->save_file_location = "../result/metadata.txt";
     this->files = nullptr;
-    this->n_files = 0;
     this->dir = nullptr;
 }
 
+int TagReader::n_files = 0;
+
 void TagReader::getMetadata() {
-    //if(source != nullptr)
-    //    this->source = source;
     this->dir = opendir(this->source.c_str());
     if(this->dir != nullptr){
         while((this->files = readdir(this->dir))){ //read the directory
-           // usleep(100000);
             std::string tmp = this->files->d_name;
             std::string extension;
             int i = (int)tmp.length() - 1;
@@ -27,26 +27,26 @@ void TagReader::getMetadata() {
                 extension = tmp.at(i) + extension;
                 i--;
             }
-            if (extension == "mp3") {
+            if (extension == "mp3" || extension== "m4a") {
                 std::string current_file = (this->source)+(files->d_name); //require all path to read the metadata
                 TagLib::FileRef f(current_file.c_str()); //require a const char*
                 if(!f.isNull() && f.tag()) //check if file has audio properties and is not a nullpointer
                     this->fileList.append(f);
-                this->n_files++;
+                TagReader::n_files++;
             }
         }
     }
     closedir(this->dir);
     //Start to reading metadata and writing to a file
     std::ofstream metadata;
-    metadata.open("../result/metadata.txt");
+    metadata.open(getSaveFileLocation().c_str());
     TagLib::List<TagLib::FileRef>::ConstIterator it;
     for(it = fileList.begin(); it != fileList.end(); ++it) {
-        usleep(100000);
-        TagLib::Tag *tag = (*it).tag();
+        usleep(10000);
+        TagLib::Tag *tag = (*it).tag();  //tag iterator
         std::string str = it->file()->name(); //complete file name path
-        notify(str.erase(str.find(this->source), this->source.length())); //show only the name
-        metadata << "\n#############################\n"<< std::endl;
+        notify(str.erase(str.find(this->source), this->source.length())); //show only the name, cut the path
+        metadata << "#############################\n"<< std::endl;
         metadata << str << std::endl;
         metadata << "title   - \"" << tag->title() << "\"" << std::endl;
         metadata << "artist  - \"" << tag->artist() << "\"" << std::endl;
@@ -54,7 +54,7 @@ void TagReader::getMetadata() {
         metadata << "year    - \"" << tag->year() << "\"" << std::endl;
         metadata << "comment - \"" << tag->comment() << "\"" << std::endl;
         metadata << "track   - \"" << tag->track() << "\"" << std::endl;
-        metadata << "genre   - \"" << tag->genre() << "\"" << std::endl;
+        metadata << "genre   - \"" << tag->genre() << "\"\n" << std::endl;
     }
     metadata.close();
     fileList.clear();
@@ -62,6 +62,26 @@ void TagReader::getMetadata() {
 
 int TagReader::getNFiles(){
     return n_files;
+}
+
+void TagReader::setSource(const std::string &source) {
+    if(isPathExist(source))
+        TagReader::source = source;
+    else
+        std::cerr << "Path not found" <<std::endl;
+}
+
+bool TagReader::isPathExist(const std::string &s) {
+    struct stat buffer;
+    return (stat (s.c_str(), &buffer) == 0);
+}
+
+const std::string &TagReader::getSaveFileLocation() const {
+    return save_file_location;
+}
+
+void TagReader::setSaveFileLocation(const std::string &saveFileLocation) {
+    save_file_location = saveFileLocation;
 }
 
 TagReader::~TagReader() = default;

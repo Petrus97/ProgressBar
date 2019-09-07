@@ -19,6 +19,7 @@ int main(int argc, char *argv[]){
     //objects creation
     QLabel *line = new QLabel("Extracting metadata of:");
     TagReader tagger;
+    tagger.setSaveFileLocation("../result/metadata2.txt");
     ShowButton *sButton = new ShowButton();
     ProgressDialog *progressDialog =  new ProgressDialog(sButton);
     tagger.attachObserver(progressDialog);

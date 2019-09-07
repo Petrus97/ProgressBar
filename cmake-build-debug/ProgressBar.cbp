@@ -5,7 +5,7 @@
 		<Option title="ProgressBar"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\Qt\;CMake Files\..\..\..\..\opt\Qt\5.12.4\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Core\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\Qt\;CMake Files\..\..\..\..\opt\Qt\5.12.4\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Core\;CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Test\;CMake Files\tests\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
@@ -17,11 +17,21 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="rebuild_cache">
+			<Target title="edit_cache">
 				<Option working_dir="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -37,6 +47,8 @@
 					<Add option="-DQT_WIDGETS_LIB"/>
 					<Add option="-DQT_GUI_LIB"/>
 					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar"/>
 					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/include"/>
 					<Add directory="/usr/local/include/taglib"/>
 					<Add directory="/opt/Qt/5.12.4/gcc_64/include"/>
@@ -70,6 +82,8 @@
 					<Add option="-DQT_WIDGETS_LIB"/>
 					<Add option="-DQT_GUI_LIB"/>
 					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar"/>
 					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/include"/>
 					<Add directory="/usr/local/include/taglib"/>
 					<Add directory="/opt/Qt/5.12.4/gcc_64/include"/>
@@ -93,11 +107,81 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="edit_cache">
+			<Target title="rebuild_cache">
 				<Option working_dir="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="core">
+				<Option output="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/libcore.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/core_autogen/include"/>
+					<Add directory="/usr/local/include/taglib"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtWidgets"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtGui"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtCore"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 core"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="core/fast">
+				<Option output="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/libcore.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/core_autogen/include"/>
+					<Add directory="/usr/local/include/taglib"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtWidgets"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtGui"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtCore"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 core/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -113,42 +197,173 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="core_autogen">
+				<Option working_dir="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 core_autogen"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_runner">
+				<Option output="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/test_runner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_TESTLIB_LIB"/>
+					<Add option="-DQT_TESTCASE_BUILDDIR=&quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug&quot;"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/tests"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/test_runner_autogen/include"/>
+					<Add directory="/usr/local/include/taglib"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtTest"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtCore"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtWidgets"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtGui"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 test_runner"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_runner/fast">
+				<Option output="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/test_runner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_TESTLIB_LIB"/>
+					<Add option="-DQT_TESTCASE_BUILDDIR=&quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug&quot;"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/tests"/>
+					<Add directory="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/test_runner_autogen/include"/>
+					<Add directory="/usr/local/include/taglib"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtTest"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtCore"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtWidgets"/>
+					<Add directory="/opt/Qt/5.12.4/gcc_64/include/QtGui"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 test_runner/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_runner_autogen">
+				<Option working_dir="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 test_runner_autogen"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/AbstractSubject.cpp">
+			<Option target="ProgressBar"/>
+			<Option target="core"/>
+		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/AbstractSubject.h">
 			<Option target="ProgressBar"/>
+			<Option target="core"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/Button.cpp">
 			<Option target="ProgressBar"/>
+			<Option target="core"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/Button.h">
 			<Option target="ProgressBar"/>
+			<Option target="core"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/Observer.h">
 			<Option target="ProgressBar"/>
+			<Option target="core"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/ProgressDialog.cpp">
 			<Option target="ProgressBar"/>
+			<Option target="core"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/ProgressDialog.h">
 			<Option target="ProgressBar"/>
+			<Option target="core"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/ShowButton.cpp">
 			<Option target="ProgressBar"/>
+			<Option target="core"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/ShowButton.h">
 			<Option target="ProgressBar"/>
+			<Option target="core"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/TagReader.cpp">
 			<Option target="ProgressBar"/>
+			<Option target="core"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/TagReader.h">
 			<Option target="ProgressBar"/>
+			<Option target="core"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/mocs_compilation.cpp">
 			<Option target="ProgressBar"/>
 		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/core_autogen/mocs_compilation.cpp">
+			<Option target="core"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/tests/test_runner_autogen/mocs_compilation.cpp">
+			<Option target="test_runner"/>
+		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/main.cpp">
 			<Option target="ProgressBar"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/tests/TestProgressDialog.cpp">
+			<Option target="test_runner"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/tests/TestProgressDialog.h">
+			<Option target="test_runner"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/tests/TestTagReader.cpp">
+			<Option target="test_runner"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/tests/TestTagReader.h">
+			<Option target="test_runner"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/tests/run_test.cpp">
+			<Option target="test_runner"/>
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
@@ -287,6 +502,18 @@
 		</Unit>
 		<Unit filename="/home/ale19/CLionProjects/ProgressBar/../../../../opt/Qt/5.12.4/gcc_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/../../../../opt/Qt/5.12.4/gcc_64/lib/cmake/Qt5Test/Qt5TestConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Test\"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/../../../../opt/Qt/5.12.4/gcc_64/lib/cmake/Qt5Test/Qt5TestConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Test\"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/../../../../opt/Qt/5.12.4/gcc_64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\Qt\5.12.4\gcc_64\lib\cmake\Qt5Test\"/>
+		</Unit>
+		<Unit filename="/home/ale19/CLionProjects/ProgressBar/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>

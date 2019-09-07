@@ -56,17 +56,6 @@ CMAKE_BINARY_DIR = /home/ale19/CLionProjects/ProgressBar/cmake-build-debug
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/ale19/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
@@ -77,6 +66,28 @@ edit_cache:
 edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
+
+# Special rule for the target test
+test:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running tests..."
+	/home/ale19/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/ctest --force-new-ctest-process $(ARGS)
+.PHONY : test
+
+# Special rule for the target test
+test/fast: test
+
+.PHONY : test/fast
+
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/home/ale19/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -124,6 +135,19 @@ ProgressBar/fast:
 .PHONY : ProgressBar/fast
 
 #=============================================================================
+# Target rules for targets named core
+
+# Build rule for target.
+core: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 core
+.PHONY : core
+
+# fast build rule for target.
+core/fast:
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/build
+.PHONY : core/fast
+
+#=============================================================================
 # Target rules for targets named ProgressBar_autogen
 
 # Build rule for target.
@@ -136,6 +160,75 @@ ProgressBar_autogen/fast:
 	$(MAKE) -f CMakeFiles/ProgressBar_autogen.dir/build.make CMakeFiles/ProgressBar_autogen.dir/build
 .PHONY : ProgressBar_autogen/fast
 
+#=============================================================================
+# Target rules for targets named core_autogen
+
+# Build rule for target.
+core_autogen: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 core_autogen
+.PHONY : core_autogen
+
+# fast build rule for target.
+core_autogen/fast:
+	$(MAKE) -f CMakeFiles/core_autogen.dir/build.make CMakeFiles/core_autogen.dir/build
+.PHONY : core_autogen/fast
+
+#=============================================================================
+# Target rules for targets named test_runner
+
+# Build rule for target.
+test_runner: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test_runner
+.PHONY : test_runner
+
+# fast build rule for target.
+test_runner/fast:
+	$(MAKE) -f tests/CMakeFiles/test_runner.dir/build.make tests/CMakeFiles/test_runner.dir/build
+.PHONY : test_runner/fast
+
+#=============================================================================
+# Target rules for targets named test_runner_autogen
+
+# Build rule for target.
+test_runner_autogen: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test_runner_autogen
+.PHONY : test_runner_autogen
+
+# fast build rule for target.
+test_runner_autogen/fast:
+	$(MAKE) -f tests/CMakeFiles/test_runner_autogen.dir/build.make tests/CMakeFiles/test_runner_autogen.dir/build
+.PHONY : test_runner_autogen/fast
+
+AbstractSubject.o: AbstractSubject.cpp.o
+
+.PHONY : AbstractSubject.o
+
+# target to build an object file
+AbstractSubject.cpp.o:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/AbstractSubject.cpp.o
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/AbstractSubject.cpp.o
+.PHONY : AbstractSubject.cpp.o
+
+AbstractSubject.i: AbstractSubject.cpp.i
+
+.PHONY : AbstractSubject.i
+
+# target to preprocess a source file
+AbstractSubject.cpp.i:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/AbstractSubject.cpp.i
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/AbstractSubject.cpp.i
+.PHONY : AbstractSubject.cpp.i
+
+AbstractSubject.s: AbstractSubject.cpp.s
+
+.PHONY : AbstractSubject.s
+
+# target to generate assembly for a file
+AbstractSubject.cpp.s:
+	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/AbstractSubject.cpp.s
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/AbstractSubject.cpp.s
+.PHONY : AbstractSubject.cpp.s
+
 Button.o: Button.cpp.o
 
 .PHONY : Button.o
@@ -143,6 +236,7 @@ Button.o: Button.cpp.o
 # target to build an object file
 Button.cpp.o:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/Button.cpp.o
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/Button.cpp.o
 .PHONY : Button.cpp.o
 
 Button.i: Button.cpp.i
@@ -152,6 +246,7 @@ Button.i: Button.cpp.i
 # target to preprocess a source file
 Button.cpp.i:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/Button.cpp.i
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/Button.cpp.i
 .PHONY : Button.cpp.i
 
 Button.s: Button.cpp.s
@@ -161,6 +256,7 @@ Button.s: Button.cpp.s
 # target to generate assembly for a file
 Button.cpp.s:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/Button.cpp.s
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/Button.cpp.s
 .PHONY : Button.cpp.s
 
 ProgressBar_autogen/mocs_compilation.o: ProgressBar_autogen/mocs_compilation.cpp.o
@@ -197,6 +293,7 @@ ProgressDialog.o: ProgressDialog.cpp.o
 # target to build an object file
 ProgressDialog.cpp.o:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.o
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/ProgressDialog.cpp.o
 .PHONY : ProgressDialog.cpp.o
 
 ProgressDialog.i: ProgressDialog.cpp.i
@@ -206,6 +303,7 @@ ProgressDialog.i: ProgressDialog.cpp.i
 # target to preprocess a source file
 ProgressDialog.cpp.i:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.i
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/ProgressDialog.cpp.i
 .PHONY : ProgressDialog.cpp.i
 
 ProgressDialog.s: ProgressDialog.cpp.s
@@ -215,6 +313,7 @@ ProgressDialog.s: ProgressDialog.cpp.s
 # target to generate assembly for a file
 ProgressDialog.cpp.s:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.s
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/ProgressDialog.cpp.s
 .PHONY : ProgressDialog.cpp.s
 
 ShowButton.o: ShowButton.cpp.o
@@ -224,6 +323,7 @@ ShowButton.o: ShowButton.cpp.o
 # target to build an object file
 ShowButton.cpp.o:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ShowButton.cpp.o
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/ShowButton.cpp.o
 .PHONY : ShowButton.cpp.o
 
 ShowButton.i: ShowButton.cpp.i
@@ -233,6 +333,7 @@ ShowButton.i: ShowButton.cpp.i
 # target to preprocess a source file
 ShowButton.cpp.i:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ShowButton.cpp.i
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/ShowButton.cpp.i
 .PHONY : ShowButton.cpp.i
 
 ShowButton.s: ShowButton.cpp.s
@@ -242,6 +343,7 @@ ShowButton.s: ShowButton.cpp.s
 # target to generate assembly for a file
 ShowButton.cpp.s:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/ShowButton.cpp.s
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/ShowButton.cpp.s
 .PHONY : ShowButton.cpp.s
 
 TagReader.o: TagReader.cpp.o
@@ -251,6 +353,7 @@ TagReader.o: TagReader.cpp.o
 # target to build an object file
 TagReader.cpp.o:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/TagReader.cpp.o
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/TagReader.cpp.o
 .PHONY : TagReader.cpp.o
 
 TagReader.i: TagReader.cpp.i
@@ -260,6 +363,7 @@ TagReader.i: TagReader.cpp.i
 # target to preprocess a source file
 TagReader.cpp.i:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/TagReader.cpp.i
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/TagReader.cpp.i
 .PHONY : TagReader.cpp.i
 
 TagReader.s: TagReader.cpp.s
@@ -269,7 +373,35 @@ TagReader.s: TagReader.cpp.s
 # target to generate assembly for a file
 TagReader.cpp.s:
 	$(MAKE) -f CMakeFiles/ProgressBar.dir/build.make CMakeFiles/ProgressBar.dir/TagReader.cpp.s
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/TagReader.cpp.s
 .PHONY : TagReader.cpp.s
+
+core_autogen/mocs_compilation.o: core_autogen/mocs_compilation.cpp.o
+
+.PHONY : core_autogen/mocs_compilation.o
+
+# target to build an object file
+core_autogen/mocs_compilation.cpp.o:
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/core_autogen/mocs_compilation.cpp.o
+.PHONY : core_autogen/mocs_compilation.cpp.o
+
+core_autogen/mocs_compilation.i: core_autogen/mocs_compilation.cpp.i
+
+.PHONY : core_autogen/mocs_compilation.i
+
+# target to preprocess a source file
+core_autogen/mocs_compilation.cpp.i:
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/core_autogen/mocs_compilation.cpp.i
+.PHONY : core_autogen/mocs_compilation.cpp.i
+
+core_autogen/mocs_compilation.s: core_autogen/mocs_compilation.cpp.s
+
+.PHONY : core_autogen/mocs_compilation.s
+
+# target to generate assembly for a file
+core_autogen/mocs_compilation.cpp.s:
+	$(MAKE) -f CMakeFiles/core.dir/build.make CMakeFiles/core.dir/core_autogen/mocs_compilation.cpp.s
+.PHONY : core_autogen/mocs_compilation.cpp.s
 
 main.o: main.cpp.o
 
@@ -304,10 +436,18 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... rebuild_cache"
-	@echo "... ProgressBar"
 	@echo "... edit_cache"
+	@echo "... test"
+	@echo "... ProgressBar"
+	@echo "... rebuild_cache"
+	@echo "... core"
 	@echo "... ProgressBar_autogen"
+	@echo "... core_autogen"
+	@echo "... test_runner"
+	@echo "... test_runner_autogen"
+	@echo "... AbstractSubject.o"
+	@echo "... AbstractSubject.i"
+	@echo "... AbstractSubject.s"
 	@echo "... Button.o"
 	@echo "... Button.i"
 	@echo "... Button.s"
@@ -323,6 +463,9 @@ help:
 	@echo "... TagReader.o"
 	@echo "... TagReader.i"
 	@echo "... TagReader.s"
+	@echo "... core_autogen/mocs_compilation.o"
+	@echo "... core_autogen/mocs_compilation.i"
+	@echo "... core_autogen/mocs_compilation.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

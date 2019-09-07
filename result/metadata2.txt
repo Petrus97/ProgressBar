@@ -1,0 +1,6717 @@
+#############################
+
+[Progressive] - Stadiumx & Metrush - Glare.m4a
+title   - "Glare"
+artist  - "StadiumX, Metrush"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - Feel It [Monstercat Release].m4a
+title   - "Feel It"
+artist  - "Stonebank"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Living On The Edge.m4a
+title   - "Living On The Edge"
+artist  - "JETFIRE, Karmatek"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro - Existence.m4a
+title   - "Existence"
+artist  - "Deorro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Progressive House] - Cash Cash - Surrender (Stadiumx Remix).m4a
+title   - "Surrender (StadiumX Remix)"
+artist  - "Cash Cash"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Fedde le Grand  &  Nicky Romero ft Matthew Koma  -  Sparks  (Atmozfears & Audiot.m4a
+title   - "Sparks (Atmozfears & Audiotricz Remix)"
+artist  - "Fedde le Grand, Nicky Romero, Matthew Koma"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Timmy Trumpet and The Golden Army - Mufasa.m4a
+title   - "Mufasa"
+artist  - "Timmy Trumpet, The Golden Army"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Skrillex & Damian Marley -- 'Make It Bun Dem' Lyrics.m4a
+title   - "Make It Bun Dem"
+artist  - "Skrillex, Damian Marley"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - Be Alright (ft. EMEL).m4a
+title   - "Be Alright"
+artist  - "Stonebank, EMEL"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+A Light That Never Comes (Coone Remix) - Linkin Park x Steve Aoki (Official Musi.m4a
+title   - "A Light That Never Comes (Coone Remix)"
+artist  - "Linkin Park, Steve Aoki"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Headhunterz & KSHMR - Dharma.m4a
+title   - "Dharma"
+artist  - "Headhunterz, KSHMR"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - I'm On Fire (Extended Mix).mp3
+title   - "I'm On Fire (Extended Mix)"
+artist  - "Vicetone"
+album   - "I'm On Fire"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/drreoq9Bd7CiW3yBsNfcxzX9eb6kXd/knCZTpQsuFt5fQEPBjF+fUcKq8hqHHw9egSb34uR+q3MgU2iwoIlI8QkWunfJsZPgvsKhMWoSLvEBZ8jJgWvyulEmY28kATKTJfIMNTjmtSvnUquEZqFNscPtT0yU97WMG3ocVxQmE4FGCZgyg+j2qkTSgnInHl5vlCzep8gEGUNMED/BD8eZSbT1aEBproi+H824VDpnXjdLRRIw2/zTWW9zDCdmcFUzju2PrlLJUnuD2Q1ckC8VJGumXjfXd4Nessp307qIy+59lz/z/g3ecBX2vbvqkhle2ZaQ7LTZFnCNe9G1wp3bgcN7WSKKACUL+XWE7dqXYIiChRbJ6MLi3FG7ihjdxDXrc1bldtlOrAo5QxAwUZoSz3/uoaH9yMlqXfiHtVteK4HQ3djkpRDh1KH0WK4WUo5VzwPRX5y+WqMdSxDUScOvnbP9YA8Q2Ee7ZvjxPABadCz63X1ce6E4IijUsDWJ28jLxvNBpFMw2Q6KEui8r4ropgJbN3o/M3FF7/IRsEBveyd7qUHciJMBD+Cl1vP2gYQJNZACjdeJ6qRvv5uH6M64r4fPqizHLVdGzTYN+as5oKBajApNEShWyRL12sseQBPh7KklNZoYMy8eQPOItyrElHNQc1x0wTpsx3a3njX6X+uOC/flumVgSrZSdgi5P1JsoqVbuqNm+xPZVFVRzpLZBQ="
+track   - "1"
+genre   - ""
+
+#############################
+
+Punjabi.mp3
+title   - "Punjabi"
+artist  - "Timmy Trumpet, Dimatik"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Blasterjaxx - Mystica (Original Mix).mp3
+title   - "Mystica (Original Mix)"
+artist  - "Blasterjaxx"
+album   - "Mystica"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/f9n5G/0M0BoU8SD0vy7kSAhTBinPOs3Y/sWkdsWBGgfhdGjtR+S4Yw/3JXch4yLFPdx/tOjsVwW6SltwJttmAHJPCJYPfp6uTBwjbiy3C4zhYYLtOXCm1uF+6pVH2n/cpI1YY6LOzWwyAQGBTUEP3Y8txpTFP7NyQI870XMshNYJ4pIchErk5gHn68gdWnDvYYJAd+EPpv7oBZ3whHwogmC4whMLcChSebTyvb3oGSw5qAUps0i/uu/B1aJVo7RnWSSl1INzUNaX5cIeMqsiQUw0W25oYJ8vHvL5NhhCtbhwpkQhf/fLVwBRw8ut4VkdTx1Iym5qoWjJede3BD6CK9t1BkWAeP4qzZecf2vmFRy/EakWScXJu6Q2z4xIrFYb8wpm6GIsKCiKZiWg9mrOjH632Xyd7iES1WKCSAyfk0yFlJlgyFDyyfX3OM9DNNoANW38UopWYqx73kqG5nmboleamGbjO3odcRx9t6hSrXoX8Y9hkBypWvLu+N40VXi8nZFX1TmO6jBGZbIlqnJkhULa+DnCqCMQjifHZYxfFkcREtaGQ56VLSUrMHGJXTjThSMvlwu3flOE72oG622TZQLlzPqNLlXH0Or/LtH10dDwcpPO5n/aai0uyB/0T12SFe6aWQhXR2Kukuc11rRrx4jlSo0fiG3TfQWY+SR93JFU09R1NJehOk0kIDz9vzIR4q8qoJJv5ccnQEc7OYcAKc="
+track   - "1"
+genre   - ""
+
+#############################
+
+Infected Mushroom - Head of NASA [Monstercat LP Release].m4a
+title   - "Head of NASA"
+artist  - "Infected Mushroom"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Merk & Kremont - 41 Days.m4a
+title   - "41 Days"
+artist  - "Merk & Kremont"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+RudeLies & Facading - Arabian Nights.m4a
+title   - "Arabian Nights"
+artist  - "RudeLies, Facading"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Razor Sharp.mp3
+title   - "Razor Sharp"
+artist  - "Pegboard Nerds, Tristam"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "1"
+genre   - "null"
+
+#############################
+
+R3hab - Samurai (Go Hard) Radio Edit - DANCE HOUSE.m4a
+title   - "Samurai"
+artist  - "R3hab"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Till The Sun Comes Up (Orjan Nilsen Remix).mp3
+title   - "Till the Sun Comes Up (Orjan Nilsen Remix)"
+artist  - "Firebeatz, Vertel"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hocus Pocus.mp3
+title   - "Hocus Pocus"
+artist  - "Marnik"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Bassjackers ft. Luciana - Fireflies (Official Music Video).m4a
+title   - "Fireflies "
+artist  - "Bassjackers, Luciana"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Eastblock Bitches - The Dab Is Dead.m4a
+title   - "The Dab Is Dead"
+artist  - "Eastblock Bitches"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Spinnin' Records - Best Of 2015 Year Mix.m4a
+title   - "Spinnin' Best Of 2015 Mix"
+artist  - "Spinnin' Records"
+album   - ""
+year    - "2015"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Calvin Harris - Drinking From the Bottle (Lyric Video) ft. Tinie Tempah.m4a
+title   - "Drinking From the Bottle"
+artist  - "Calvin Harris, Tinie Tempah"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Juwa & Samurah - Houdini.m4a
+title   - "Houdini"
+artist  - "Juwa, Samurah"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds & Tokyo Machine - MOSHI [Monstercat Release].m4a
+title   - "MOSHI"
+artist  - "Pegboard Nerds, Tokyo Machine"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+What Goes Around .mp3
+title   - "What Goes Around "
+artist  - "Tom & Jame"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Monstercat - Best of 2017 (Album Mix) [2 Hours of Electronic Music].m4a
+title   - "Monstercat Best of 2017"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Nik Cooper - Best of 2015 (1 Hour of Progressive, Electro and Bounce).m4a
+title   - "Nik Cooper Best of 2015"
+artist  - "Nik Cooper"
+album   - ""
+year    - "2015"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Monstercat Instinct Vol. 2 (Album Mix).m4a
+title   - "Instinct Vol. 2"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The Vine.mp3
+title   - "The Vine"
+artist  - "Tristam"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Steve Aoki, Deorro, MAKJ & Max Styler - Shakalaka.m4a
+title   - "Shakalaka"
+artist  - "Steve Aoki, Deorro, MAKJ, Max Styler"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Blasterjaxx ft. David Spekter - Collide.m4a
+title   - "Collide"
+artist  - "Blasterjaxx, David Spekter"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ephixa - Dreamstate [Monstercat Release].m4a
+title   - "Dreamstate"
+artist  - "Ephixa"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+W&W And Ummet Ozcan - The Code (Radio Edit) [Official].m4a
+title   - "The Code"
+artist  - "W&W, Ummet Ozcan"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hardwell & MAKJ - Countdown [radio edit].m4a
+title   - "Countdown"
+artist  - "Hardwell, MAKJ"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds - Heaven Let Us Down (feat. Koda) [Monstercat Release].m4a
+title   - "Heaven Let Us Down  "
+artist  - "Pegboard Nerds, Koda"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+League Of Legends ft. Against The Current - Legends Never Die Wildstylez Bootleg cut (192).mp3
+title   - "Legends Never Die (Wildstylez Bootleg)"
+artist  - "League Of Legends, Against The Current"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+R3hab & Deorro - Flashlight.m4a
+title   - "Flashlight"
+artist  - "R3hab, Deorro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - What Are You Waiting For [Monstercat Release].m4a
+title   - "What Are You Waiting For"
+artist  - "Stonebank"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Panda Eyes - ILY.m4a
+title   - "ILY"
+artist  - "Panda Eyes"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Unlike Pluto - Worst In Me (Official Lyric Video).m4a
+title   - "Worst In Me"
+artist  - "Unlike Pluto"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Guitar Track (Original Mix).mp3
+title   - "Guitar Track (Original Mix)"
+artist  - "Sander Van Doorn, Firebeatz"
+album   - "Guitar Track"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "1"
+genre   - "null"
+
+#############################
+
+Alan Walker - Force [NCS Release].m4a
+title   - "Force"
+artist  - "Alan Walker"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Jay Hardway - Lost (Official Music Video).m4a
+title   - "Lost"
+artist  - "Jay Hardway"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Borgeous - Celebration (Original Mix).m4a
+title   - "Celebration"
+artist  - "Borgeous"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Timmy Trumpet - World At Our Feet (RetroVision Remix).m4a
+title   - "World At Our Feet (RetroVision Remix)"
+artist  - "Timmy Trumpet"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Gammer - Stay Tonight (feat. Dylan Matthew) [Monstercat Release].m4a
+title   - "Stay Tonight"
+artist  - "Gammer, Dylan Matthew"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tommie Sunshine & KRUNK! - Bang Boom [OUT NOW!].m4a
+title   - "Bang Boom"
+artist  - "Tommie Sunshine, Krunk!"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+3LAU - How You Love Me feat. Bright Lights [Official Lyric Video].m4a
+title   - "How You Love Me"
+artist  - "3LAU, Bright Lights"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro & Dirty Audio - Dracarys [Monstercat Release].m4a
+title   - "Dracarys"
+artist  - "Deorro, Dirty Audio"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Paul Gannon feat. Elle Mariachi - Brighter.m4a
+title   - "Brighter"
+artist  - "Paul Gannon, Elle Mariachi"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+End Of The World.mp3
+title   - "End Of The World"
+artist  - "Kaaze, Jonathan Mendelsohn"
+album   - "ShowKaaze EP Vol. 2"
+year    - "2017"
+comment - ""
+track   - "2"
+genre   - "Dance/Electronic"
+
+#############################
+
+[Hardstyle] Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Adr.m4a
+title   - "Gold Skies (Adrenalize Remix)"
+artist  - "Sander van Doorn, Martin Garrix, DVBBS, Aleesia"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Temple.mp3
+title   - "Temple"
+artist  - "Blasterjaxx"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Starboy (Vicetone Remix).mp3
+title   - "Starboy (Vicetone Remix)"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+KSHMR - Strange Lands (Free Download).m4a
+title   - "Strange Lands"
+artist  - "KSHMR"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds - Purple People Eater [Monstercat Release].m4a
+title   - "Purple People Eater"
+artist  - "Pegboard Nerds"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KUURO - Take Me Down (feat. Bianca) [Monstercat Release].m4a
+title   - "Take Me Down"
+artist  - "KUURO, Bianca"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+CUZZINS - What It Do [Premiere - Free].m4a
+title   - "What It Do"
+artist  - "Cuzzins"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KSHMR, MR. BLACK - DOONKA.m4a
+title   - "DOONKA"
+artist  - "KSHMR, MR.BLACK"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alvin Risk - Ever.m4a
+title   - "Ever"
+artist  - "Alvin Risk"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - Siren ft. Pia Toscano (Official Music Video).m4a
+title   - "Siren"
+artist  - "Vicetone, Pia Toscano"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - Feels Like (Official Video) ft. LAUR.m4a
+title   - "Feels Like"
+artist  - "Vicetone, LAUR"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Kalimba.m4a
+title   - "Kalimba"
+artist  - "Danko"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Electro] - Ralvero & Karim Mika - Mad.m4a
+title   - "Mad"
+artist  - "Ralvero, Karim Mika"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Moonrise.mp3
+title   - "Moonrise"
+artist  - "Quintino"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Virtual Riot - Idols (EDM Mashup) (Official Video).m4a
+title   - "Idols  "
+artist  - "Virtual Riot"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+RIOT - Aiwa [Monstercat Release].m4a
+title   - "Aiwa"
+artist  - "RIOT"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Monstercat Uncaged - Vol. 2 (Album Mix).mp3
+title   - "Uncaged Vol. 2"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone & Tony Igy - Astronomia.mp3.mp3
+title   - "Astronomia"
+artist  - "Vicetone, Tony Igy"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Showtek Noisecontrollers - Get Loose.mp3
+title   - "Get Loose"
+artist  - "Showtek, Noisecontrollers"
+album   - "Get Loose"
+year    - "2013"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/U4IirwEkzdCcrnmAgeFbSaXUpTXVCEZU0/zz6EYZkqW7W9mfuQtTrVCutS3alkMWnh1p7GdM0AL9V0YaoNlalW3gHGJN/CRvojsJTul512SaoAxBqGzZ4Q0LxPdnir4ZhDrQDKnwfdBlPCh+Tz7O239WGMX/xOa5YakEw7CEV9ByIuI9qoA/nsCN+dr/LVZBS2zQ6L8GBxhplZWO/ckb4QrhIyEs6otiJJLxHtX5fT/W4j79J1IBaVb/QalrxbUfKw+G5fV8DsrRqrik+2j/BwDoDIhqhxAIjXjxUT4Mhgh5sPsihw4ZrKdn+KQ9mLKhzGGiEwe5Ycx09Gr9zPx2ST0lcF7MZNtlJxJfi2mgn56k4PZkcVfcWcz6l+tChJKxbPjhVi9GXv3PCn/cMuQUd4+FP2jwcF1w09nH8Lth6rXjhoUFg/6PEacNRZWgPxemhN70QsdioVN97T8jV+IGykqD//03gHp+9qyhijOW0a7aZwsPpnXf7wakf53ianDkF0VdyHBI7p3lHdU8Q0AtmGHgTqdqX99Dtdn7sG+vIo8WbkLi+QqYcDxdl4cz0Wo2Ssx5/QTx+iJw+WAVl0WJ3xgdMw7OgyCtMcauVU/eQCdi60g2wj5nEi0Jpkl4NA71ZDf2PRVpw3FePu77afgTlqgYxiSbuGOEiAW6xcmzlXrmOp4EfM6oKggyiCG9nIqidLXiBN6xaZNuFaOz5GOfHo="
+track   - "1"
+genre   - ""
+
+#############################
+
+Deorro - Andele.m4a
+title   - "Andele"
+artist  - "Deorro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dustycloud - Stress.m4a
+title   - "Stress"
+artist  - "Dustycloud"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Gareth Emery & Standerwick - Saving Light (NWYR Remix) [feat. HALIENE].m4a
+title   - "Saving Light (NWYR Remix)"
+artist  - "Gareth Emery, Standerwick"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ti__sto Kaaze - Rocky (Original Mix).mp3
+title   - "Rocky (Original Mix)"
+artist  - "Tiësto, Kaaze"
+album   - "A Town Called Paradise (Deluxe Version)"
+year    - "2014"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/aKuSnmFgYRkpLpH2C7Zor1GmBCwQmZuFlwdcDgYNJ7d06Nm68v0XOClb00b2OK88vyRC+CAgT26BqJcj8Lppb2fydBpTpUwyncF3VJMmmY+UzHFMW7rUfV8p+Z4tonn/sPuksPTpGSerd8V4JTETgqjBDiQZTW2j+SGGfSyJrvwVNlDgqHU/iyad9rsHnJpSH0RgvsYsnYbvQknXJHJwbl0BR83N0oebrNf/WnzUKzKfONrO51+ENEwUfIENd2Ooy/fh7KUjBr0B/BZyvGVa9apL9MFuKf7Ptu0dpBNOMnM2YyU9Ek/dHuGMv87XAHB8KhADQIGMNY1s6hqoGIlj5mjSUA5bKIVQqUIdtMt+u9uWqH6Pow+SmAhjRIzFtRBgiFJiyIA0mt2fjudke9BGqJAyI+dPNOhUQRX9ToWrywM7yxOOXjIJXEOCqdGBZQ6bEB2WvoxgECQDOg7ckmEz0w42raKLgSNyyHHBAeCEHodtbI/3Zq1RfpBY7mRYoST26nyenktoVc1qVjMZq1XMVCPd05cubTDfvw7uCav1qcO8GnDBa/1tF2QN3rrFXEdAQ3Zx0oedRAzwfONs12PMmyMBNsFGi2NUUy4FCoLOwv2es9aJ8EaTrlbV9EPOPIMOzh3p6qFWWiTq4Re8DKzZL9DZF1WqRK8vulYNgkiM7yoDCzQJZ+WTqFFnoEdXng3jvjN8ndElKvt3bz63kZfGbvHSbIJ7WtoBtNSR+z5DuPz"
+track   - "12"
+genre   - ""
+
+#############################
+
+#4 Radio Record - Clean Bandit - Rather Be feat. Jess Glynne (Merk & Kremont Remix).mp3
+title   - "Rather Be (Merk & Kremont Remix)"
+artist  - "Clean Bandit, Jess Glynne"
+album   - ""
+year    - "2014"
+comment - ""
+track   - "0"
+genre   - "Electronic"
+
+#############################
+
+Crave.mp3
+title   - "Crave"
+artist  - "Tristam"
+album   - ""
+year    - "2015"
+comment - "0"
+track   - "0"
+genre   - ""
+
+#############################
+
+Gareth Emery feat. Gavin Beach - Eye Of The Storm (Stadiumx Remix).m4a
+title   - "Eye Of The Storm (StadiumX Remix)"
+artist  - "Gareth Emery, Gavin Beach"
+album   - "Drive: Refueled"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KSHMR & Marnik - Bazaar (Official Sunburn Goa 2015 Anthem) [Official Music Video.m4a
+title   - "Bazaar"
+artist  - "KSHMR, Marnik"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Blackstripe - Boobs.m4a
+title   - "Boobs"
+artist  - "Blackstripe"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+MorganJ ft. Philip Matta - My Favourite Drug.m4a
+title   - "My Favourite Drug"
+artist  - "MorganJ, Philip Matta"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dirtyphonics x RIOT - Got Your Love [Monstercat Release].m4a
+title   - "Got Your Love"
+artist  - "Dirtyphonics, RIOT"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hardwell & Timmy Trumpet - The Underground.m4a
+title   - "The Underground"
+artist  - "Hardwell, Timmy Trumpet"
+album   - "Hardwell and Friends Vol. 3"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dimitri Vangelis & Wyman - Legacy.m4a
+title   - "Legacy"
+artist  - "Dimitri Vangelis & Wyman"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Kaleidoscope.mp3
+title   - "Kaleidoscope"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - Body Moving (feat. Whizzkid) [Monstercat Release].m4a
+title   - "Body Moving  "
+artist  - "Stonebank, Whizzkid"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Get Up (feat. Mr. Nickelz).mp3
+title   - "Get Up (feat. Mr. Nickelz)"
+artist  - "KDrew"
+album   - ""
+year    - "2017"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Laidback Luke & TWOLOUD - Fcukin Beats [Out Now!].m4a
+title   - "Fcukin Beats"
+artist  - "Laidback Luke, twoloud"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Slips & Slurs - Moving Hectic (feat. Harry Shotta) [Monstercat Release].m4a
+title   - "Moving Hectic"
+artist  - "Slips & Slurs, Harry Shotta"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+R3hab - How We Party (Original Mix).mp3
+title   - "How We Party"
+artist  - "R3hab"
+album   - ""
+year    - "2014"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/V80uKVKzds62M/Ycl34uusEVdAlQYpEjY4DSmb8OTIZE/Ah/3e8ybaU54UYm6WTOKFgBBcqkOBajZTDx7M/YyWZRO2C3iI+a4IT2DRs489fYAy4rc4hhP+k7X/sOKv6D99ybx4mVwOCFgzRsKNFgH8+lrsrW+f+WA4BsvSO9ypwVlJ1ZSegXIa1QzElqHGc+dp3HZxfswy6EA34HZ/pxYPq7kc5eQJS4S4B4LiTBofC6tBCXlQLfifF3XWuOeZDReou4FgkZVzHCak+pA5pDpzsvo7QArVzh6Qw531CBHJfV5fwpSaOUP5XwHqfb9g5UgdKlNbOnhuWhOEJVfXPpHPd1nKZibx/P598kWItgV4EDe1kiigAlC/l1hO3al2CIgoUWyejC4txRu4oY3cQ162fu1psK+gQZQi6jqBIK46y/7qGh/cjJal34h7VbXiuB0N3Y5KUQ4dSh9FiuFlKOVdADqdwIyELIB8epK8QJyVd/Wh4rVWNb0aAT1sPoGaBOut19XHuhOCIo1LA1idvIy8TmULewNuogfePr220Dq9VCWzd6PzNxRe/yEbBAb3snRwmMHrtvAMb1XRSNBxlGWdX6CNuub8pdZ8kLG7Gub88uORoCKyUgYURCk463a6EKoHBUQ2XnoZV9As7ZWq03e+F3I5heGbZ4Rm9mFi0oylebFQrbF4nruLXvet5Kj585Dgv35bplYEq2UnYIuT9SbKYAkKZrNct+g/xyzRISLe7"
+track   - "1"
+genre   - "Electro House"
+
+#############################
+
+Lush & Simon - Adrenaline (Radio Edit).m4a
+title   - "Adrenaline"
+artist  - "Lush & Simon"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Borgeous - Wildfire (Radio Edit) [Official].m4a
+title   - "Wildfire (Radio Edit)"
+artist  - "Borgeous"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Trance] - Au5 - Crossroad (feat. Danyka Nadeau) [Monstercat Release].m4a
+title   - "Crossroad"
+artist  - "Au5, Danyka Nadeau"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - California (Radio Edit).m4a
+title   - "California"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Mike Candys - Anubis (Music Video HD).m4a
+title   - "Anubis"
+artist  - "Mike Candys"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Warsongs - PROJECT- Yi (Vicetone Remix) [League of Legends Music].m4a
+title   - "Project Yi"
+artist  - "Vicetone"
+album   - "Warsongs"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Lucas & Steve vs. Pep & Rash - Feel Alive.m4a
+title   - "Feel Alive"
+artist  - "Lucas & Steve, Pep & Rash"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+F.O.O.L - Resurrection.m4a
+title   - "Resurrection"
+artist  - "F.O.O.L"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vishnu.m4a
+title   - "Vishnu"
+artist  - "WICKD"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Bad Computer - Disarray [Monstercat Release].m4a
+title   - "Disarray"
+artist  - "Bad Computer"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro, Henry Fong & Elvis Crespo - Pica.m4a
+title   - "Pica"
+artist  - "Deorro, Henry Fong, Elvis Crespo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Monstercat Uncaged Vol. 6 (Album Mix).m4a
+title   - "Uncaged Vol. 6"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Aero Chord - Take Me Home (feat. Nevve) [Monstercat Release].m4a
+title   - "Take Me Home"
+artist  - "Aero Chord, Nevve"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Jayden Jaxx & Hasit Nanda ft. Mitika - Tarana [Revealed].m4a
+title   - "Tarana "
+artist  - "Jayden Jaxx, Hasit Nanda, Mitika"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tujamo - Drop That Low (When I Dip) (Original Mix).m4a
+title   - "Drop That Low"
+artist  - "Tujamo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pure Noise (Original Mix).mp3
+title   - "Pure Noise"
+artist  - "Dyro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+In The End.mp3
+title   - "In The End"
+artist  - "Phantom Sage"
+album   - "Lovestep"
+year    - "2017"
+comment - "vk.com/lovestep"
+track   - "0"
+genre   - "Lovestep"
+
+#############################
+
+Rampart.mp3
+title   - "Rampart"
+artist  - "Audien, Gammer"
+album   - "Some Ideas"
+year    - "2017"
+comment - ""
+track   - "2"
+genre   - ""
+
+#############################
+
+DJ Blyatman - Metro.m4a
+title   - "Metro"
+artist  - "DJ Blyatman"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Grant - The Edge (feat. Nevve) [Monstercat Release].m4a
+title   - "The Edge"
+artist  - "Grant, Nevve"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+BURNS - When I'm Around U (Official Music Video).m4a
+title   - "When I'm Around U"
+artist  - "BURNS"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+INTERCOM - Decoy World (feat. Park Avenue) [Monstercat Release].m4a
+title   - "Decoy World"
+artist  - "INTERCOM, Park Avenue"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Steve Aoki - Anything More (feat. Era Istrefi) (Will Sparks Remix).m4a
+title   - "Anything More (Will Sparks Remix)"
+artist  - "Steve Aoki, Era Istrefi"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Marcelo CIC & D-Stroyer - Battle Cry ft. Ghost WARS.m4a
+title   - "Battle Cry"
+artist  - "Marcelo CIC, D-Stroyer, Ghost WARS"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Krewella - Come And Get It (Razihel Remix).m4a
+title   - "Come And Get It (Razihel Remix)"
+artist  - "Krewella"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+ New Style (Original Mix).mp3
+title   - " New Style (Original Mix)"
+artist  - "Pegboard Nerds"
+album   - "New Style"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "1"
+genre   - "null"
+
+#############################
+
+BADBOI (VIP Mix).mp3
+title   - "BADBOI (VIP Mix)"
+artist  - "Pegboard Nerds"
+album   - "The Uncaged Remixes"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "4"
+genre   - "null"
+
+#############################
+
+Snails & Pegboard Nerds - Deep In The Night [Monstercat Release].m4a
+title   - "Deep In The Night"
+artist  - "Pegboard Nerds, Snails"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Axwell - Barricade.m4a
+title   - "Barricade"
+artist  - "Axwell"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KSHMR, DallasK - Burn (Radio Edit) [Official].m4a
+title   - "Burn"
+artist  - "KSHMR, DallasK"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KSHMR, B3RROR, Luciana - Lies.m4a
+title   - "Lies"
+artist  - "KSHMR, B3RROR, Luciana"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - End of the Year Mix 2015.m4a
+title   - "End of the Year Mix - 2015"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Darren Styles & Stonebank - Sky Is Falling (feat. EMEL) [Monstercat Release].m4a
+title   - "Sky Is Falling"
+artist  - "Darren Styles, Stonebank, EMEL"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Gray.mp3
+title   - "Gray"
+artist  - "Whipped Cream, KTRL"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ti__sto The Chainsmokers - Split (Only U) (Original Mix).mp3
+title   - "Split (Only U) (Original Mix)"
+artist  - "Tiësto, The Chainsmokers"
+album   - "Split (Only U) (Original Mix)"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/fkbofgam1nMfwHB1dKjBs9GmBCwQmZuFlwdcDgYNJ7d/ptlDqinqRzU2gDJKPuNsdKKF8+UlQCDD9mn4XlNHbmjnzs4iNlAncs5v4/61nltrQcsuI87l16QXwhwa3hEXplE7YLeIj5rghPYNGzjz18FnvY04izMz8vR4nfcTKJotFb/mLZ7mft+cDzhdzCZn2AyoBOCly5TDZiqEtiaNCz7uQZwHVwwY1eVglKapio+lbRhnck5UttVRzP4zRbUSk9WhlMp3vFIBfRbb4zv9VmaZnPLyb0Yt4sn8hvoC8mAjTpzKDlwR4GgZ8lqqyfUKzu2PrlLJUnuD2Q1ckC8VJHvs7s22IdgzyXCjzgfbDWUZTEgkg6GvUPI4Nke8weCraCtkzZ+hd3Ueb2iJu4HYd8N7WSKKACUL+XWE7dqXYIiChRbJ6MLi3FG7ihjdxDXrew8bPvRuCc+5c4HOUt2Bl3/uoaH9yMlqXfiHtVteK4HQ3djkpRDh1KH0WK4WUo5VzwPRX5y+WqMdSxDUScOvnZb6fOyLV2MQjpasPiGnBZk63X1ce6E4IijUsDWJ28jLx2R4A06Rjan/oO5D0a689WEsQXYBCPtTrd4C6+FVMZ9zR48I1FD+9I61IkwlWubSSzXY+lAzV42fVWR6TpdXn6IhH/qGPXy0Q5z6AgyU+ggqAgJ+wrp/3HNYErwY1aVaLeBbY+UlZEkMy1a6OaYHonRU7HUhheuveYh4izUNXq3dnuvfvqG4XG9IhvI2Npr3KnhioBcP4ZT2Cpu+6itN8c="
+track   - "1"
+genre   - ""
+
+#############################
+
+Bad Computer - Paradigm (feat. Karra) [Monstercat Release].m4a
+title   - "Paradigm"
+artist  - "Bad Computer, Karra"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Porter Robinson - Sad Machine (Darren Styles & Gammer Remix).m4a
+title   - "Sad Machine (Darren Styles & Gammer Remix)"
+artist  - "Porter Robinson"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Merk & Kremont - Get Get Down.m4a
+title   - "Get Get Down"
+artist  - "Merk & Kremont"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Kayzo - Born Again (Darren Styles and Gammer Remix).m4a
+title   - "Born Again (Darren Styles and Gammer Remix)"
+artist  - "Kayzo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Wild.m4a
+title   - "WILD"
+artist  - "Da Brozz, Miami Blue"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Cmon Rave On.mp3
+title   - "C'mon Rave On"
+artist  - "Felguk"
+album   - ""
+year    - "2014"
+comment - ""
+track   - "1"
+genre   - "House"
+
+#############################
+
+Pegboard Nerds - OSCar [Monstercat Release].m4a
+title   - "OSCar"
+artist  - "Pegboard Nerds"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KUURO - Afraid of the Dark (feat. Sophiya) [Official Lyric Video].m4a
+title   - "Afraid of the Dark"
+artist  - "KUURO, Sophiya"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Spinnin' Records - Best Of 2014 Year Mix.m4a
+title   - "Spinnin' Best Of 2014 Mix"
+artist  - "Spinnin' Records"
+album   - ""
+year    - "2014"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Mako - Our Story [Exclusive Premiere].m4a
+title   - "Our Story"
+artist  - "Mako"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Progressive] - Estiva & Skouners ft. Delaney Jane - Playing With Fire (Cuebrick.m4a
+title   - "Playing With Fire (Cuebrick Remix)"
+artist  - "Estiva, Skouners, Delaney Jane"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+TNT - Teknogym 2k19 (Official Video).m4a
+title   - "Teknogym 2k19"
+artist  - "TNT"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Gammer - This Is The End (feat. David Spekter) [Monstercat Release].m4a
+title   - "This Is The End"
+artist  - "Gammer, David Spekter"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Promise Land - Gangsta (Original Mix).m4a
+title   - "Gangsta"
+artist  - "Promise Land"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds - Just Dance (feat. Tia Simone) [Monstercat Release].m4a
+title   - "Just Dance  "
+artist  - "Pegboard Nerds, Tia Simone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tommy Jayden - Infected [Free].m4a
+title   - "Infected"
+artist  - "Tommy Jayden"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Steve Aoki & TWIIG - Hoovela.m4a
+title   - "Hoovela"
+artist  - "Steve Aoki, TWIIG"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Sullivan King - I'll Fight Back [Monstercat Release].m4a
+title   - "I'll Fight Back"
+artist  - "Sullivan King"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+zonderling Bishop - Crazy For You (Extended Mix).mp3
+title   - "Crazy For You"
+artist  - "Zonderling, Bishop"
+album   - "Crazy For You"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/WG3arnaN/EAjOn9kbiGbFPcaYp+3rvidjO/qHBC95toM62Us2RjmW9rwFfJnpBd5QKomDtq2PCcl3hdrhEcyS6ySyNUWRJ1VOCVHy7JJKTWwmT9vlhAylHiGHuA2sjWrPVWxPfPAtg9aetU+Vm92pr3eKWZTToFiy1SbG5wQc3++IlbRE29gmo/XRfWR/5ULZdgJq3YIDgNwWZjW1VsGB+XicJCf4Fv9Pnz6hnJI4cWwfe7wiLgYRwBkuOSwZucP29psggq0AJeTaJ0MgTKGTQ70pMsZ/pAGecyoW8HaV73Aq4Wt0d/HFsG/JY3ZQ0U4Hv7HkY9AT04ULdO6hHlBE+PMGusLDkl1TujMUy3ITQQUSXUALL0wtwzt8gu42wPXKwln3FGGbp15UmjsPk9yIn1Op/1neQkFX7y7pANHbHPneebvP/IBxlRHknoEF8n4OmMHDJz1q9o6t3XRWydyoKH0kHdoe4vVGi9ST0iakQAHuhuIXKJVi/mrWHHRdDYG/oHxROxKc6/wLX9uZKiBIpNTd/KSB6TX2kytcpD9LFZtuvmLylcgCdxWaxoKfyR9HO0B9h8kbsTqdKvYlRvViuV1qxOKoFnB41h9O3GRiPqsQ2dNdzR/dW9IAGQEK3Ola8b3s4oIlLefOYJmNJfVZMXGTZHVnvME7u2DvgHjrY2Mr81U1UqCp9XWLwT/X6NpYdhnAxCHguhdQanvHn/+P/D/HcrsJihGx37O8SPj/ft91aYKn3BTIq7mkE+e0bgZw=="
+track   - "1"
+genre   - ""
+
+#############################
+
+Chime - Wait For Me (Teminite Remix).m4a
+title   - "Wait For Me (Teminite Remix)"
+artist  - "Chime"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vertigo.mp3
+title   - "Vertigo"
+artist  - "Rob Gasser, Laura Brehm"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tujamo & Danny Avila - Cream (Official Music Video).m4a
+title   - "Cream"
+artist  - "Tujamo, Danny Avila"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Titan_1.mp3
+title   - "Titans"
+artist  - "Razihel, Aero Chord"
+album   - "Titans"
+year    - "2015"
+comment - ""
+track   - "1"
+genre   - "Trap"
+
+#############################
+
+KUURO - Swarm VIP [Monstercat FREE Release].m4a
+title   - "Swarm VIP"
+artist  - "KUURO"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dual Force - Temptation _ Diversity Release.m4a
+title   - "Temptation"
+artist  - "Dual Force"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alex Martinez - Top Of The World (Max Farenthide Remix).m4a
+title   - "Top Of The World (Max Farenthide Remix)"
+artist  - "Alex Martinez"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Sidney Samson, Eva Simons - Celebrate The Rain (Schooki Bootleg) [Radio Edit].m4a
+title   - "Celebrate The Rain (Schooki Bootleg)"
+artist  - "Sidney Samson, Eva Simons"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[DnB] - Feint - Snake Eyes (feat. CoMa) [Monstercat Release].m4a
+title   - "Snake Eyes"
+artist  - "Feint, CoMa"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Unknown Brain - Superhero (ft. Chris Linton) [Bass Boosted].m4a
+title   - "Superhero"
+artist  - "Unknown Brain, Chris Linton"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Timmy Trumpet & JETFIRE - Flamenco (feat. Rage) [Official Audio].m4a
+title   - "Flamenco"
+artist  - "Timmy Trumpet, JETFIRE, Rage"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Linkin Park and Steve Aoki - A Light That Never Comes (Vicetone Remix).m4a
+title   - "A Light That Never Comes (Vicetone Remix)"
+artist  - "Linkin Park, Steve Aoki"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Braken - Wherever You Go [Monstercat Release].m4a
+title   - "Wherever You Go"
+artist  - "Braken"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+HIIO - Survivor.m4a
+title   - "Survivor"
+artist  - "HIIO"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+No Regrets (feat. Krewella).m4a
+title   - "No Regrets"
+artist  - "KSHMR, Yves V, Krewella"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Electro & House 2016 Best Party Club, Remix, Dance, Music Mix.m4a
+title   - "Mix 1"
+artist  - "DJFlyBeatMusic"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hellberg Stonebank Cozi Zuehlsdorff - The Girl (Stonebank Remix).mp3
+title   - "The Girl (Stonebank Remix)"
+artist  - "Hellberg, Cozi Zuehlsdorff"
+album   - "The Girl (Remixes)"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/RvfTIWKXJ0CQ/2abzHKMnN82hiZjKQydajwxdV14uHI8JAxuUBAETDNpyh0XD8yY28/p98qRMnPDoDB0/axuWq1X1owGtOhwrS27SCFOY2VmsoY3BjIqZNw09xE7M8zjwAQ2nCfY+iwceJ24T+EGCOUzw3GKA1eNdfxI1+v6X2Cnr8jl05i6fJPSfjybUmkz1pjykG64gwp0u0rj7V9GY+et8NALaNXkYVUX4a6E6vsJ/uda0lI55ikMZcL0jN6tbLyMD/D8GNNHFoVcRMf0wBeAQ4QTpLikQJ3Aom/oLR+Fj3OdyTfzyBCEa+VPwVO7ynxPxDXfy9CAs+8U/TXuBihxBTibLHndn5I2P5PWDt711UDV6PauRKXwsm5P4Zh+bIrP+4iUDGdFeoegjL7EMZ7BBDPDD/dEwIPDCcFqqK5P04a9M9f9uJwnQj52ZEodUl3Un2gB1TujOYxKtCZ7XS45TBGsncZkIhIuNJsWb22C//W2XOTJbGnz7j62WPcd4dq8q5sGOTaIGwNZDSIj+AsBTHKfIuGs9iEDAOFMwDckUliftn4Jp0NrDXOgdYN67P/qVBgMcrQSMm9E79wPAjsaB3jqJWmXoeEM3cpXN2UhSLum5DvwI5I4iCfrHNEb9kqTzGE8Ke4rzzKsXVnh1PqOnJB+xhx3QSlGK11Y+XDAGitXxkC4AxSm0Qf4OEIHResfCBsGKSD2dcgr1J189CAgTMqJNKzN3er3bOAbt/laUBUGf1+F6E4RPbG/OuBhL/rf+ZRBV3JO062NA8OCxM="
+track   - "4"
+genre   - ""
+
+#############################
+
+Alan Walker - Faded.m4a
+title   - "Faded"
+artist  - "Alan Walker"
+album   - ""
+year    - "2015"
+comment - ""
+track   - "0"
+genre   - "Progressive House"
+
+#############################
+
+Dimitri Vegas - Tremor (Original Mix).mp3
+title   - "Tremor"
+artist  - "Dimitri Vegas & Like Mike, Martin Garrix"
+album   - "Tremor (Original Mix)"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "1"
+genre   - "Electronic"
+
+#############################
+
+Mike Williams x Mesto - Wait Another Day (Official Music Video).m4a
+title   - "Wait Another Day"
+artist  - "Mike Williams, Mesto"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Sebjak & Matt Nash ft. Eric Turner - Fire Higher [Premiere].m4a
+title   - "Fire Higher"
+artist  - "Sebjak, Matt Nash, Eric Turner"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Victorious.m4a
+title   - "Victorious"
+artist  - "Psyco Punkz"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Blast From The Past (Original Mix).mp3
+title   - "Blast From The Past"
+artist  - "Karim Mika, Moe Aly"
+album   - "Blast From The Past"
+year    - "2016"
+comment - "Speeeedy EDM Blog - 3;02=K9 8AB>G=8: M;5:B@>==>9 <C7K:8 2:>=B0:B5!
+vk.com/speeeedy"
+track   - "1"
+genre   - "Dance/Electronic"
+
+#############################
+
+Monstercat Uncaged - Vol. 4 (Album Mix).m4a
+title   - "Uncaged Vol. 4"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tritonal ft. Steph Jones - Blackout (FTampa Remix) [Exclusive].m4a
+title   - "Blackout (FTampa Remix)"
+artist  - "Tritonal, Steph Jones"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Mitch Crown Hardwell - Call Me A Spaceman (Radio Edit).mp3
+title   - "Call Me A Spaceman"
+artist  - "Hardwell, Mitch Crown"
+album   - ""
+year    - "2013"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/VKteMMamlsf8960X94c9G8k0m3cfnXpRX9mrbFQOdiWmmls0zIVxQpD3fhZ+Ll2/ZAtgxg8l0XBbFWF0d1fbew1XzIZLbforyNhRKHNirum0LVldjCP2H69Ann4a4ju88x0Plec8SHI8DYdFg2MSHqzHqFP1UYiezjbbNj9l07RMK1s30RBbnaz4n18E2B6ENiHYSjQX3Bqjell28LuQmILkVnqlK8m1DyZ9Vbe09U8Nj8a9HHlL6sdqQfU5KaSJBFoTXztijKyWhO6O3d6tVhDo4qdJYG+LIgok6E5GXVDUeLA/qCD1v1XYAFApOBRNhZrc/XbDrj79rv8Ra4rfqSJEbJwZHQovNBbWhp36MdVrRdjyIfKJKRx4+h9fz2PNgeDc+SKso3nc7DqGPe465p5omRYufwOmogb9hCaxxQyb+TaIiG3BEHHlgTHugcApZDirioMlG9MnXT+MyYsY9jVGyPJUaLrKkV2vA8Bgb7eE/0UE03mCwCcFPa2woRuTMnzv4x1zyuIatr/QeU2HTrwacMFr/W0XZA3eusVcR0BuCXx4LxaeyepbwbDqOu2pV/xXRnuuBXqaI2/0QSkWcMZScoKNKw03fIgXXTX29YK5ceE7eXTzAdOZ38llF3KV2O+w4HjLMytukBECzqPAQjp9eSAxbUKydxdqhj0phHW+M3yd0SUq+3dvPreRl8Zu7szhUPt177RRGWRZIY+wHk="
+track   - "4"
+genre   - "Dance"
+
+#############################
+
+No Regrets (Randall Remix).m4a
+title   - "No Regrets (Randall Remix)"
+artist  - "KSHMR, Yves V, Krewella"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Titan.mp3
+title   - "Titan"
+artist  - "Karim Mika"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Afrojack - Rock The House.m4a
+title   - "Rock The House"
+artist  - "Afrojack"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Parade.mp3
+title   - "Parade"
+artist  - "VINAI"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The Chainsmokers - Let You Go (Steve James Remix).m4a
+title   - "Let You Go (Steve James Remix)"
+artist  - "The Chainsmokers"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Sonic One twoloud - The Drums (Original Mix).mp3
+title   - "The Drums"
+artist  - "Sonic One, twoloud"
+album   - ""
+year    - "2015"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/Q5/mAOg3aQgs7PQNsIlYYw0mLU8poy1PQ88QtwUSOCWY6Z8bzwCEJNDfloRA7pzWmWtqDl6bRPtToevOm2c2lbC7615JV5qbadK7drOVsE8Z1vTbuo0UegkCBDC14brnMpD6er1wlON0c99+k+OHJkeNlep/mk+r0ZHPrUEHSRWYDKgE4KXLlMNmKoS2Jo0LEaQzdlYw6woO1ELyYR8tBF/02Ymz7AFk6RPCCgg0zfMyYyrckQUuXdsRfehEF1d1VWEHnoyCyr9PujoRVK0lZ7hJcCXhHqwMYp1KwgIp9cVWFVSH8jYwfqh18G+xMXhnigu8SUKdhGHA5zCAmN82RoMiQyViqF5rcq+mLvLh30KWWiG0FjsLiRo3a/d+KE35W3UGRYB4/irNl5x/a+YVHL8RqRZJxcm7pDbPjEisVhv7iz/SPkPKURTb4ypAokzRvrfZfJ3uIRLVYoJIDJ+TTIWUmWDIUPLJ9fc4z0M02gAJHKr0t3lsyC9+TSo4Ll/Aenvb2al4BT2TlnqVCw5dhZfxj2GQHKla8u743jRVeLyLFF75kISJ0bMD4pUIdsZW2E/CREJB1LdWketcvJGlCimIoOd0RZJRvkOb1/NkPIXFIy+XC7d+U4TvagbrbZNlAh4iR2mCt9XQKnu9eygnxDByk87mf9pqLS7IH/RPXZIztiwDaHV4kVAGSdusLif1p1B1FqZwNwhInorv1u0vVXnGhYgvne44figYWbOMvkxO+GWRy8XyiiLWjJkisiAGQ=="
+track   - "1"
+genre   - "Electro House"
+
+#############################
+
+KSHMR, Jake Reese - Carry Me Home.m4a
+title   - "Carry Me Home"
+artist  - "KSHMR, Jake Reese"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds - Steel [Monstercat Release].m4a
+title   - "Steel"
+artist  - "Pegboard Nerds"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+BORGEOUS - BREATHE (Original Mix).m4a
+title   - "Breathe"
+artist  - "Borgeous"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The Prophecy.m4a
+title   - "The Prophecy"
+artist  - "Timmy Trumpet, Maddix"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Till It's Over.mp3
+title   - "Till It's Over"
+artist  - "Tristam"
+album   - "Till It's Over"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - "null"
+
+#############################
+
+Heart Afire.mp3
+title   - "Heart Afire"
+artist  - "Defqwop, Strix"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ephixa & Laura Brehm - Losing You [Monstercat Release].m4a
+title   - "Losing You"
+artist  - "Ephixa, Laura Brehm"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+FLUX PAVILION & NGHTMRE Feel Your Love  (Late Remix).m4a
+title   - "Feel Your Love (Late Remix)"
+artist  - "Flux Pavilion, NGHTMRE"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stadiumx - Sugar (StadiumX Remix).mp3
+title   - "Sugar (StadiumX Remix)"
+artist  - "StadiumX"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Fire.mp3
+title   - "Fire"
+artist  - "Holl & Rush"
+album   - ""
+year    - "2017"
+comment - "Prime Music"
+track   - "1"
+genre   - ""
+
+#############################
+
+Sagi Abitbul & Guy Haliva - Stanga (Original Mix).m4a
+title   - "Stanga"
+artist  - "Sagi Abitbul, Guy Haliva"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tritonal Chris Ramos SHANAHAN KAYZO - This Is Love (Kayzo Remix).mp3
+title   - "This Is Love (Kayzo Remix)"
+artist  - "Tritonal, Chris Ramos, Shananan"
+album   - "This Is Love (Remixes)"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/ZWyTawRa1zD58IcIEwg7HKvePHZpQlR09YA8ED7a9wwLPMcuZNjXz91VyU++CiPZEZLDghHSwbgUmvuh8HC12SyK8TqwerbSkK4I75rsTuOnnsdZI/Bun8nfZG463mjMYabT9ZJ8VQDqrlE4p3T+dQ0xGtDVSXssZmEmxVZuvphYBrBYbc378YGPHVdIK137WEl1QEtVPJjtteHwPEd5gZiqJQcNkc/mroVxIH4RYHW3YK8AXiw1zuz+w4SAhhE3EeizM1Lscra2lLY7reiuD9QutgbchA71+yP6+pFxQNGXw3ZqQ1RNPiP82OtC5IesNgzNSeOMmvz4Dhk5FufFeTCrK6INYWubaCd1TlrCO2TV5KFTCKusnsrGfRQHOTjFVCegzjhL8SunYP/U5vh3EP0pFH8IGmNmatn3tKSf0UkcTAl1NgcXX9zDWyaigNOivHky5oPc75MwA5Zo0R0K8x9DTbv4w/XboczCCS+8+VFjUbvSnl8w7n8FahDd+bzIct3CYgmsaGXs0lsB0+/j7bfdUIL4z/jdPbXv5gt25KPZ+JO5vTrWHVtKUQxlAo50yoUIMwviErd5GpjN2rcQbVtF+q8khxQegt82bAqN6iQEnfG6UYVAQdBC+lW3usbZ1XPaWZLFbsr1a9baLeOELRhCuInQYnwQ3v3HP5hDIiDKYkXHxtVH1LwQA2NDoV8K81IUX9M5oja6OZlQFFxPnT3vFu8D5lmct6xkLfX7FHUc9nYN+yPP7fFDQZkm3KXu4CtXIQBVY+BPFla5ouriDh+zy3AKoSNAhTgtKtPSWv8"
+track   - "3"
+genre   - ""
+
+#############################
+
+Bad Computer - New Dawn [Monstercat Release].m4a
+title   - "New Dawn "
+artist  - "Bad Computer"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - Hands In The Air (ID 2) (Radio Edit) [HQ].m4a
+title   - "Hands In The Air"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Electro & House 2016 Best Party Dance, Remix, Club, Music Mix.m4a
+title   - "Mix 3"
+artist  - "DJFlyBeatMusic"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Walidwipa.m4a
+title   - "Walidwipa"
+artist  - "Jinaction"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds - Back To Me [Monstercat Release].m4a
+title   - "Back To Me"
+artist  - "Pegboard Nerds"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Evil Activities - Nobody Said It Was Easy.mp3
+title   - "Nobody Said It Was Easy"
+artist  - "Evil Activities"
+album   - "Evil's Greatest Activities"
+year    - "2013"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/VDZBxlWUqpZ2DmQBvMNTR9SC6Yl576Y5XReRPnGOU9nG9qsRfvOzW/+QiZOLW6rMfQFlgT+nnWRiWwsQQRpTYg6Yx9AvK2xy94P/0FO2JxLf4JE/ZMmQ+wwQS/a79d9HXnytaJPnuYeY1+FnIXdQf8u4PFlP3u/RXIkqQunMRoS6IRXi4qd/JyrUmz8auLzyoUg5EwO0rMLKtspHctqReGfyOSMhAtn0Dj8Gr8yftKYpLWVcWJlWkegkUVoNpKvKIoQrw/LONegL8OuK4yQUQxP2G7MTkbEfzfpN4axOMHj+m5VjOlfHkIe3WBOKQJ2CYQtVIVyuZKIUeoZB3Pawn6igI3K8cxBoScOdx7eFtMydhDwMo2IpwRiElhuY263y0NA1Uz5YoDLXTEOMaUJPkh/nJStjmV8kWzOL8n7LTBK95pUv+gIqUUfxcePdBzyWXOBkHTjH3cn+SJCehW/QZRBr+8nVsfAWuvSFIw0HPvJ6R+90sFiij2c9YDBYa0ud2lslNJFzWL8xDCFOlAAin9kgSyFxT+RiEu31vAYWAJ5E3vRCx2KhU33tPyNX4gbKQPK53Q4C09vySAwH47IhhDHC8vwPX7rwep6KPqK2J8zNsIl7p3c4cwchhJrGSAlDZavpfTOxQHm/OPpv/Kw4iKC107zCHZPI1dqBnymmgOonZx1wqfIGVeRjsg9ZTkCGbGCd+qbsELwcsNLlbhyCQgC4bFpmG93K9c1QiIMbipQ"
+track   - "24"
+genre   - "Hardcore"
+
+#############################
+
+Notaker - So Much Love [Monstercat EP Release].m4a
+title   - "So Much Love "
+artist  - "Notaker"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Darren Styles - Us Against The World [Monstercat Release].m4a
+title   - "Us Against The World "
+artist  - "Darren Styles"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Coldplay - A Sky Full Of Stars (Hardwell Remix).m4a
+title   - "A Sky Full Of Stars (Hardwell Remix)"
+artist  - "Coldplay"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Sing Me to Sleep.mp3
+title   - "Sing Me to Sleep"
+artist  - "Alan Walker"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Darren Styles, Dougal & Gammer - Party Don't Stop [Monstercat Release].m4a
+title   - "Party Don't Stop "
+artist  - "Darren Styles, Dougal, Gammer"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Nicky Romero & Vicetone - Let Me Feel (feat. When We Are Wild) [Subtitulado al E.m4a
+title   - "Let Me Feel"
+artist  - "Vicetone, Nicky Romero, We Are Wild"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Blackout (Original Mix).mp3
+title   - "Blackout"
+artist  - "Pegboard Nerds"
+album   - "Nerds by Nature"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Build The Cities (Empire Of Sound).mp3
+title   - "Build The Cities (Empire Of Sound)"
+artist  - "Tristam, Karma Fields"
+album   - "Build The Cities Remixes"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "1"
+genre   - ""
+
+#############################
+
+Federico Scavo - Blow It [Official].m4a
+title   - "Blow It"
+artist  - "Federico Scavo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds & Dion Timmer - Escape [Monstercat Release].m4a
+title   - "Escape"
+artist  - "Pegboard Nerds, Dion Timmer"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Panda Eyes & Teminite - Immortal Flame (ft. Anna Yvette).m4a
+title   - "Immortal Flame"
+artist  - "Panda Eyes, Teminite, Anna Yvette"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Wings.m4a
+title   - "Wings"
+artist  - "Krimsonn"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hardwell & Showtek - How We Do (Original Mix).m4a
+title   - "How We Do"
+artist  - "Hardwell, Showtek"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Cheat Codes & Daniel Blume - Who's Got Your Love (Mike Williams Remix).m4a
+title   - "Who's Got Your Love (Mike Williams Remix)"
+artist  - "Cheat Codes, Daniel Blume"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+LZRD ft. Jake Miller - Anything Anymore [Lyric Video] (Proximity Release).m4a
+title   - "Anything Anymore"
+artist  - "LZRD, Jake Miller"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Syn Cole - Californication (VIP Mix).m4a
+title   - "Californication (VIP Mix)"
+artist  - "Syn Cole, Caroline Pennell"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+MR BLACK - Ravin.m4a
+title   - "Ravin"
+artist  - "MR.BLACK, Triangle"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The Chainsmokers & Tritonal ft. Emily Warren - Until You Were Gone [Exclusive].m4a
+title   - "Until You Were Gone"
+artist  - "The Chainsmokers, Tritonal, Emily Warren"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Kayzo & Gammer - Over The Edge (feat. AU8UST) [Monstercat Release].m4a
+title   - "Over The Edge"
+artist  - "Kayzo, Gammer, AU8UST"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Julian Jordan - Angels x Demons.m4a
+title   - "Angels x Demons"
+artist  - "Julian Jordan"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - United We Dance.m4a
+title   - "United We Dance"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Worlds Collide (Arty Remix).mp3
+title   - "Worlds Collide (Arty Remix)"
+artist  - "Nicki Taylor"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Netsky - No Strings Attached.m4a
+title   - "No Strings Attached"
+artist  - "Netsky"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Timmy Trumpet - Oracle (TNT Remix) [Official Audio].m4a
+title   - "Oracle (TNT Remix)"
+artist  - "Timmy Trumpet"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The Calling (feat. Laura Brehm).mp3
+title   - "The Calling"
+artist  - "TheFatRat, Laura Brehm"
+album   - "The Calling"
+year    - "2016"
+comment - "vk.com/thebassland"
+track   - "1"
+genre   - "Midtempo"
+
+#############################
+
+Zedd Jon Bellion - Beautiful Now.mp3
+title   - "Beautiful Now"
+artist  - "Zedd, Jon Bellion"
+album   - "True Colors (Perfect Edition)"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/XcvlWyum1VtCyML73+SA0Q7DqG+roFeMHQD2t5IFjZVehJkJ9WjTfnDSQ/fYQ4S4tT19gwnMBk2kfOPtplpVZSJoiFU04vky9i7RDEnp/0UnfWcvmQuTqIzA80G7ua8bgLtqPCMSauslFlyvQA4gIOikjSnEOT955Py6L4p5x1I4z2WiwAdHy7KpOkXC+/87TCtbN9EQW52s+J9fBNgehCjPQ0rer9dSy1TWl82rRQtJ1pkWbwTnDCu7uwZgu/juTY/GvRx5S+rHakH1OSmkiRMh5TXgElKrhROZbAchSvZFDOkJr/0Mc6uN3Ur3MIxWu21fHgcUL156/5brUVQkTUlCidey/2PpOV5wcWy9OOziRGycGR0KLzQW1oad+jHVa0XY8iHyiSkcePofX89jzbQYMIPq1kR7MC+vKzDLhBMOURVCZ+obQFSIfCPlcLh+m/k2iIhtwRBx5YEx7oHAKWQ4q4qDJRvTJ10/jMmLGPYVXX8q4FI8O9OEIb9uu5IExP9FBNN5gsAnBT2tsKEbkzVvai8z1ngVRc0Zk1CiFFM8GnDBa/1tF2QN3rrFXEdAc9uENWPuDI2muLQgbAcsts0my0RUZ5W5p0u+pxyoAb0PKatvyqtM9yB2uHkTLAFYH4Muh5x31vEdRSoa6qQIlwSmFd+l4l8rCqFnrrF2m7JqNEtnbx8AINv9zUDOXzZbPjN8ndElKvt3bz63kZfGbv70PhpaeKJ+kxRKCtb5Fkx"
+track   - "3"
+genre   - ""
+
+#############################
+
+Break Free (Funky Craig Remix).mp3
+title   - "Break Free (Funky Craig Remix)"
+artist  - "Robaer"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+R3HAB x Mike Williams - Lullaby.m4a
+title   - "Lullaby"
+artist  - "R3HAB, Mike Williams"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Bishu - Rituals [Monstercat Release].m4a
+title   - "Rituals"
+artist  - "Bishu"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Devotion.mp3
+title   - "Devotion"
+artist  - "Tristam"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Crystallize.mp3
+title   - "Crystallize"
+artist  - "Lindsey Stirling"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Seth Hills - Riot (Official Audio).m4a
+title   - "Riot "
+artist  - "Seth Hills"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ofenbach, Lack Of Afro & Wax Herbal T - Party.m4a
+title   - "Party"
+artist  - "Ofenbach, Lack Of Afro, Wax Herbal T"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+DenHard - Lions.m4a
+title   - "Lions"
+artist  - "DenHard"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Lit Lords - Crash N Burn (Gommi Remix) [Harsh Records].m4a
+title   - "Crash N Burn (Gommi Remix)"
+artist  - "Lit Lords"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ti__sto & Ummet Ozcan - What You're Waiting For.m4a
+title   - "What You're Waiting For"
+artist  - "Tiësto, Ummet Ozcan"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Great Spirit.m4a
+title   - "Great Spirit"
+artist  - "Armin van Buuren, Vini Vici, Hilight Tribe"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Inova - Immortal.m4a
+title   - "Immortal"
+artist  - "Inova"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Muzzy & Koven & Feint - Worth The Lie [Monstercat Release].m4a
+title   - "Worth The Lie"
+artist  - "Muzzy, Koven, Feint"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Slander - Superhuman (Spag Heddy Remix) [feat. Eric Leva] [Monstercat Release].m4a
+title   - "Superhuman (Spag Heddy Remix)"
+artist  - "Slander, Eric Leva"
+album   - "Slander"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Urbanstep - Inside Me.m4a
+title   - "Inside Me"
+artist  - "Urbanstep"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alright Then.mp3
+title   - "ALRIGHT THEN"
+artist  - "Kayzo, The Zealots"
+album   - "OVERLOAD"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone Jonny Rose - Stars (Radio Edit).mp3
+title   - "Stars"
+artist  - "Vicetone, Jonny Rose"
+album   - ""
+year    - "2013"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/enFrik3sNDuGkUE9N0TYS/X9eb6kXd/knCZTpQsuFt57uje/dTu8BAACj2/AZjnPjiHRZpGBqR4F02XHSkfanjcAwW20yHbiKHNnx2zs7DWvP8cPazCgXjNghxRcTu6FZqIsY7coNRZc+2Ib80s8h290IyTey2cNoSyRjipZrpQZRE16/pdIa8Did5Uuk10JH0RgvsYsnYbvQknXJHJwbl1WjP4a+Ms9TurPZd3jnEimYzUb8xFcwpw5hV5bVoF+y/fh7KUjBr0B/BZyvGVa9apL9MFuKf7Ptu0dpBNOMnMSerDKo7YM05hDSaGsduVAfaQl2f8assKsYc93WC+NOm+X2H93mYhyUlo3lGb5YfRWqH6Pow+SmAhjRIzFtRBgiFJiyIA0mt2fjudke9BGqLn7A8JCzDlsZNoZCqdx+N17yxOOXjIJXEOCqdGBZQ6bEB2WvoxgECQDOg7ckmEz0wLa+DnCqCMQjifHZYxfFkcBEXqGzjm/2oKHEmHQe3poKnyenktoVc1qVjMZq1XMVCjGvJEzD0v3NEb2r7bNJ/ohLEF2AQj7U63eAuvhVTGfc8TEVLnxiHCo/lz+q3g7pyQvcaOooJMwbZyzqOYIpL6wELNvotqBMCCWiFrR87lgojE/kPAHBxvgJxzMiOMoGrMOdT+nptkrMr7DnS0u9oPoD5Wiz+W+I2MkKJhH5BDz3Z7r376huFxvSIbyNjaa9xGGGbwn5fg4eI3KHhKBb9B"
+track   - "0"
+genre   - ""
+
+#############################
+
+Anomaly.mp3
+title   - "Anomaly"
+artist  - "FootriX, Triple M"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Sebastian Ingrosso Alesso Ryan Tedder - Calling (Lose My Mind) (Radio Edit).mp3
+title   - "Calling (Lose My Mind) (Radio Edit)"
+artist  - "Sebastian Ingrosso, Alesso, Ryan Tedder"
+album   - ""
+year    - "2012"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/Tv9BHt+zEOsl6E9TTIJFqbpC0vH412j2gzQcil9flzbZkFAvvYwRXymdhv5IQc7BOMpH4yRIgaLp5wefc3T2wk5bc5ctpGipSr5EAjEx36J46QUyyB638HFjYczwFG4WRilqhzkABJ1mVSz/udWURcPmD+tyf2eaM99lJm8IH3YhCbAlfeWesrzqhN0cGEHKNsP2C83AeZ+Ob/Ngpgqq5T1A/cLwxIjgL2yHX2vckiLEon5TxOssBT/vkLzdnxWU88FLagnittHVhZsF9PqNxyE3nSFpVXQfUEjPg7u9Odlvb5C/ZiLZ+dOrwzCiR6ART/GHd3BfaBOb2qfNW/140ItFEjDb/NNZb3MMJ2ZwVTOO7Y+uUslSe4PZDVyQLxUkeNB7Q4nNawanAG/+udty1dg4G5AismVSOeK+0etHDFYqn9qvIbCX+IEsMcbuOivdQ3tZIooAJQv5dYTt2pdgiIKFFsnowuLcUbuKGN3ENet0tG49cUi2V1KhnkJsCkfBf+6hof3IyWpd+Ie1W14rgdDd2OSlEOHUofRYrhZSjlX8eM4OcPLZM/WAN/kjP4QP3g76HFwmPZd+ZK37qvpX2HrdfVx7oTgiKNSwNYnbyMvaJfjTcVpNTufY5LPJkyMhAls3ej8zcUXv8hGwQG97J3pLuVrbvsCzb4rxc5Qf+/B7QL1vw9p66k1tB7pQNL+1rWQx6hQXOSqgwMcOQKDanzjNVM0kBKRYmCRAUHkoshM1Nisd1eV8Eid7Dmz2bgKv5cHWvrHZKbMb3CSXifRF904L9+W6ZWBKtlJ2CLk/UmyCyrmTN7JZ1mR44jvT9+9kA=="
+track   - "9"
+genre   - "Dance"
+
+#############################
+
+Narco.mp3
+title   - "Narco"
+artist  - "Blasterjaxx, Timmy Trumpet"
+album   - "Narco"
+year    - "2017"
+comment - "Speeeedy EDM Blog - 3;02=K9 8AB>G=8: M;5:B@>==>9 <C7K:8 2:>=B0:B5! [vk.com/speeeedy]"
+track   - "0"
+genre   - ""
+
+#############################
+
+Infected Mushroom - Spitfire [Monstercat Release].m4a
+title   - "Spitfire"
+artist  - "Infected Mushroom"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Frontliner Tell Me (Radio Edit).m4a
+title   - "Tell Me"
+artist  - "Frontliner"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vigiland - Shots & Squats ft. Tham Sway.m4a
+title   - "Shots & Squats"
+artist  - "Vigiland, Tham Sway"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+09 Do Or Die.mp3
+title   - "Do Or Die"
+artist  - "Blasterjaxx, Lara"
+album   - "XX Files (Festival Edition)"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "9"
+genre   - ""
+
+#############################
+
+Monstercat - Best of 2018 (Uncaged Album Mix).m4a
+title   - "Best of Uncaged 2018"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Moksha.m4a
+title   - "Moksha"
+artist  - "STARX, DISTORT"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Jungle Jim - Jimmy Trumpet (Shameless Edit) [Free].m4a
+title   - "Jimmy Trumpet"
+artist  - "Jungle Jim"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+R3hab - Sakura (Official Music Video).m4a
+title   - "Sakura"
+artist  - "R3hab"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+FLOATING FEAT. MICAH MARTIN.mp3
+title   - "FLOATING"
+artist  - "Kayzo, Micah Martin"
+album   - "OVERLOAD"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds - Melodymania [Monstercat EP Release].m4a
+title   - "Melodymania"
+artist  - "Pegboard Nerds"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Remember You.m4a
+title   - "Remember You"
+artist  - "Conro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Senses.mp3
+title   - "Senses"
+artist  - "Prismo"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Tungevaag & Raaban - Samsara (Lyrics).m4a
+title   - "Samsara"
+artist  - "Tungevaag, Raaban"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Panda Eyes & Teminite - High Score.m4a
+title   - "High Score"
+artist  - "Panda Eyes, Teminite"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Martin Garrix-Animals lyric.m4a
+title   - "Animals"
+artist  - "Martin Garrix"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - Way Back (feat. Cozi Zuehlsdorff).m4a
+title   - "Way Back"
+artist  - "Vicetone, Cozi Zuehlsdorff"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Timmy Trumpet & Savage - Deja-Vu (Official Lyric Video).m4a
+title   - "Deja-Vu"
+artist  - "Timmy Trumpet, Savage"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Electro] - Marnik & JAGGS - Kamelot.m4a
+title   - "Kamelot"
+artist  - "Marnik, JAGGS"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Black Sahara.mp3
+title   - "Black Sahara"
+artist  - "Kaaze, Joey Dale, Aloma Steele"
+album   - ""
+year    - "2017"
+comment - "Speeeedy EDM Blog - 3;02=K9 8AB>G=8: M;5:B@>==>9 <C7K:8 2:>=B0:B5!
+vk.com/speeeedy"
+track   - "0"
+genre   - ""
+
+#############################
+
+Mako feat Angel Taylor - Beam (Original Mix).m4a
+title   - "Beam"
+artist  - "Mako, Angel Taylor"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Imagine Dragons  Warrior LYRICS League of Legends.m4a
+title   - "Warriors"
+artist  - "Imagine Dragons"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+dj-Nate - The Beginning of Time.m4a
+title   - "The Beginning of Time"
+artist  - "DJ-Nate"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Warsongs - Piercing Light (Mako Remix) [League of Legends Music].m4a
+title   - "Piercing Light"
+artist  - "Mako"
+album   - "Warsongs"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - 2018 End of the Year Mix.m4a
+title   - "End of the Year Mix - 2018"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Blasterjaxx - Big Bird (Official Music Video).m4a
+title   - "Big Bird"
+artist  - "Blasterjaxx"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - Something Strange (feat. Haley Reinhart) [Monstercat Release].m4a
+title   - "Something Strange"
+artist  - "Vicetone, Haley Reinhart"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds - Disconnected VIP (feat. DesireÌe Dawson) [Monstercat FREE Relea.m4a
+title   - "Disconnected (VIP Remix)"
+artist  - "Pegboard Nerds, Desiree Dawson"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Afrojack & Steve Aoki - No Beef.m4a
+title   - "No Beef"
+artist  - "Afrojack, Steve Aoki, Miss Palmer"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds & Tony Junior - Voodoo (Official Lyric Video).m4a
+title   - "Voodoo"
+artist  - "Pegboard Nerds, Tony Junior"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+ALVARO & JETFIRE - Guest List (Official Music Video).m4a
+title   - "Guest List"
+artist  - "Alvaro, Jetfire"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Bombs Away - Sneak Out (SCNDL Remix).m4a
+title   - "Sneak Out (SCNDL Remix)"
+artist  - "Bombs Away"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Afterglow (Bonus Track).mp3
+title   - "Afterglow (Bonus Track)"
+artist  - "Lindsey Stirling"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+THE DROP (Stonebank Remix).m4a
+title   - "THE DROP (Stonebank Remix)"
+artist  - "Gammer"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Standing When It All Falls Down (Remix).mp3
+title   - "Standing When It All Falls Down (Remix)"
+artist  - "Roshi, John De Sohn"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Alan Walker - Spectre [NCS Release].m4a
+title   - "Spectre"
+artist  - "Alan Walker"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Monstercat Instinct Vol. 1 (Album Mix).m4a
+title   - "Instinct Vol. 1"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+FWLR - Numb (feat. Che'Nelle) [Monstercat Release].m4a
+title   - "Numb"
+artist  - "FWLR, Che'Nelle"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alvita - Empire (Radio Edit).m4a
+title   - "Empire"
+artist  - "Alvita"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Bossfight - Overdose (feat. Philip Strand) [Monstercat Release].m4a
+title   - "Overdose"
+artist  - "Bossfight, Philip Strand"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Bassjackers & Brooks - Alamo (Radio Edit).m4a
+title   - "Alamo"
+artist  - "Bassjackers, Brooks"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Wizard - Martin Garrix(Official Audio).m4a
+title   - "Wizard"
+artist  - "Martin Garrix"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Elephante ft. Jessica Jarrell - Hold (Candyland Remix).m4a
+title   - "Hold (Candyland Remix)"
+artist  - "Elephante, Jessica Jarrell"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Cheat Codes & Kim Petras - Feeling Of Falling (Steve Aoki Remix).m4a
+title   - "Feeling Of Falling (Steve Aoki Remix)"
+artist  - "Cheat Codes, Kim Petras"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ryos, Wasback & Teseo - I'll Be Gone (feat. KARRA).m4a
+title   - "I'll Be Gone"
+artist  - "Ryos, Wasback, Teseo, KARRA"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Crankdat & Tisoki - Wobble [Monstercat Release].m4a
+title   - "Wobble"
+artist  - "Crankdat, Tisoki"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Felix Jaehn Jasmine Thompson - Ain't Nobody (Loves Me Better) ___feat. Jasmine Thompson___.mp3
+title   - "Ain't Nobody (Loves Me Better)"
+artist  - "Felix Jaehn, Jasmine Thompson"
+album   - "Ain't Nobody (Loves Me Better) [feat. Jasmine Thompson]"
+year    - "2015"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/W0DtTkv6Ep75ffOowCCdM66Xo4k/BZK5Rfdb7JR7t+W0nS7R55NwsXL2qCjesPcLA4EaImMyopYlOhct1B+utOQA5xunHxuXMRy9qU0EZLWcrGyr5QWJ8j4ucZNyCf96hvwZ2EI26AmXjEtuy8tYiQdrHXjHe7hqY/nHLHzXvdb3Wycpe+J8OD0tD+fA7aSUKerZeGARHhn7LO4ThutKXheLpHESXAgPLOO9ssj8WawKIZXFrLVEotKeVLNuWbqwetRayDFWSApiair1P5G7zGStPfr+mJUbdZjOpihdxXVS4cBVMaKrrkaiFc8SGhQiBg136s014agaLb9aILz/o7INrr2NJWkehLWypQ8GXAgd1YWsLpIEFveJeJ33v9mO6jE5k8IkW6ppF5yoJu6yJvLQ3WFUre3afiTjwl4bYhgMQ33hy0Db4Wuzn2hUvNTclVbmlvx/yYtY5b8Hg0lDLenTOYBL4gkficqr+uA1hzZapggLjSAvMjCvcsNDwLhSFGzQD04EwQXBgR2txq2xM+T0ETdZ63RwPMcu7vb/3jObZ3qaT7mOhrul58uWc61GdptnaYMo7C9JH8gK03kUbrDa8pg80EgbGWm1sHfVibkb0q9BXDV41/y2D3xDyRmALqIyo4caJsTDaX87LbfJzAaOeUIGF7ldxGN3YCK5+E8+YTKfgGJuFE1zXf39Vc1zRHwvNS3jPQ0lguA2lQQ1LMensRylEdkI7uqbspM3fqHDSsaTRVS4rXUNII4G8Y4DJDirioMlG9MnXT+MyYsY9hwJZHcAgS2P90WF0HrqTs8aW3LkGmtkfiQawNcPnL36ideYyu4DTl+y9avaeLbIL7QN/luNuQd6hmHuLrPN+IP"
+track   - "1"
+genre   - "Electronic"
+
+#############################
+
+Best of 2017 Mix.mp3
+title   - "SuicideSheep Best of 2017 Mix"
+artist  - "SuicideSheep"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+MYRNE - Afterdark (feat. Aviella) [Monstercat Release].m4a
+title   - "Afterdark  "
+artist  - "MYRNE, Aviella"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Will Sparks - Take Me (Joel Fletcher Remix).m4a
+title   - "Take Me (Joel Fletcher Remix)"
+artist  - "Will Sparks"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Check This (feat. Fatman Scoop).mp3
+title   - "Check This"
+artist  - "TJR, Reece Low, Fatman Scoop"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Monstercat Uncaged - Vol. 3 (Album Mix).mp3
+title   - "Uncaged Vol. 3"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tritonal - Rewind.m4a
+title   - "Rewind"
+artist  - "Tritonal"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Martin Garrix & justin mylo - Burn Out (Lyrics) ft. Dewain whitmore.m4a
+title   - "Burn Out"
+artist  - "Martin Garrix, Justin Mylo, Dewain Whitmore"
+album   - "Martin Garrix & justin mylo"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Steve Aoki, Showtek & MAKJ - Rave feat. Kris Kiss.m4a
+title   - "Rave"
+artist  - "Steve Aoki, Showtek, MAKJ, Kris Kiss"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dion Timmer - Shiawase [Monstercat Release].m4a
+title   - "Shiawase"
+artist  - "Dion Timmer"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Spinnin' Records - Best Of 2016 Year Mix.m4a
+title   - "Spinnin' Best Of 2016 Mix"
+artist  - "Spinnin' Records"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Steve Aoki, Diplo & Deorro - Freak (feat. Steve Bays) [Official Music Video].m4a
+title   - "Freak"
+artist  - "Steve Aoki, Diplo, Deorro, Steve Bays"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Nicky Romero & Stadiumx - Rise (ft. Matluck) (Afrojack Remix).m4a
+title   - "Rise (Afrojack Remix)"
+artist  - "Nicky Romero, Stadiumx, Matluck"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dirty Audio - Racks [Monstercat Release].m4a
+title   - "Racks"
+artist  - "Dirty Audio"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Max Styler - Feel It (Steve Aoki Remix).m4a
+title   - "Feel It (Steve Aoki Remix)"
+artist  - "Max Styler"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alive.mp3
+title   - "Alive"
+artist  - "Dyro, Goja"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Happy Hardcore] - Stonebank - Who's Got Your Love [Monstercat Release].m4a
+title   - "Who's Got Your Love"
+artist  - "Stonebank"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Jacob Plant Tujamo - All Night (Original Mix).mp3
+title   - "All Night"
+artist  - "Tujamo, Jacob Plant"
+album   - "All Night"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/Whtl0kksWv9CMl+1ALVH6D8nijev+SqmKdNwGRi9QXrqB9F78R+/v081LsC4VrmlFZ5uyEiyof9WZl700SiLKtsnODOo2EgBy88ytvd+EMJUN/qzF533lAelpFfLBrVRjFL9vmdBOoDNMJwQUy/cECZVhQQZO5Y2qBiXFKY3IuFM+hlDs82uSmUBMbECg3lQnne4cwjQVwMaJ+JiL+Wwh4oXb7p7InnIBAu6NvgAWacq3OXyEdG7uh1sD3RmVbacHYPuGwMs9WVBdM5w7mvSO93SDkmUA9Sx5I5agn1RA1WULPUF8IKELI/3q+SnhEbEHL82f0YtIc92YyudU39PeW376+uzrcrdi3hfqIgA2PplbovNjh+oFC/52h7oijTo3v/+v4A5TU3vhajv7TW78V8JRyysKspYeCcoQusV49gX9oKZyvBKjXMbgNga7jHye3rIqbwN+ya+Bs9QH5SxMKzi05VBl3Dc30PVvnZ3pwjq1rVI9aSh1VnVfyygvmasgFIwvRQYYfztWaIE83vKjHSKQRVsz2AW30ZSxqxMQ8SkOKuKgyUb0yddP4zJixj2J8u5ZkYcJfKzLMUB/pnYlfn1WV4wj3IKcug3CyDpmNkjGl4A5l1i4aFT8xDI3Al1uqoy4Qu/YdqFERBBd01nU48PfCODM80AROf3zKcf41yjMP9on7Oeib5YBxxg34a0lN8vVyot/m1nduv9/3O78j8VssQZGuAFJY/QH0Vn/dB"
+track   - "1"
+genre   - ""
+
+#############################
+
+Tony Igy - Astronomia.m4a
+title   - "Astronomia"
+artist  - "Tony Igy"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Till We Die.mp3
+title   - "Till We Die"
+artist  - "Kayzo, Sullivan King"
+album   - "Till We Die"
+year    - "2015"
+comment - "vk.com/roadtotrap"
+track   - "1"
+genre   - "Hardstyle"
+
+#############################
+
+Ignite.mp3
+title   - "Ignite"
+artist  - "Zedd"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Bassjackers,Lucas & Steve,Caroline Pennell  - These Heights (Crossnaders Remix).m4a
+title   - "These Heights (Crossnaders Remix)"
+artist  - "Bassjackers, Lucas & Steve, Caroline Pennell"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Panda Eyes - KIKO.m4a
+title   - "Kiko"
+artist  - "Panda Eyes"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KUURO - Doji [Monstercat Release].m4a
+title   - "Doji"
+artist  - "KUURO"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Feint - Words (feat. Laura Brehm) [Monstercat Release].m4a
+title   - "Words"
+artist  - "Feint, Laura Brehm"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Sikdope - Party (feat. Lil Debbie) [Official Music Video].m4a
+title   - "Party"
+artist  - "Sikdope, Lil Debbie"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Marrakech.mp3
+title   - "Marrakech"
+artist  - "R3HAB, Skytech"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Teminite - Beastmode.m4a
+title   - "Beastmode"
+artist  - "Teminite"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Electro & House 2016 Best Club Dance, Remix, Party, Music Mix.m4a
+title   - "Mix 2"
+artist  - "DJFlyBeatMusic"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Far Away.mp3
+title   - "Far Away"
+artist  - "Tristam, Braken"
+album   - ""
+year    - "2015"
+comment - "edm people"
+track   - "0"
+genre   - "Progressive House"
+
+#############################
+
+Firebeatz & KSHMR feat. Luciana - No Heroes (Lyric Video) [Audio Spectrum].m4a
+title   - "No Heroes"
+artist  - "Firebeatz, KSHMR, Luciana"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Kayzo & Slander - Holy (feat. Micah Martin) [Monstercat Release].m4a
+title   - "Holy  "
+artist  - "Kayzo, Slander, Micah Martin"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The Knocks - Ride Or Die (feat. Foster The People) [Vicetone Remix].m4a
+title   - "Ride Or Die (Vicetone Remix)"
+artist  - "The Knocks, Foster The People"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+All I Ever Wanted.mp3
+title   - "All I Ever Wanted"
+artist  - "Blasterjaxx, Tom Swoon"
+album   - "All I Ever Wanted"
+year    - "2017"
+comment - "Speeeedy EDM Blog - 3;02=K9 8AB>G=8: M;5:B@>==>9 <C7K:8 2:>=B0:B5!
+vk.com/speeeedy"
+track   - "0"
+genre   - ""
+
+#############################
+
+Phoenix.mp3
+title   - "Phoenix"
+artist  - "BlasterJaxx, Olly James"
+album   - ""
+year    - "2018"
+comment - ""
+track   - "1"
+genre   - "Dance"
+
+#############################
+
+Domastic - Know Me.m4a
+title   - "Know Me"
+artist  - "Domastic"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+JETFIRE & REGGIO x Wasback - Cathedral.m4a
+title   - "Cathedral"
+artist  - "JETFIRE, REGGIO, Wasback"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Th3 0ne.mp3
+title   - ""
+artist  - "Lush & Simon, Carta, Funkz"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alesso - Years [Radio Edit].m4a
+title   - "Years"
+artist  - "Alesso"
+album   - "Forever"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Fedde Le Grand - Love___s Gonna Get You (Extended Mix).mp3
+title   - "Loves Gonna Get You"
+artist  - "Fedde Le Grand"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Walk Away.mp3
+title   - "Walk Away"
+artist  - "Tony Junior, Kura, Jimmy Clash"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - Walk Thru Fire (ft. Meron Ryan).m4a
+title   - "Walk Thru Fire"
+artist  - "Vicetone, Meron Ryan"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Close (Brooks Remix).mp3
+title   - "Close (Brooks Remix)"
+artist  - "IZECOLD"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+F.O.O.L - Carry On (feat. Holly Drummond) [Monstercat Release].m4a
+title   - "Carry On"
+artist  - "F.O.O.L, Holly Drummond"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+RIVERO & Flaremode - Front To The Back.m4a
+title   - "Front To The Back"
+artist  - "RIVERO, Flaremode"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KUURO - Trigger [Monstercat Release].m4a
+title   - "Trigger"
+artist  - "KUURO"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro x SCNDL - Sonar.m4a
+title   - "Sonar"
+artist  - "Deorro, SCNDL"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Nicky Romero vs Krewella- Legacy (Vicetone Remix).m4a
+title   - "Legacy (Vicetone Remix)"
+artist  - "Nicky Romero, Krewella"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Game of Thrones (KSHMR & The Golden Army Remix).m4a
+title   - "Game of Thrones "
+artist  - "KSHMR, The Golden Army"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+D-Block & S-te-Fan - Forthenite.m4a
+title   - " Forthenite"
+artist  - "D-Block, S-te-Fan"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Randall - Wahran.m4a
+title   - "Wahran"
+artist  - "Randall"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ready 2 Rumble.mp3
+title   - "Ready 2 Rumble"
+artist  - "Nicky Romero"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dimitri Vegas, MOGUAI & Like Mike - Mammoth (Original Mix).m4a
+title   - "Mammoth"
+artist  - "Dimitri Vegas & Like Mike, MOGUAI"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Josue Carrera - Evolution (Original Mix) vk.com huyachit_ot_dushi2013.mp3
+title   - "Evolution"
+artist  - "Josue Carrera"
+album   - "Evolution"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Notaker & Declan James - Who I Am (feat. Karra) [Monstercat EP Release].m4a
+title   - "Who I Am"
+artist  - "Notaker, Declan James, Karra"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - By Your Side (feat. EMEL) [Monstercat Release].m4a
+title   - "By Your Side"
+artist  - "Stonebank, EMEL"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Knife Party  Pegboard Nerds - Harpoon.mp3
+title   - "Harpoon"
+artist  - "Knife Party & Pegboard Nerds"
+album   - ""
+year    - "0"
+comment - "Downloaded via https://datmusic.xyz"
+track   - "0"
+genre   - ""
+
+#############################
+
+[Bounce] - Matt Watkins - Zulu [Premiere].m4a
+title   - "Zulu"
+artist  - "Matt Watkins"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - Harmony [OUT NOW!].m4a
+title   - "Harmony"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Progressive] - Tom Swoon vs. Ale Q & Sonny Noto - Alive.m4a
+title   - "Alive"
+artist  - "Tom Swoon, Ale Q, Sonny Noto"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro & Duvoh ft. Adrian Delgado - If Only.m4a
+title   - "If Only"
+artist  - "Deorro, Duvoh, Adrian Delgado"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+TheFatRat, Slaydit & Anjulie - Stronger [Monstercat Release].m4a
+title   - "Stronger"
+artist  - "TheFatRat, Slaydit, Anjulie"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Disconnected.mp3
+title   - "Disconnected"
+artist  - "Pegboard Nerds"
+album   - "Monstercat 007 - Solace"
+year    - "2012"
+comment - "Downloaded with Fildo"
+track   - "15"
+genre   - "Dubstep"
+
+#############################
+
+KSHMR - My Best Life (feat. Mike Waters) [Club Mix].m4a
+title   - "My Best Life (Club Mix)"
+artist  - "KSHMR, Mike Waters"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Quentyn - Jerusalem, Pt. l.m4a
+title   - "Jerusalem, Pt. l"
+artist  - "Quentyn"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The Prodigy - Omen (Vicetone Bootleg Remix).m4a
+title   - "Omen (Vicetone Bootleg Remix)"
+artist  - "The Prodigy"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hardwell & Dyro feat. Bright Lights - Never Say Goodbye (Official Music Video).m4a
+title   - "Never Say Goodbye"
+artist  - "Hardwell, Dyro, Bright Lights"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Munar & Adam Aesalon (ft. Hawkboy) - Beat Knock.m4a
+title   - "Beat Knock"
+artist  - "Munar, Adam Aesalon, Hawkboy"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ahrix - Left Behind.m4a
+title   - "Left Behind"
+artist  - "Ahrix"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tristam - Questions [Monstercat Release].m4a
+title   - "Questions"
+artist  - "Tristam"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Thomas Hayes ft. Joni Fatora - Neon (Ryos Remix) [Premiere].m4a
+title   - "Neon (Ryos Remix)"
+artist  - "Thomas Hayes, Joni Fatora"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alan Walker - Diamond Heart (feat. Sophia Somajo).m4a
+title   - "Diamond Heart"
+artist  - "Alan Walker, Sophia Somajo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Hardstyle] - Galantis - Runaway (U&I) (Frontliner Remix).m4a
+title   - "Runaway (U&I) (Frontliner Remix)"
+artist  - "Galantis"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - Droppin' Low [Monstercat Release].m4a
+title   - "Droppin' Low"
+artist  - "Stonebank"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Avicii - Levels.m4a
+title   - "Levels"
+artist  - "Avicii"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Slippy - Promise Me [Monstercat Release].m4a
+title   - "Promise Me"
+artist  - "Slippy"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+MJR - Tricky (Original Mix) [Bounce].m4a
+title   - "Tricky"
+artist  - "MJR"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone feat Chloe Angelides - White Lies (Radio Edit).m4a
+title   - "White Lies"
+artist  - "Vicetone, Chloe Angelides"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Gunslinga.m4a
+title   - "Gunslinga"
+artist  - "Pegboard Nerds, MC Mota"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Kill Paris - Two Minds (feat. Tim Moyo) [Monstercat Release].m4a
+title   - "Two Minds"
+artist  - "Kill Paris, Tim Moyo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Infected Mushroom - Kababies [Monstercat Release].m4a
+title   - "Kababies"
+artist  - "Infected Mushroom"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Jay Cosmic - Ocean Eyes [Monstercat Release].m4a
+title   - "Ocean Eyes"
+artist  - "Jay Cosmic"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Kayzo - Can't Stop.m4a
+title   - "Can't Stop"
+artist  - "Kayzo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hope.mp3
+title   - "Hope"
+artist  - "Vicetone, Barack Obama"
+album   - ""
+year    - "2012"
+comment - ""
+track   - "1"
+genre   - "Progressive House"
+
+#############################
+
+Hardwell & Thomas Newson - 8Fifty.m4a
+title   - "8Fifty"
+artist  - "Hardwell, Thomas Newson"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Monstercat Uncaged - Vol. 5 (Album Mix).m4a
+title   - "Uncaged Vol. 5"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+ANGEMI & Futuristic Polar Bears - Odyssey (Official Music Video).m4a
+title   - "Odyssey"
+artist  - "ANGEMI, Futuristic Polar Bears"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Extra Terra - Game Over.m4a
+title   - "Game Over"
+artist  - "Extra Terra"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+RudeLies - Follow [Free].m4a
+title   - "Follow"
+artist  - "RudeLies"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Rapture (Feat. MC Mota).mp3
+title   - "Rapture"
+artist  - "KUURO, MC Mota"
+album   - ""
+year    - "2017"
+comment - ""
+track   - "0"
+genre   - "Progressive House"
+
+#############################
+
+Forever.mp3
+title   - "Forever"
+artist  - "Martin Garrix, Matisse, Sadko"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+5haus - Shapeshifting.m4a
+title   - "Shapeshifting"
+artist  - "5haus"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds - Party Freaks (feat. Anna Yvette) [Monstercat Release].m4a
+title   - "Party Freaks"
+artist  - "Pegboard Nerds, Anna Yvette"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Overload (feat. Micah Martin).mp3
+title   - "OVERLOAD"
+artist  - "Kayzo, Micah Martin"
+album   - "OVERLOAD"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Apriskah - Push It [Monstercat Release].m4a
+title   - "Push It"
+artist  - "Apriskah"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dirty Palm - Find Our Way (feat. Chandler Blas__).m4a
+title   - "Find Our Way"
+artist  - "Dirty Palm, Chandler Blasé"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hardwell & KAAZE & Jonathan Mendelsohn - We Are Legends [Lyric Video].m4a
+title   - "We Are Legends"
+artist  - "Hardwell, KAAZE, Jonathan Mendelsohn"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alesso vs OneRepublic - If I Lose Myself (Alesso Remix).m4a
+title   - "If I Lose Myself (Alesso Remix)"
+artist  - "One Republic"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alvita -  Darkest Hour (Original Mix).m4a
+title   - "Darkest Hour"
+artist  - "Alvita"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - What's Going Down [Monstercat Release].m4a
+title   - "What's Going Down"
+artist  - "Stonebank"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Topi - Got To Be [Monstercat Release].m4a
+title   - "Got To Be "
+artist  - "Topi"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alesso - Falling (RudeLies ReBoot).m4a
+title   - "Falling (RudeLies Reboot)"
+artist  - "Alesso"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Voodoo.mp3
+title   - "Voodoo"
+artist  - "Blasterjaxx"
+album   - "XX Files (Festival Edition)"
+year    - "2017"
+comment - "Speeeedy EDM Blog - 3;02=K9 8AB>G=8: M;5:B@>==>9 <C7K:8 2:>=B0:B5!
+vk.com/speeeedy"
+track   - "13"
+genre   - "Electro House"
+
+#############################
+
+R3hab & KSHMR - Karate (Original Mix).m4a
+title   - "Karate"
+artist  - "R3hab, KSHMR"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KUURO & Clockvice - 1000 Cuts [Monstercat Release].m4a
+title   - "1000 Cuts"
+artist  - "KUURO, Clockvice"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Avicii, You Make Me Lyrics.m4a
+title   - "You Make Me"
+artist  - "Avicii"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ti__sto & KSHMR feat. Vassy - Secrets (Radio Edit).mp3
+title   - "Secrets"
+artist  - "Tiësto, KSHMR, Vassy"
+album   - "Secrets"
+year    - "2015"
+comment - ""
+track   - "1"
+genre   - "House"
+
+#############################
+
+Seth Hills - Raise Your Hands [OUT NOW!].m4a
+title   - "Raise Your Hands"
+artist  - "Seth Hills"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Now and Later (Merk & Kremont Remix).mp3
+title   - "Now and Later (Merk & Kremont remix)"
+artist  - "Sage the Gemini"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tom & Jame - Rise (Like A Thousand Suns).m4a
+title   - "Rise (Like A Thousand Suns)"
+artist  - "Tom & Jame"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stadiumx feat. Angelika Vee - Wonderland.m4a
+title   - "Wonderland"
+artist  - "StadiumX, Angelika Vee"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro feat. DyCy - Five Hours (Don't Hold Me Back) [Vocal Mix].m4a
+title   - "Five Hours (Don't Hold Me Back)"
+artist  - "Deorro, DyCy"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+ALVARO & CARNAGE - The Underground (Original Mix).m4a
+title   - "The Underground"
+artist  - "Alvaro, Carnage"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Zero Hero - Bass Drop [Monstercat Release].m4a
+title   - "Bass Drop "
+artist  - "Zero Hero"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Durga.m4a
+title   - "Durga"
+artist  - "Yves V, Mariana BO"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Seven Lions & Echos - Cold Skin (Stonebank Remix) [Monstercat EP Release].m4a
+title   - "Cold Skin (Stonebank Remix)"
+artist  - "Seven Lions, Echos"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds & Spyker - Extraordinary (feat. Elizaveta) [Monstercat Release].m4a
+title   - "Extraordinary"
+artist  - "Pegboard Nerds, Spyker, Elizaveta"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Collide ft. Rosi Golan.mp3
+title   - "Collide"
+artist  - "Vicetone, Rosi Golan"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Zac Waters - Freak [Monstercat Release].m4a
+title   - "Freak"
+artist  - "Zac Waters"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Invisible Children.m4a
+title   - "Invisible Children"
+artist  - "KSHMR, Tigerlily"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Steve Aoki & Alan Walker - Are You Lonely (feat. ISÃK).m4a
+title   - "Are You Lonely"
+artist  - "Steve Aoki, Alan Walker, ISAK"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - Lift You Up (feat. EMEL) [Monstercat Release].m4a
+title   - "Lift You Up"
+artist  - "Stonebank, EMEL"
+album   - ""
+year    - "2016"
+comment - ""
+track   - "0"
+genre   - "Electronic"
+
+#############################
+
+King In The North (Original Mix).mp3
+title   - "King In The North"
+artist  - "Marnik, Blazars"
+album   - ""
+year    - "2017"
+comment - "https://vk.com/fresh_electronic_music
+
+EDM A>>1I5AB2>"
+track   - "0"
+genre   - ""
+
+#############################
+
+Ummet Ozcan - Megatron (Original Mix).m4a
+title   - "Megatron"
+artist  - "Ummet Ozcan"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Gammer & Stonebank - Crank Up The Dank [Monstercat Release].m4a
+title   - "Crank Up The Dank"
+artist  - "Gammer, Stonebank"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hilight Tribe - Esperanza.m4a
+title   - "Esperanza"
+artist  - "Hilight Tribe"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ode To Oi.mp3
+title   - "Ode to Oi"
+artist  - "TJR"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Spinnin' Records - Best Of 2017 Year Mix.m4a
+title   - "Spinnin' Best of 2017 Mix"
+artist  - "Spinnin' Records"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Strike (Radio Edit).m4a
+title   - "Strike (Radio Edit)"
+artist  - "Airtones"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+NERO 'PROMISES' (SKRILLEX AND NERO REMIX).m4a
+title   - "Promises (SKRILLEX Remix)"
+artist  - "Nero"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Martin Garrix Ti__sto - The Only Way Is Up (Original Mix).mp3
+title   - "The Only Way Is Up (Original Mix)"
+artist  - "Tiësto, Martin Garrix"
+album   - "The Only Way Is Up"
+year    - "2015"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/QpAg9bFkjaM+5ZjpjRdd39HhBOL72Xw/Y72dnQfkD7R+C7VtfyjYbJR8zsQZfUz7/iiaqywQSGFJJsFgqQZ4cnmarBXCCbK5xnRMZP0Xk/gRmyAnGvMUrZIiAiq+GQoNK0r/UfaZEi76POU1TSDIXFNsdH4/Dbt1jsyQ6hjMQHUowQ4kGU1to/khhn0sia78GURzgx1lQQR4vQwTO+b9vD68WxYiAI2+05B+Wao5cikom6CLm5ui3ZcGcCWbLfBY6byWYLuEfHIahCu5jZUQUvYMzUnjjJr8+A4ZORbnxXkDJl3Ck1L53w23y8cBbyXFq9tzRXvrpSdCMlK9wNDTZXvWqG5AeFW/TykA5ztb+JMjK7Tkg/yhEwpmarb/9YOLXEwJdTYHF1/cw1smooDTorx5MuaD3O+TMAOWaNEdCvMfQ027+MP126HMwgkvvPlRTWnJmumbCEyzowATfYD2rDLdwmIJrGhl7NJbAdPv4+233VCC+M/43T217+YLduSj35CGW47CHcTrQsqOR1yG02eakO/fCpAFWggTPUyyg45VYLLgVKWFruVr3Cil0Bhk8qctLDAd7RmmnPifbPxKFQkziZX83Tu8wM+NtEM9cB8QK8fN+JTjLiP2IFhsiT8kK8hNAg9o66tP4qBEitq9pEI55DtFOxFzIhsnLam6JOoXsxsXS2lirqQxId/u4QsFV50fhfM/sQl0B7DzLyNjfWpbUZ+sO0LWz7oN0JMYON4TeqdLoe844XE00EwaINomumFEQAcokR0OgiObb7cc0I="
+track   - "1"
+genre   - "Progressive House"
+
+#############################
+
+(Big Room) Carnage feat. Timmy Trumpet & KSHMR - Toca (Original Mix).m4a
+title   - "Toca"
+artist  - "Carnage, Timmy Trumpet, KSHMR"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Krewella - Surrender The Throne.m4a
+title   - "Surrender The Throne"
+artist  - "Krewella"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+DVBBS & Borgeous - TSUNAMI (Original Mix).m4a
+title   - "Tsunami"
+artist  - "DVBBS, Borgeous"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KURA - Beast Mode.m4a
+title   - "Beast Mode"
+artist  - "KURA"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The Pizzicato Mafia.mp3
+title   - "The Pizzicato Mafia"
+artist  - "Sound Stabs"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Gigi D'Agostino Bla Bla Bla.m4a
+title   - "Bla Bla Bla"
+artist  - "Gigi D'Agostino"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Cuebrick - Little Chance [Premiere].m4a
+title   - "Little Chance"
+artist  - "Cuebrick"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vikstrom - Get Loose [Free].m4a
+title   - "Get Loose"
+artist  - "Vikstrom"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hellberg ft. Cozi Zuehlsdorff - The Girl [Premiere].m4a
+title   - "The Girl"
+artist  - "Hellberg, Cozi Zuehlsdorff"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Harder.mp3
+title   - "Harder"
+artist  - "Tiesto, Talay Riley, KSHMR"
+album   - ""
+year    - "2017"
+comment - "https://vk.com/edm_people"
+track   - "1"
+genre   - ""
+
+#############################
+
+Naruto OST - Girei (Lucas Fader Remix).m4a
+title   - "Girei - Remix"
+artist  - "Lucas Fader"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Indie Dance] - LVTHER - Some Kind Of Magic (feat. MYZICA) [Monstercat Release].m4a
+title   - "Some Kind Of Magic"
+artist  - "Lvther, Myzica"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+SLANDER - Hate Being Alone (feat. Dylan Matthew) [Monstercat Release].m4a
+title   - "Hate Being Alone"
+artist  - "SLANDER, Dylan Matthew"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+TheFatRat - Xenogenesis.m4a
+title   - "Xenogenesis"
+artist  - "TheFatRat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Neverland.m4a
+title   - "Neverland"
+artist  - "KSHMR, 7 Skies"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+I Remember.mp3
+title   - "I Remember"
+artist  - "Tristam"
+album   - "Monstercat 007 - Solace"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Exhale (Original Mix).mp3
+title   - "EXHALE"
+artist  - "Kayzo, Micah Martin"
+album   - "OVERLOAD"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+R3hab Skytech Fafaq - Tiger (Original Mix).mp3
+title   - "Tiger (Original Mix)"
+artist  - "R3hab, Skytech, Fafaq"
+album   - "Tiger"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/ehdOfYQDh0CFiOeEO3GsrYEVdAlQYpEjY4DSmb8OTIZIM+Fb2Kt6lADhfzJEiDEws3DblOXtn2D6vWkuvw+7XsaUTgrzmBg2NwTmxZX3ZCncR02oCWrpaUiVIRXhQ/lIrJ2qfyxHJC+IrsXFWPL+/CaTeJrBHWelYB7gjomBs85oRX/73fv6hr0aCshq/J+4FIBsqMnB3DhVzWXOVXcucvVqmYqLhHPjPEMhf22W5Zl4SiAUVcoEC8xk1hvbNzdfU7PQU3Ql1V/0GjKBAS2h96ch1n1VXaNBh+moMw9bG3Y0iujbFBBItAVLFGdzEaARJ+SEhBu4lD/Pq3qxytH4fYikUD/xjva8rjnZu4qrz8p5pbAQ7ucdSBOHQQIZRzW3O4ZwuSoij7vn0k5Fw/1M0PYsRPkwqK8xN+Fndn5CdTNwux5le4jiKJ0jB7GdO71HPHl4bQaUDqThOHUQ1SbKmHNzarsOXPWRrntxluDYhwlaaW6AtQ86QAclSxvrPoed8jwoFzJrKwvD7PKuowEG0/hj6JlGNBZcMfSTHUv8mKh2ammPJO63ZtZfeyATuYkAS960d6NphTsq7Jh9+rA4KL3V1ttW02Fao1hkXp1f8B96jpyQfsYcd0EpRitdWPlwygP+kXy1rzATdF7utzTSXGboQZEpof61cz7s2xqjtpd4099le5nwyp6VQHRkKTBi2lAVBn9fhehOET2xvzrgYSQIR7ZrxI0+SVi36aWUT2z"
+track   - "1"
+genre   - ""
+
+#############################
+
+___Electro House___Marnik - Gladiators [PREMIERE].m4a
+title   - "Gladiators"
+artist  - "Marnik"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - The Only One (feat. Ben Clark) [Monstercat Release].m4a
+title   - "The Only One"
+artist  - "Stonebank, Ben Clark"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Steve Aoki & Deorro - Be Yourself (Original mix).m4a
+title   - "Be Yourself"
+artist  - "Steve Aoki, Deorro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alan Walker - Alone LYRICS.m4a
+title   - "Alone"
+artist  - "Alan Walker"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The People.m4a
+title   - "The People"
+artist  - "KSHMR, Timmy Trumpet"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Boom (128 bit).mp3
+title   - "Boom"
+artist  - "Tiësto, Sevenn"
+album   - ""
+year    - "2017"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+David Guetta - Lovers On The Sun (Stadiumx remix).m4a
+title   - "Lovers On The Sun (Stadiumx remix)"
+artist  - "David Guetta"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Back To Me.m4a
+title   - "Back To Me"
+artist  - "KSHMR, Crossnaders, Micky Blue"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Monstercat - Best of 2018 (Instinct Album Mix).m4a
+title   - "Best of Instinct 2018"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+BLOQSHOT - Lightning (Extended Mix) __.m4a
+title   - "Lightning"
+artist  - "Bloqshot"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Monstercat Uncaged Vol. 7 (Album Mix).m4a
+title   - "Uncaged Vol. 7"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - End of the Year Mix 2016 [EDM].m4a
+title   - "End of the Year Mix - 2016"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Trivecta & Wooli - Falling [Monstercat Release].m4a
+title   - "Falling"
+artist  - "Trivecta, Wooli"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+R3hab & NERVO & Ummet Ozcan - Revolution (Lyrics).m4a
+title   - "Revolution"
+artist  - "R3hab, NERVO, Ummet Ozcan"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Behmer & Chris B__ & Olav Haust - Jigsaw 2017.m4a
+title   - "Jigsaw 2017"
+artist  - "Behmer, Chris Bø, Olav Haust"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Progressive] - Stadiumx, Dzasko ft. Delaney Jane - Time Is On Your Side.m4a
+title   - "Time Is On Your Side"
+artist  - "StadiumX, Dzasko, Delaney Jane"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds & RaceCarBed - Troll.m4a
+title   - "Troll"
+artist  - "Pegboard Nerds, RaceCarBed"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone x Bob Marley - Is This Love.m4a
+title   - "Is This Love"
+artist  - "Vicetone, Bob Marley"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Julian Calor - You Might Get Lost [Monstercat Release].m4a
+title   - "You Might Get Lost"
+artist  - "Julian Calor"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Storm Sailing.m4a
+title   - "Storm Sailing"
+artist  - "Hywall"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Hard Dance] - Pegboard Nerds - Hero (feat. Elizaveta) [Monstercat Release].m4a
+title   - "Hero  "
+artist  - "Pegboard Nerds, Elizaveta"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stadiumx & Taylr Renee - Howl At The Moon (Radio Edit).m4a
+title   - "Howl At The Moon"
+artist  - "StadiumX, Taylr Renee"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro - Rise and Shine.m4a
+title   - "Rise and Shine"
+artist  - "Deorro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+RIOT - Overkill.m4a
+title   - "Overkill"
+artist  - "RIOT"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Mark Ronson - Uptown Funk ft. Bruno Mars (Will Sparks Remix) __ Rex Sounds.m4a
+title   - "Uptown Funk (Will Sparks Remix)"
+artist  - "Mark Ronson, Bruno Mars"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Headhunterz & Skytech - Kundalini (Bass Boosted).m4a
+title   - "Kundalini"
+artist  - "Headhunterz, Skytech"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tony Junior and Riggi & Piros - Make You Go (OUT NOW).m4a
+title   - "Make You Go"
+artist  - "Tony Junior, Riggy & Piros"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KSHMR, JDG & Mariana Bo - Kolkata (Official Audio).m4a
+title   - "Kolkata "
+artist  - "KSHMR, JDG, Mariana Bo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ti__sto Tony Junior - Get Down (Original Mix).mp3
+title   - "Get Down (Original Mix)"
+artist  - "Tiësto, Tony Junior"
+album   - "Get Down (Original Mix)"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/WYQ0V5ZwhhPDzsVFQxaNdQ8yBa4J/EwmlP040ajRL8SvbvmEkKWR/aAWEel7yBW5W3ukQ40JYY5WnCI/AO9zkkmi2MkP6WNHvIGUaO8bCTzSOD2SxmGaHrjdOjar1wjYRfDypaon6X+hlYyQpyv39DogNwVZKo18HIZoLGvgwyEYDKgE4KXLlMNmKoS2Jo0LK2ZMHyW25A+hvVl0XN4Y1MJkJdSWb6PJEPoqTQvgIkYvYfHiiTaMgiiE00y6W7X5ztb5BS151l44qHcWdl8jJM2Pxr0ceUvqx2pB9TkppIkTIeU14BJSq4UTmWwHIUr2Wq6N4D7foXUB2NYwh7fkKlvcJny/QwDCUJDVSL2KocHlEniRg3qfVf9UvA5a4RmmYkRsnBkdCi80FtaGnfox1WtF2PIh8okpHHj6H1/PY82VaLwozHrWYF5VuW9j8IkLw2pcvLY3RSOjiHxXacA0Thv5NoiIbcEQceWBMe6BwClkOKuKgyUb0yddP4zJixj2BwJIJ5o6m+xnzrsaRwIRWyp8np5LaFXNalYzGatVzFQgGK2F19voFobL2MrxAAa0oSxBdgEI+1Ot3gLr4VUxn05egUomAxSm933Rn34MtPgG1mkwGc3NrI6bkB2JEEKwID2EtbpaSaKh0pfdKGO/HfYxpGfCLaLAEm5prWin7oYKhEbPcW4L9jMnjIe++JA8+oeCQ5CpzC89fdn188EUj52e69++obhcb0iG8jY2mvc6uHoQYhd58XDee5LvKvH2A=="
+track   - "1"
+genre   - ""
+
+#############################
+
+Timmy Trumpet & Krunk! - Al Pacino (Official Music Video).m4a
+title   - "Al Pacino"
+artist  - "Timmy Trumpet, Krunk!"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KAYZO - RIGHT ON TIME.m4a
+title   - "RIGHT ON TIME"
+artist  - "Kayzo"
+album   - "OVERLOAD"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Infected Mushroom - Guitarmass [Monstercat Release].m4a
+title   - "Guitarmass"
+artist  - "Infected Mushroom"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Legends Never Die (feat. Against the Current) - League of Legends WORLDS Song 20.m4a
+title   - "Legends Never Die"
+artist  - "Against the Current"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Conro - Take Me There [Monstercat Release].m4a
+title   - "Take Me There"
+artist  - "Conro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Nicky Romero Stadiumx - Harmony (Radio Edit).mp3
+title   - "Harmony"
+artist  - "Nicky Romero, Stadiumx"
+album   - "Harmony"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/eBPf3rH4Dr8F3O0Z7rc95Le2ebniDycs9fNSYv/78k6HzxgLTKdgQ9Ii3tCoHfXCMkhs0hOLV6FC3UvfAVq7YFCEWFUk/54rWeZxRl5XLUDV7jeXfNp0s5205Q05MUEvPz3xdyRNZthDcnL01zaZyBeIYGw8+Mj9ZpIVUxN30dOHj/y5Sxx9KTD45h8SxHE4ZGgxlL4DV6D/nUecWZ3gNiuG/MoWKyc9Ga41aLepvTKjVYvbQnYf2rJvjE0eaJLSi0USMNv801lvcwwnZnBVM47tj65SyVJ7g9kNXJAvFSRhoAvVG87thP8QgDAcxbSzhMMY5FqKUZTOYSoUqXdPHgmOnLLsUqEABOXizuT5wpmDe1kiigAlC/l1hO3al2CIgoUWyejC4txRu4oY3cQ161npjEKXf1lv2mWztrzZ5zI/7qGh/cjJal34h7VbXiuB0N3Y5KUQ4dSh9FiuFlKOVfn34Bo6tuOGx6NbKO4UaOvg0nYngEwYplFVPitYWEr1et19XHuhOCIo1LA1idvIy/wcIYOVwjS67Yxclnyi1NlCWzd6PzNxRe/yEbBAb3sncKCsbY9/LwIHQWHRxaXmzeRYTY7UYk8Ltiyvhoec0nsFz5nKW9rQpaV/xtTG2bFepyDxTQrrgBYqw5Eqk1CfiReEQqdFjVSybZrvE52uIEA2rSu/c6y0Yf84KMn47/rmN6A8GDQQHjKTnKe6vLR8x1M+FiZnUx1iByktvGe3K4S"
+track   - "2"
+genre   - ""
+
+#############################
+
+Canon.mp3
+title   - "Canon"
+artist  - "Overwerk"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Arem Ozguc & Arman Aydin - Mafia.m4a
+title   - "Mafia"
+artist  - "Arem Ozguc, Arman Aydin"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - United We Dance (Soundtrack Mix).m4a
+title   - "United We Dance (Soundtrack Mix)"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dynoro x Ina Wroldsen - Obsessed (Tiesto Remix).m4a
+title   - "Obsessed (Tiesto Remix)"
+artist  - "Dynoro, Ina Wroldsen"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+MYRNE - Confessions (feat. Cozi Zuehlsdorff) [Monstercat Release].m4a
+title   - "Confessions"
+artist  - "MYRNE, Cozi Zuehlsdorff"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+DUong Tran - Oppa.m4a
+title   - "Oppa"
+artist  - "DUong Tran"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Uluwatu.m4a
+title   - "Uluwatu"
+artist  - "Dropgun, Jesse Wilde"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+MOTi - Valencia.m4a
+title   - "Valencia"
+artist  - "MOTi"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Carnage & Dirtcaps ft. Jo Mersa - Warrior (Original Mix).m4a
+title   - "Warrior"
+artist  - "Carnage, Dirtcaps, Jo Mersa"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Soulji - Murder [Monstercat Release].m4a
+title   - "Murder"
+artist  - "Soulji"
+album   - "Black Mask EP"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro - Focus (feat. Lena Leon).m4a
+title   - "Focus"
+artist  - "Deorro, Lena Leon"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Anywhere I Go.mp3
+title   - "Anywhere I Go"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Dont Hurt.mp3
+title   - "Don't Hurt"
+artist  - "Mike Williams, Brezy"
+album   - ""
+year    - "0"
+comment - "Speeeedy EDM Blog - ãëàâíûé èñòî÷íèê ýëåêòðîííîé ìóçûêè âêîíòàêòå!
+vk.com/speeeedy"
+track   - "0"
+genre   - ""
+
+#############################
+
+Justin Mylo & Reggio - More Of Your Love.m4a
+title   - "More Of Your Love"
+artist  - "Justin Mylo, Reggio"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dimitri Vegas & Like Mike, David Guetta - Instagram (Bassjackers Remix).m4a
+title   - "Instagram (Bassjackers Remix)"
+artist  - "Dimitri Vegas & Like Mike, David Guetta"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dirty Palm & Treyy G ft. Kendall P - Krew [Premiere, Free].m4a
+title   - "Krew"
+artist  - "Dirty Palm, Treyy G, Kendall P"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+TUJAMO - BOOM! (Bass Boosted).m4a
+title   - "Boom"
+artist  - "Tujamo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dirtyphonics & Sullivan King - Sight of Your Soul [Monstercat EP Release].m4a
+title   - "Sight of Your Soul "
+artist  - "Dirtyphonics, Sullivan King"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+MYRNE & Grant - Fault (feat. McCall) [Monstercat Release].m4a
+title   - "Fault"
+artist  - "MYRNE, Grant, McCall"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[DnB] - Tristam & Braken - Frame of Mind [Monstercat Release].m4a
+title   - "Frame of Mind"
+artist  - "Tristam, Braken"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro - Butt naked.m4a
+title   - "Butt Naked"
+artist  - "Deorro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Festival of Lights.mp3
+title   - "Festival of Lights"
+artist  - "KSHMR & Maurice West"
+album   - "Festival of Lights"
+year    - "2017"
+comment - ""
+track   - "1"
+genre   - "Electronic"
+
+#############################
+
+Dirtyphonics - Sayonara [Monstercat Release].m4a
+title   - "Sayonara"
+artist  - "Dirtyphonics"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Martin Garrix - Pizza.m4a
+title   - "Pizza"
+artist  - "Martin Garrix"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Warsongs- The Glory (James Egbert Remix) _ Music - League of Legends.m4a
+title   - "The Glory"
+artist  - "James Egbert"
+album   - "Warsongs"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ti__sto & Showtek - Hell Yeah! [OFFICIAL MUSIC VIDEO].m4a
+title   - "Hell Yeah!"
+artist  - "Tiësto, Showtek"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tujamo - Booty Bounce.m4a
+title   - "Booty Bounce"
+artist  - "Tujamo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - 2017 End of the Year Mix.m4a
+title   - "End of the Year Mix - 2017"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The Birth.m4a
+title   - "The Birth"
+artist  - "Mike Cervello"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KSHMR &  Mark Sixma - GLADIATOR (Remix).m4a
+title   - "Gladiator (KSHMR Remix)"
+artist  - "KSHMR & Mark Sixma"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+I Won't Lie.m4a
+title   - "I Won't Lie"
+artist  - "KRIMSONN"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+No Regrets (Kaaze Remix).m4a
+title   - "No Regrets (Kaaze Remix)"
+artist  - "KSHMR, Yves V, Krewella"
+album   - "Music"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Where I'll be Waiting (Original Mix).mp3
+title   - "Where I'll be Waiting"
+artist  - "Rich Edwards, Cozi Zuehlsdorff"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - Ripped To Pieces (feat. EMEL) [Monstercat Release].m4a
+title   - "Ripped To Pieces  "
+artist  - "Stonebank, EMEL"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Ahrix - Nova [NCS Release].m4a
+title   - "Nova"
+artist  - "Ahrix"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dimitri Vangelis & Wyman Vs Futuristic Polar Bears ___ Grizzly (Extended Mix).m4a
+title   - "Grizzly"
+artist  - "Dimitri Vangelis, Wyman, Futuristic Polar Bears"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - Drop Bombs [Monstercat Release].m4a
+title   - "Drop Bombs"
+artist  - "Stonebank"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Monstercat - Best of 2016 (Album Mix) [2.5 Hours of Electronic Music].m4a
+title   - "Monstercat Best of 2016"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+DROPGUN - A Little More Like You (ft. Eddie Jonsson).m4a
+title   - "A Little More Like You"
+artist  - "Dropgun, Eddie Jonsson"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Coone - Into The Madness (OUT NOW).m4a
+title   - "Into The Madness"
+artist  - "Coone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+F.O.O.L - Need You.m4a
+title   - "Need You"
+artist  - "F.O.O.L"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deadmau5 - Strobe.mp3
+title   - "Strobe"
+artist  - "Deadmau5"
+album   - "For Lack of a Better Name"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Martin Garrix & Bebe Rexha - In The Name Of Love (DallasK Remix).m4a
+title   - "In The Name Of Love (DallasK Remix)"
+artist  - "Martin Garrix, Bebe Rexha"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro feat. Pasha - Red Lips (Original Mix).m4a
+title   - "Red Lips"
+artist  - "Deorro, Pasha"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Blaze.mp3
+title   - "Blaze"
+artist  - "Dannic"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Kylie Minogue - Skirt (GTA Remix) - remix.mp3
+title   - "Skirt (GTA Remix)"
+artist  - "Kylie Minogue"
+album   - "Skirt (Remixes)"
+year    - "2013"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/doxVPXYKymDvqwn1GHgq090B+IX9XrnB5nANUDDcvLm9peY4ZhCvT15BxjnyRsy2akZoNK0aOJ8HYt+xYPJ5wtlLmRCur9gITBb54Cj2f0Gk2gtpQ/QXMsoipu63FhefvF1qRE3xMYZPM8kIsWGde7RHeY0ayIhmL2VUqzhTcbnMK1s30RBbnaz4n18E2B6EGMP6+3imVTo7BbbqC4SAUIWftzHQsxSxcAdljA0neElNj8a9HHlL6sdqQfU5KaSJEyHlNeASUquFE5lsByFK9nntngNRC207pByBeM3XjCnAU3EAADYiz5LN+WMF1rDAT87yD7SEuPwHoFhgAQLL5OJEbJwZHQovNBbWhp36MdVrRdjyIfKJKRx4+h9fz2PNgUGNDqUzGajWywRmWVL0hp5omRYufwOmogb9hCaxxQyb+TaIiG3BEHHlgTHugcApZDirioMlG9MnXT+MyYsY9imQ+zT4ZjZ6/kcn0i1sa5JE/0UE03mCwCcFPa2woRuTK+Pk8fBHXspmg/Q10AZakoLe0hlB3gOd4ZuYUseFaR27oXowe1M73ltsky9O7483bBg6EgqG8K+f1GbQXelXAGA5lMSpppcqONvolD81QfSXmmXRy1IJriWjtWatAk61bNNezgf3htTAc6Td5c7+BQr4+PyTLWDk8mDRkPJRpcjFThdhQ58Z0LP55Hm8zxCga3/vj9/sdxoicNi4gawlcU="
+track   - "4"
+genre   - "Electronic"
+
+#############################
+
+Joe Maz - Calvin Harris - How Deep Is Your Love [Joe Maz Remix].mp3
+title   - "How Deep Is Your Love (Joe Maz Remix)"
+artist  - "Calvin Harris"
+album   - ""
+year    - "0"
+comment - "Downloaded from djjoemaz.com"
+track   - "1"
+genre   - ""
+
+#############################
+
+Italo Brothers - Stamp on the ground lyrics.m4a
+title   - "Stamp on the Ground"
+artist  - "Italo Brothers"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Best of 2018 Mix.m4a
+title   - "Best of 2018 Mix"
+artist  - "SuicideSheep"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Showtek - Slow Down (Original Mix).m4a
+title   - "Slow Down"
+artist  - "Showtek"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+David Guetta - Memories.m4a
+title   - "Memories"
+artist  - "David Guetta"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Alan Walker - Fade [NCS Release].m4a
+title   - "Fade"
+artist  - "Alan Walker"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Grant - Are We Still Young (feat. Jessi Mason) [Monstercat Lyric Video].m4a
+title   - "Are We Still Young"
+artist  - "Grant, Jessi Mason"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Homeland Preview.mp3
+title   - "Homeland"
+artist  - "Waysons, Charlie Ray, Nathan Brumley"
+album   - ""
+year    - "2015"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Timmy Trumpet - World At Our Feet (Deorro Remix).m4a
+title   - "World At Our Feet (Deorro Remix)"
+artist  - "Timmy Trumpet"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Deorro - Offspring.m4a
+title   - "Offspring"
+artist  - "Deorro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Jay Eskar - Awakening.m4a
+title   - "Awakening"
+artist  - "Jay Eskar"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Wildcard.mp3
+title   - "Wildcard"
+artist  - "KSHMR, Sidnie Tipton"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+INTERCOM - Truth and Malice [Monstercat Release].m4a
+title   - "Truth and Malice"
+artist  - "INTERCOM"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+SWACQ - Ox.m4a
+title   - "Ox"
+artist  - "SWACQ"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+LOCO.m4a
+title   - "Loco"
+artist  - "NERVO, Danny Avila, Reverie"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dimitri Vegas & Like Mike vs Ummet Ozcan - The Hum (Radio Edit).m4a
+title   - "The Hum"
+artist  - "Dimitri Vegas & Like Mike, Ummet Ozcan"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Danger Zone.m4a
+title   - "Danger Zone"
+artist  - "JETFIRE, ELSO"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Contiez Feat. Treyy G - Trumpsta (Djuro Remix) [Safari Music].m4a
+title   - "Trumpsta (Djuro Remix)"
+artist  - "Contiez, Treyy G"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dillon Francis & NGHTMRE - Need You.m4a
+title   - "Need You"
+artist  - "Dillon Francis, NGHTMR"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+SKRILLEX - Bangarang feat. Sirah [Official Music Video].m4a
+title   - "Bangarang"
+artist  - "Skrillex, Sirah"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Fix You (Original Mix).mp3
+title   - "Fix You"
+artist  - "Vicetone"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Borgeous - Invincible (Lyrics) HD 1080.m4a
+title   - "Invicible"
+artist  - "Borgeous"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Sad Story (Out Of Luck).mp3
+title   - "Sad Story (Out of Luck)"
+artist  - "Merk & Kremont"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Triplet (Instrumental Extended Mix).mp3
+title   - "Triplet (Instrumental Extended Mix)"
+artist  - "Kaaze"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+Senses Overload.mp3
+title   - "Senses Overload"
+artist  - "Teminite, Psognar"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Darren Styles, Gammer & Dougal - Burning Up [Monstercat Release].m4a
+title   - "Burning Up"
+artist  - "Darren Styles, Gammer, Dougal"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KSHMR & KAAZE - Devil Inside Me (feat. KARRA) [Official Audio].m4a
+title   - "Devil Inside Me"
+artist  - "KSHMR, KAAZE, Karra"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+___House___Tom Swoon, Lush & Simon - Ahead Of Us.m4a
+title   - "Ahead Of Us"
+artist  - "Tom Swoon, Lush & Simon"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Timmy Trumpet & Savage - Freaks (Radio Edit).m4a
+title   - " Freaks"
+artist  - "Timmy Trumpet, Savage"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dimatik, Vavo, Redhead Roman- Afterworld!.m4a
+title   - "Afterworld"
+artist  - "Dimatik, Vavo, Redhead Roman"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Reece Low & Chardy - Devils Bells [Premiere].m4a
+title   - "Devils Bells"
+artist  - "Reece Low, Chardy"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dimitri Vegas, Like Mike & Steve Aoki vs Ummet Ozcan - Melody.m4a
+title   - "Melody"
+artist  - "Dimitri Vegas & Like Mike, Steve Aoki, Ummet Ozcan"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Sefa & Dr. Peacock - World Of The Dream (Official Video).m4a
+title   - "World Of The Dream"
+artist  - "Sefa, Dr. Peacock"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dirty Palm & Conor Ross - Flowers.m4a
+title   - "Flowers"
+artist  - "Dirty Palm, Conor Ross"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+MONSTA - HOLDING ON [SKRILLEX REMIX] [DUBSTEP 2013] ft. NERO.m4a
+title   - "Holdin' On (Skrillex & Nero Remix)"
+artist  - "Monsta"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Julian Calor - Adventures [Monstercat Release].m4a
+title   - "Adventures"
+artist  - "Julian Calor"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Kayzo - This Time [Monstercat Release].m4a
+title   - "This Time "
+artist  - "Kayzo"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Seth Hills - Infinite.m4a
+title   - "Infinite"
+artist  - "Seth Hills"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+The Spectre.mp3
+title   - "The Spectre"
+artist  - "Alan Walker"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Simon Skylar - Arsenic [Free].m4a
+title   - "Arsenic"
+artist  - "Simon Skylar"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+RIOT - Disorder [Monstercat Release].m4a
+title   - "Disorder"
+artist  - "RIOT"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Timmy Trumpet & Kastra - Wassup (Listen To The Horns) feat. Chuck Roberts [Offic.m4a
+title   - "Wassup (Listen To The Horns)"
+artist  - "Timmy Trumpet & Kastra, Chuck Roberts"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+DVBBS & VINAI - Raveology (Official Video).m4a
+title   - "Raveology"
+artist  - "DVBBS, VINAI"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Brooks - If Only I Could.m4a
+title   - "If Only I Could"
+artist  - "Brooks"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Hatsune Miku - Senbonzakura (Frontliner Remix) - AMV.m4a
+title   - "Senbonzakura (Frontliner Remix)"
+artist  - "Hatsune Miku"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KUURO - Possession [Monstercat Release].m4a
+title   - "Possession"
+artist  - "KUURO"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Tristam - Bone Dry [Monstercat Release].m4a
+title   - "Bone Dry"
+artist  - "Tristam"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank - The Pressure.mp3
+title   - "The Pressure"
+artist  - "Stonebank"
+album   - "Monstercat 022: Contact"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/YrUk/dtkUqIJEBgavGtAOBUXRmzAoGoqDoQlrEQXHkCLjb86+v6OxIdlvGDbEq25YTs1sZi/asFDnwt8152Z1aecMt6KAqNH/HPn5fKpBSs72Z6abdx9cn4lsAGVi5luXJblX3EemWDRj/BHGQchIB3Xh98Y/1haHE1ADPqaMWR56B98fR+yq7FznTZGZIHL2e4Da0snodbZj6zsoIW+UNSbwDbmEdPgnptx2hdQsymkZSJqlLXMrL7EkFi86iUWGqrbMLBGqObzXBtAusdWyFz/x0PAjgFcCkPfn1VN32E+dpGuJTgNQFT6rzm+2cOrjVX1T9Oufj2n9gutEiiBRZR/ToIBmUzVv4zUzlK/7NzsymCI2YxB8B2iiXrE05GeeZniVqbChCyXslfAoUAAx+nh2cnN4cxuJVVWqaF5f1NUSDUOdQs/wsI/zc0Murh+wkvk2gLVKIpy/FZHTdnr4mHi5SBa6ZZOOEytsgT6IMq6fbfqCNjosc7Tkag8hHuPWDAsNB38AKk9FlEDlL43YWtgjLYaFvUqtcXOUZWK9SdUZzkD7RRMCeDkBWxVrcKLbENnTXc0f3VvSABkBCtzpXUa/hTSH7iBAn3xfBOlWoLFxk2R1Z7zBO7tg74B462NiRDOcjLR+GgTh3Z6dIxt0T167ZEvGvbtiqtajnyZqmPMcnvOEQCgVRK4wRn+le3NvdWmCp9wUyKu5pBPntG4Gc="
+track   - "14"
+genre   - ""
+
+#############################
+
+Bassjackers  MAKJ - DERP (Bass Boosted).m4a
+title   - "Derp"
+artist  - "Bassjackers, MAKJ"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Gammer - Needed U [Monstercat Release].m4a
+title   - "Needed U"
+artist  - "Gammer"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Wisp X - Crimson (ft. Hatsune Miku).m4a
+title   - "Crimson"
+artist  - "Wisp X, Hatsune Miku"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Good Life (Original Radio Edit).m4a
+title   - "Good Life"
+artist  - "Marvin"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Matt Watkins - Africa.m4a
+title   - "Africa"
+artist  - "Matt Watkins"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Riverside (Reloaded).mp3
+title   - "Riverside (Reloaded)"
+artist  - "Tujamo, Sidney Samson"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Dimitri Vegas & Like Mike vs. Nicky Romero - Everybody Clap.m4a
+title   - "Everybody Clap"
+artist  - "Dimitri Vegas & Like Mike, Nicky Romero"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Pegboard Nerds - Supersonic (feat. Chimeric) [Monstercat Release].m4a
+title   - "Supersonic"
+artist  - "Pegboard Nerds, Chimeric"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Riggi & Piros - Knightlife (Extended Mix).mp3
+title   - "Knightlife (Extended Mix)"
+artist  - "Riggi & Piros"
+album   - "Knightlife (Extended Mix)"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/Vuw73pbxGtWzOu/yUogMgPjXefnVza00n4VInI2HfmdBfjG9YYdVGXLxahru8QkBW9bQeftyPRj/wdRRDX5UbWz4brTwILb9OEEaEaxZ2rqAu2o8IxJq6yUWXK9ADiAg9GAqAsQk1yolB0S2AIs8/5MVGPrj9lpdd+DTL9l5Osr2YcaxULaji0BV1PEFM61+NifjSAG2Iqhf/CQfp//rpmxsWhTEqogAIfFmqP9RB2FnWxNCAy2lWLJWLHRMtWvSVuI+/SdSAWlW/0Gpa8W1Hwxh0+MFwwKfLKold9/yS1h8cY46N0y4PxCpwkltXhE23Vm1BhfXPVKNLu9SzVIWsZ+mVMvPRLeZALBBVIgSXT19JXBezGTbZScSX4tpoJ+epOD2ZHFX3FnM+pfrQoSSsW/3JKOXVF+Z3PdoFPvDVhd6HILYbO3GobQB29MS9QUQo4aFBYP+jxGnDUWVoD8XpoTe9ELHYqFTfe0/I1fiBsp0rvMyfiqm/iHT1GI9x0+aC+bE/M/Mkip7g67E1XM168pBrO8kvOBULVwzR36SdezC3tIZQd4DneGbmFLHhWkdtBmoHVsJafhK4g3jFVdezYpGceBg3MBWgUOUL8gTi8l4mT1ixx1k/hXkvm4cEcv3D9FTZgf8iw3CAsNKkkfeHMnZXTGCcLFiyG+cBF3+QmkXEGLbNbWpsGz7DUFmM8CwfjN8ndElKvt3bz63kZfGbvzIkApPQ2hI/AoAJ105mn4"
+track   - "1"
+genre   - ""
+
+#############################
+
+Merk & Kremont - CIAO (Official Music Video).m4a
+title   - "Ciao"
+artist  - "Merk & Kremont"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+R3HAB & Icona Pop - This Is How We Party (Cat Dealers Remix).m4a
+title   - "This Is How We Party (Cat Dealers Remix)"
+artist  - "R3HAB, Icona Pop"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Stonebank Emel - Stronger.mp3
+title   - "Stronger"
+artist  - "Stonebank, EMEL"
+album   - "Monstercat 021 - Perspective"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/URnaLdn7GKcS15RdVQmPbRUXRmzAoGoqDoQlrEQXHkClLT5bOaW895Jj44kp4y7dkhYmJRWKzTdRdxY8oOkaB2E7NbGYv2rBQ58LfNedmdW+7ER8nnHAH63Z3vBJosIH4ohS7eoQK8Ds2bXlbf6MpVJB3qprFhVSbNc93TbHq1C0gDHpWLXjYAxAHtTpYhjfn/TZibPsAWTpE8IKCDTN8yqg9T6sV4wDYvY1oB1teVRXVgzVd2aL4jK8Oaz9E+wuuElwJeEerAxinUrCAin1xX1AkbXwwoq5rrBd5mEpkgod2n+7bKymt30rHuu9Mbkmi7B0DBQg2Ak5LtFeY5SYwG+LU6o0OUw/PUGFcvfVemVbdQZFgHj+Ks2XnH9r5hUcvxGpFknFybukNs+MSKxWG/XKqX+36plLHFhduLIiVzw+t9l8ne4hEtVigkgMn5NMhZSZYMhQ8sn19zjPQzTaAD0aSeSohO8lDP0v0gK4FkqYXuCA29Wd61jQntffnz/rF/GPYZAcqVry7vjeNFV4vLce9O2xjs3Ar4i/onKifbDYT8JEQkHUt1aR61y8kaUKF8wyisGnr14cij9VSsiBcsUjL5cLt35ThO9qButtk2U31kvQ76bhoVQaXqus3/XXsHKTzuZ/2motLsgf9E9dkjVderJkRl4s5E5ZmoEIFjKg5C2Rd5GxuvMyRD6b9m3DuLY08H9O13Yv259Zq63fl+IadB9tQy60i20tVM5uS9+"
+track   - "3"
+genre   - ""
+
+#############################
+
+Mia Vaile & James Mercy - Wildfire.m4a
+title   - "Wildfire"
+artist  - "Mia Vaile, James Mercy"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Neon Giants - Speedo (Bombs Away Remix)(1).m4a
+title   - "Speedo (Bombs Away Remix)"
+artist  - "Neon Giants"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - "Melbourne Bounce"
+
+#############################
+
+Monstercat Uncaged - Vol. 1 (Album Mix).mp3
+title   - "Uncaged Vol. 1"
+artist  - "Monstercat"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+NIVIRO - Nandaka.m4a
+title   - "Nandaka"
+artist  - "Niviro"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+SLANDER & Crankdat - Kneel Before Me (feat. Asking Alexandria) [Monstercat x Sum.m4a
+title   - "Kneel Before Me"
+artist  - "SLANDER, Crankdat, Asking Alexandria"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Sophie Francis - Annihilate (Original Mix).mp3
+title   - "Annihilate"
+artist  - "Sophie Francis"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+04 Demon Eyes.mp3
+title   - "Demon Eyes"
+artist  - "Blasterjaxx"
+album   - "XX Files EP"
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "4"
+genre   - ""
+
+#############################
+
+Sebastian Ingrosso Tommy Trash John Martin - Reload.mp3
+title   - "Reload"
+artist  - "Sebastian Ingrosso, Tommy Trash, John Martin"
+album   - "The Dome Summer 2013"
+year    - "2013"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/abVA+09JToGdcnf7qNpSD7pC0vH412j2gzQcil9flzbZkFAvvYwRXymdhv5IQc7BNWC1paZmK9bOhio/O24vyGKz/YDMqKO/WqWnC7zQgyyQAnU3UhKoA9idGDtF/a1mYqTcQgwo+nWrelMTWfzIEcIFyFk25+sBSsA2mk45Tbo5ITx1xdZIS51h2s3tX9rRA3sJMsZatvOL1ao1riOzq5Xjln+WznkOa0XpBSGYU0HE5SsXyRlCp1EBmxPatiOD8gfAgSlijqpZc+HrKJaStkcRe6R23+BjezRLSjzF17vmSN83C5lXBQP+Ee5vmemOprJE6ViPGO1nKCNf87kO62GOWF45WPii1rgpv9Ns1gTi2+WDBpIUi9G6Lnhuc6jIwvqPPnkjCTevOEWs6M0T5yVui82OH6gUL/naHuiKNOje//6/gDlNTe+FqO/tNbvxfgVjKcB/rj0jCQmFIjC8gFf2gpnK8EqNcxuA2BruMfJ7esipvA37Jr4Gz1AflLEwnW9RgotbCBohXPwuZUuuO42xmDH3c9nVf6jX4MnWZhCb1UMXz0xVgseCrurs3yTMTkU18mgsfsIA9ZivIFtRrgLa+DnCqCMQjifHZYxfFkcAdFr7Tph0TKiyhacxLmytxSMvlwu3flOE72oG622TZQGg8IkJdEHFw77BcjrB+5hwcpPO5n/aai0uyB/0T12SBRMtcxA/ccjpVfc/o359W5W3UJ3JX1EcT1ASrcBcVodFZZ52KXUrjyWMDjiJpZMnnXUn5JlnSFSYr/CyhrdGwc="
+track   - "29"
+genre   - "Pop"
+
+#############################
+
+Futuristic Polar Bears x Junior Mylok & Love Letters - CNTRL.m4a
+title   - "CNTRL"
+artist  - "Futuristic Polar Bears , Junior Mylok, Love Letters"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Meg & Dia - Monster (DotEXE Dubstep Remix).m4a
+title   - "Monster (DotEXE Remix)"
+artist  - "Meg & Dia"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Paris & Simo Jakko Paul Aiden - Here Tonight.mp3
+title   - "Here Tonight"
+artist  - "Paris & Simo, Jakko, Paul Aiden"
+album   - "Here Tonight"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/YTeAbpDp4YqhxGhACLKUJ4rwda4cfTx8CCwn0YzGnU45KbXkYDMAPgmwZtmZsC/dK1xF+T489CMhJGpvC6NBz4izlVV4eqsVjjKDybtzT5wJjvdx5wlEuL8EN5X2L/2j3OeiSHnNDyrijUyT6JEAe16wxOXWPkDjhzKOZ+dfxhIrR0DbXlRGZ3OG7gb0kWDWhmyI4OvTsXSfGoN2X3hkrXnoH3x9H7KrsXOdNkZkgcvPJ5v+nQTRchHaP+PjzRUpxiywycbEQkMlsqqn+7GioJ3Hh6bhWfuR8XvLWKKTxp6qxEvBMrEwQakYEXxDjiGum7rI/sX7SYGWbfiXnrJJdqFuerd7GJff7ByQDoIEh/tO64sgSPWr8Io/y6WPyFtNFH9OggGZTNW/jNTOUr/s3OzKYIjZjEHwHaKJesTTkZ5GicUOUtL4tA5MTuP3VbMN6eHZyc3hzG4lVVapoXl/U1RINQ51Cz/Cwj/NzQy6uH7SwuYO7qgJy6//2PexcxjFUqXDdFsAb7c8TV5Z5oaSw3p9t+oI2OixztORqDyEe49DIpOqkBeyafLvkoYhNRWa6oX9XG5Ax0GybjUTOvhC6HUHv/gFkLyPXSGlBI4PpLcsQ2dNdzR/dW9IAGQEK3OlffKA+Mog40rsdtAO/MwpwYXGTZHVnvME7u2DvgHjrY2e3fWMTODhgUygMBAt7IpBg9Gu1UHMCADlN8nT2mEQ1cwf0Wlp4AVQN83z3zAJWO391aYKn3BTIq7mkE+e0bgZw=="
+track   - "1"
+genre   - ""
+
+#############################
+
+FWLR - Hot [Monstercat Release].m4a
+title   - "Hot"
+artist  - "FWLR"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Boomshakalak (feat. The Kemist).mp3
+title   - "Boomshakalak"
+artist  - "Mr. Black, Diego Miranda, The Kemist"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Jewelz & Sparks - I Can Fly (Extended Mix).mp3
+title   - "I Can Fly (Extended Mix)"
+artist  - "Jewelz & Sparks"
+album   - "I Can Fly"
+year    - "0"
+comment - "163 key(Don't modify):L64FU3W4YxX3ZFTmbZ+8/bzGLuf/Bhsv2VMrnOBqktpQ7RFwd+aTpGWlC1fWulF52PTMhvc9G4cQHjQv2UCfmrR2qFYhbQBSJhM2CsYeIn1p2YCiKOZKOC09AzLKsT/cXGUySqABagYS1IZSIT4zakxUY+uP2Wl134NMv2Xk6yttmhxl6BMqdaqhZwi8J9uEhSDkTA7Sswsq2ykdy2pF4UdhZoHakJp+CXPLiMAycsGL+UvZcOo1Tld88oowi5uYSbtlOiSSO/b5e+TKZDoq/HqpFU5P52uVPAfmkk0q3IgDalkjsFUuU1fvXjSI8rSj3WkptKIuiUmCpBSANSvEtmyjhBmWfCcziySXglQQ/TJ2EPAyjYinBGISWG5jbrfLQ0DVTPligMtdMQ4xpQk+SHVF5CMmLvtJUktHQq+cNeb3mlS/6AipRR/Fx490HPJZc4GQdOMfdyf5IkJ6Fb9BlGOIehnJ80oc/KGIG5TGFI5M/6Kn5uK+3YKFacWXLi/2aWyU0kXNYvzEMIU6UACKf2r+5oTJbheP31qpXC/jsvuJPzd4KzwHGl0C4JqBluSQBQ/IizcjKPeR8VsT8ETjnEklAsxsT0+bEIp9z9Q9y+K+dh6Bu9qwjH1tLQ8jNdri4WPRr4/yMj2TllCWNnVPJzIjuzbdQ4GDScZ/jCtPMRiv8S21qf6EjnA7/BADW65+j9hIUeXZx7UbCsfcoVEe1unPbQPoSWTqCLH87Lr28Sw="
+track   - "1"
+genre   - ""
+
+#############################
+
+[Dubstep] - Pegboard Nerds & MIU - Weaponize [Monstercat Release].m4a
+title   - "Weaponize"
+artist  - "Pegboard Nerds, MIU"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone ft. Kat Nestel - Nothing Stopping Me (Lyric Video) [Premiere].m4a
+title   - "Nothing Stopping Me"
+artist  - "Vicetone, Kat Nestel"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Apollo - Hardwell ft. Amba Shepherd _ Lyrics.m4a
+title   - "Apollo"
+artist  - "Hardwell, Amba Sheperd"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+DYRO X LOOPERS - SET ME FREE [OUT NOW].m4a
+title   - "Set Me Free"
+artist  - "Dyro, Loopers"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Let's Rock (Revolvr Remix).mp3
+title   - "Let's Rock (Revolvr Remix)"
+artist  - "Far Too Loud"
+album   - ""
+year    - "0"
+comment - "Downloaded with Fildo"
+track   - "0"
+genre   - ""
+
+#############################
+
+[Dubstep] - Au5 - Snowblind (feat. Tasha Baxter) [Monstercat Release].m4a
+title   - "Snowblind"
+artist  - "Au5, Tasha Baxter"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+[Progressive] - John Christian ft. Eric Lumiere - Brothers.m4a
+title   - "Brothers"
+artist  - "John Christian, Eric Lumiere"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Vicetone - Nevada (ft. Cozi Zuehlsdorff).m4a
+title   - "Nevada"
+artist  - "Vicetone, Cozi Zuehlsdorff"
+album   - ""
+year    - "2016"
+comment - ""
+track   - "0"
+genre   - "Electronic"
+
+#############################
+
+Dua Lipa - New Rules (Vicetone Remix).m4a
+title   - "New Rules (Vicetone Remix)"
+artist  - "Dua Lipa"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+FOLLOW YOU FEAT. DEVIN OLIVER.mp3
+title   - "FOLLOW YOU"
+artist  - "Kayzo, Devin Oliver"
+album   - "OVERLOAD"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+KUURO - Swarm [Monstercat Release].m4a
+title   - "Swarm "
+artist  - "KUURO"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Knife Party - 'Bonfire'.m4a
+title   - "Bonfire"
+artist  - "Knife Party"
+album   - "Rage Valley"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+SHIVA.m4a
+title   - "SHIVA  "
+artist  - "KSHMR, Marnik, The Golden Army"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Trump It.mp3
+title   - "Trump It"
+artist  - "Gianluca Vacchi"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Unlike Pluto - Everything Black (feat. Mike Taylor) [Monstercat Release].m4a
+title   - "Everything Black"
+artist  - "Unlike Pluto, Mike Taylor"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Varien - My Prayers Have Become Ghosts [Monstercat EP Release].m4a
+title   - "My Prayers Have Become Ghosts"
+artist  - "Varien"
+album   - "My Prayers Have Become Ghosts EP"
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+JETFIRE & Qulinez ft. Karmatek - I Feel.m4a
+title   - "I Feel (Happy)"
+artist  - "JETFIRE, Qulinez, Karmatek"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Wonderful Days.m4a
+title   - "Wonderful Days"
+artist  - "Cuebrick"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+
+#############################
+
+Marshmello - Alone.m4a
+title   - "Alone"
+artist  - "Marshmello"
+album   - ""
+year    - "0"
+comment - ""
+track   - "0"
+genre   - ""
+

@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "ProgressBar_autogen"
   "CMakeFiles/ProgressBar_autogen.dir/AutogenOldSettings.txt"
+  "core_autogen"
+  "CMakeFiles/core_autogen.dir/AutogenOldSettings.txt"
   "CMakeFiles/ProgressBar_autogen"
   "ProgressBar_autogen/mocs_compilation.cpp"
 )

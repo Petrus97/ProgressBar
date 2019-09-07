@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/ale19/CLionProjects/ProgressBar/cmake-build-debug
 include CMakeFiles/ProgressBar_autogen.dir/progress.make
 
 CMakeFiles/ProgressBar_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target ProgressBar"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target ProgressBar"
 	/home/ale19/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -E cmake_autogen /home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar_autogen.dir/AutogenInfo.cmake Debug
 
 ProgressBar_autogen: CMakeFiles/ProgressBar_autogen

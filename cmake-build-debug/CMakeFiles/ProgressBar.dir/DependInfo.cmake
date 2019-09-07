@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/ale19/CLionProjects/ProgressBar/AbstractSubject.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/AbstractSubject.cpp.o"
   "/home/ale19/CLionProjects/ProgressBar/Button.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/Button.cpp.o"
   "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/ProgressBar_autogen/mocs_compilation.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/ProgressBar_autogen/mocs_compilation.cpp.o"
   "/home/ale19/CLionProjects/ProgressBar/ProgressDialog.cpp" "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/ProgressBar.dir/ProgressDialog.cpp.o"
@@ -22,6 +23,8 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "."
+  "../"
   "ProgressBar_autogen/include"
   "/usr/local/include/taglib"
   "/opt/Qt/5.12.4/gcc_64/include"
@@ -33,6 +36,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/ale19/CLionProjects/ProgressBar/cmake-build-debug/CMakeFiles/core.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

@@ -13,5 +13,5 @@ ShowButton::ShowButton(QWidget *parent) : QPushButton(parent){
 
 //open default editor to show the result
 void ShowButton::showResult() {
-    QDesktopServices::openUrl(QUrl("file:/home/ale19/CLionProjects/ProgressBar/result/metadata.txt"));
+    QDesktopServices::openUrl(QUrl("../result/metadata.txt"));
 }

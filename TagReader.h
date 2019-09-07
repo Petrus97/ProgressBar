@@ -17,17 +17,28 @@ class TagReader : public AbstractSubject{
 public:
     TagReader();
 
-    //void getMetadata(std::string source = nullptr);
     void getMetadata();
-    int getNFiles();
+    
+    static int getNFiles();
+    
+    void setSource(const std::string &source);
+    
+    const std::string &getSaveFileLocation() const;
 
-    virtual ~TagReader() override;
+    void setSaveFileLocation(const std::string &saveFileLocation);
+
+    ~TagReader() override;
+
+private:
+    bool isPathExist(const std::string &s);
+    
 private:
     std::string source;
+    std::string save_file_location;
     DIR *dir;
     struct dirent *files;
     TagLib::List<TagLib::FileRef> fileList;
-    int n_files;
+    static int n_files;
 };
 
 

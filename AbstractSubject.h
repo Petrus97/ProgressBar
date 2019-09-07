@@ -25,7 +25,7 @@ public:
         }
     };
 
-    virtual ~AbstractSubject()= default;
+    virtual ~AbstractSubject() = 0;
 
 
 
