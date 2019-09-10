@@ -5,10 +5,9 @@
 #include "TagReader.h"
 #include <fstream>
 #include <unistd.h>
-#include <sys/stat.h>
 
 TagReader::TagReader(){
-    this->source = "/home/ale19/Musica/Music/";
+    this->source = "../Music/";
     this->save_file_location = "../result/metadata.txt";
     this->files = nullptr;
     this->dir = nullptr;
@@ -71,9 +70,21 @@ void TagReader::setSource(const std::string &source) {
         std::cerr << "Path not found" <<std::endl;
 }
 
-bool TagReader::isPathExist(const std::string &s) {
-    struct stat buffer;
-    return (stat (s.c_str(), &buffer) == 0);
+bool TagReader::isPathExist(const std::string &path) {
+    std::cout << "Path send:   " << path << std::endl;
+    const char* c_path = path.c_str();
+    if(c_path == nullptr)
+        return false;
+    DIR* pathDir;
+    bool exist = false;
+    pathDir = opendir(c_path);
+    //std::cout << "opendir: " << c_path << pathDir << std::endl;
+    //std::cout << (pathDir != nullptr?"TROVATA":"NON TROVATA") << std::endl;
+    if (pathDir != nullptr) {
+        exist = true;
+        closedir(pathDir);
+    }
+    return exist;
 }
 
 const std::string &TagReader::getSaveFileLocation() const {
